@@ -1,0 +1,88 @@
+---
+title: "WebscrapingESPN"
+author: "Caleb Christensen"
+date: "2024-01-26"
+output: html_document
+---
+
+
+
+#Webscraping historical articles via internetArchive and archiveRetriever package.
+
+```{r, eval=FALSE}
+install.packages("archiveRetriever", force = TRUE)
+library(archiveRetriever)
+```
+
+
+## archive_overview allows you to check if internetarchive has captures available of a specific webpage for a range of dates. 
+
+```{R}
+library(archiveRetriever)
+
+
+#check if data is available on espn's nfl page for october through december 2017
+espn_overview <- archive_overview(homepage = "https://www.espn.com/nfl/",
+                     startDate = "2017-10-01",
+                     endDate = "2017-12-31")
+```
+
+
+
+```{r pressure, echo=FALSE}
+espn_overview
+```
+## Once it is known that webpages are available in your desired date range retrieve_urls allows you to collect webarchive urls for each of these days to later use for webscraping. (Webarchive sometimes saves mementos more than once a day but to avoid repeated data this function will ignore multiples for a given day)
+```{r}
+espn_mementos <- retrieve_urls(homepage = "https://www.espn.com/nfl/",
+                     startDate = "2017-10-01",
+                     endDate = "2017-10-10")
+
+espn_mementos[1:10]
+```
+```{r}
+
+#This will show you the sub-pages urls for a given website such as espn.com
+espn_links <- retrieve_links(ArchiveUrls = "https://web.archive.org/web/20201003005130/https://www.espn.com/", ignoreErrors = TRUE)
+
+head(espn_links)
+```
+##This is the main function of archiveRetriever. scrape_urls takes the urls collected earlier with the retrieve urls function then you need to specify the path of the website object you want to take data from (it takes xpaths as the defualt) in this case I gave it a headline object. 
+```{r}
+espn_headline <- scrape_urls(c(Urls =espn_mementos),
+paths <- c(
+  headlines = '//*[@id="main-container"]/div/section[3]/div[1]/section/ul/li[1]/a'
+  
+),
+
+archiveDate = TRUE,
+
+  
+  
+  
+)
+
+
+```
+
+
+```{r}
+head(espn_headline,10)
+```
+##notice it doesn't always find anything in the location specified so there are sometimes gaps. But if it misses 10 in a row it will stop so you can fix it.
+```{r}
+my_df <- as.data.frame(espn_headline)
+```
+```{r}
+View(my_df)
+```
+```{r}
+#write.csv(my_df, "~/R_files\\sample_headlines_espn1.csv", row.names=FALSE)
+```
+
+
+
+
+
+
+
