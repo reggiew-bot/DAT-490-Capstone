@@ -1,0 +1,1428 @@
+"","Date","Home_Team","Away_Team","Home_Odds_Close","Home_Odds_Open","Away_Odds_Open","Away_Odds_Close","Home_Score","Away_Score","sentiment_past_week_home","sentiment_past_week_away"
+"1",2022-02-13,"Cincinnati Bengals","Los Angeles Rams",2.8,2.65,1.54,1.45,20,23,1.23382816184312,0.0751105691306293
+"2",2022-01-30,"Los Angeles Rams","San Francisco 49ers",1.57,1.58,2.5,2.55,20,17,0.939055452123284,1.002301864326
+"3",2022-01-30,"Kansas City Chiefs","Cincinnati Bengals",1.29,1.31,3.6,3.7,24,27,-0.640933571150526,0.727999001741409
+"4",2022-01-23,"Kansas City Chiefs","Buffalo Bills",1.74,1.76,2.1,2.15,42,36,-0.836742212995887,0.862374886870384
+"5",2022-01-23,"Tampa Bay Buccaneers","Los Angeles Rams",1.66,1.66,2.3,2.3,27,30,0.452804014319554,0.987093029543757
+"6",2022-01-22,"Green Bay Packers","San Francisco 49ers",1.38,1.44,2.85,3.15,10,13,0,-1.35666484385729
+"7",2022-01-22,"Tennessee Titans","Cincinnati Bengals",1.47,1.57,2.55,2.75,16,19,1.81156598264351,-0.0680411579087377
+"8",2022-01-17,"Los Angeles Rams","Arizona Cardinals",1.58,1.5,2.7,2.5,34,11,0,0
+"9",2022-01-16,"Kansas City Chiefs","Pittsburgh Steelers",1.12,1.14,6,6.5,42,21,0,0.972207796759903
+"10",2022-01-16,"Dallas Cowboys","San Francisco 49ers",1.54,1.62,2.4,2.65,17,23,0,0.830398506950587
+"11",2022-01-16,"Tampa Bay Buccaneers","Philadelphia Eagles",1.27,1.25,4.2,3.8,31,15,0,0
+"12",2022-01-15,"Buffalo Bills","New England Patriots",1.45,1.47,2.75,2.8,47,17,0.525633782148361,-0.995989235118032
+"13",2022-01-15,"Cincinnati Bengals","Las Vegas Raiders",1.38,1.37,3.2,3.15,26,19,0,0
+"14",2022-01-09,"Las Vegas Raiders","Los Angeles Chargers",2.5,2.3,1.66,1.58,35,32,-1.69868024252355,0
+"15",2022-01-09,"Arizona Cardinals","Seattle Seahawks",1.43,1.35,3.3,2.9,30,38,0.235285416245461,0
+"16",2022-01-09,"Los Angeles Rams","San Francisco 49ers",1.58,1.4,3.1,2.5,24,27,0,-0.0465272590517998
+"17",2022-01-09,"Atlanta Falcons","New Orleans Saints",2.75,2.75,1.47,1.47,20,30,0,0
+"18",2022-01-09,"Baltimore Ravens","Pittsburgh Steelers",1.62,1.47,2.75,2.4,13,16,-0.521465539932251,-0.587050765752792
+"19",2022-01-09,"Buffalo Bills","New York Jets",1.07,1.07,9,9,27,10,0,-2.85579740395769
+"20",2022-01-09,"Cleveland Browns","Cincinnati Bengals",1.37,1.66,2.3,3.2,21,16,-0.493809620849788,0.81188140809536
+"21",2022-01-09,"Detroit Lions","Green Bay Packers",2.7,2.25,1.68,1.5,37,30,1.06624682992697,0
+"22",2022-01-09,"Houston Texans","Tennessee Titans",5.5,5,1.19,1.16,25,28,0,1.44716304633766
+"23",2022-01-09,"Jacksonville Jaguars","Indianapolis Colts",7.5,8,1.09,1.1,26,11,-0.972736863419414,-0.400652274489403
+"24",2022-01-09,"Miami Dolphins","New England Patriots",3.2,3.05,1.4,1.37,33,24,0,0
+"25",2022-01-09,"Minnesota Vikings","Chicago Bears",1.54,1.54,2.65,2.65,31,17,0,0
+"26",2022-01-09,"New York Giants","Washington Football Team",3.15,3.45,1.32,1.38,7,22,-0.891716711223125,-0.595704225241207
+"27",2022-01-09,"Tampa Bay Buccaneers","Carolina Panthers",1.19,1.25,4.2,5,41,17,1.2967713996768,0
+"28",2022-01-08,"Philadelphia Eagles","Dallas Cowboys",3.25,2.2,1.71,1.36,26,51,0.936035871272907,-0.245196287054569
+"29",2022-01-08,"Denver Broncos","Kansas City Chiefs",5.5,4.5,1.22,1.16,24,28,0.182938426733017,0.0993801965378225
+"30",2022-01-03,"Pittsburgh Steelers","Cleveland Browns",1.86,2.4,1.62,1.95,26,14,0,0
+"31",2022-01-02,"Green Bay Packers","Minnesota Vikings",1.13,1.34,3.35,6.25,37,10,1.39970858837478,0
+"32",2022-01-02,"Baltimore Ravens","Los Angeles Rams",3.6,2.4,1.62,1.31,19,20,0.0665109902620316,1.15320421848446
+"33",2022-01-02,"Dallas Cowboys","Arizona Cardinals",1.37,1.43,2.9,3.2,22,25,1.31061900407076,0
+"34",2022-01-02,"Seattle Seahawks","Detroit Lions",1.26,1.26,4,4,51,29,-2.51449906383641,0
+"35",2022-01-02,"Los Angeles Chargers","Denver Broncos",1.27,1.38,3.15,3.8,34,13,0,0.182938426733017
+"36",2022-01-02,"San Francisco 49ers","Houston Texans",1.13,1.08,8.5,6.25,23,7,-0.320410951972008,0
+"37",2022-01-02,"Buffalo Bills","Atlanta Falcons",1.09,1.11,7,8,29,15,0,0
+"38",2022-01-02,"Chicago Bears","New York Giants",1.34,1.37,3.2,3.35,29,3,0.804402619600296,-0.956535186152905
+"39",2022-01-02,"Cincinnati Bengals","Kansas City Chiefs",2.65,2.8,1.45,1.54,34,31,0,-0.337187372148037
+"40",2022-01-02,"Indianapolis Colts","Las Vegas Raiders",1.25,1.27,3.9,4.2,20,23,-1.23339681699872,0
+"41",2022-01-02,"New England Patriots","Jacksonville Jaguars",1.07,1.09,8,9,50,10,0,0.541464105248451
+"42",2022-01-02,"New Orleans Saints","Carolina Panthers",1.33,1.34,3.35,3.4,18,10,0,0
+"43",2022-01-02,"New York Jets","Tampa Bay Buccaneers",6.75,6.5,1.12,1.11,24,28,0,0.452950709674042
+"44",2022-01-02,"Tennessee Titans","Miami Dolphins",1.58,1.55,2.6,2.5,34,3,0,0
+"45",2022-01-02,"Washington Football Team","Philadelphia Eagles",3.15,2.4,1.62,1.38,16,20,-0.441298089921474,-1.29488744027913
+"46",2021-12-27,"New Orleans Saints","Miami Dolphins",2.5,1.62,2.4,1.58,3,20,1.76591461896896,0
+"47",2021-12-26,"Dallas Cowboys","Washington Football Team",1.2,1.2,4.75,4.75,56,14,-0.876082672737539,-0.958764568902552
+"48",2021-12-26,"Kansas City Chiefs","Pittsburgh Steelers",1.22,1.22,4.5,4.5,36,10,1.75592789798975,1.56540024653077
+"49",2021-12-26,"Las Vegas Raiders","Denver Broncos",1.9,1.9,1.9,1.9,17,13,-1.07326422631741,0
+"50",2021-12-26,"Seattle Seahawks","Chicago Bears",1.31,1.32,3.5,3.6,24,25,0.414512604475021,-0.165157824754715
+"51",2021-12-26,"Atlanta Falcons","Detroit Lions",1.26,1.47,2.75,4,20,16,0,0
+"52",2021-12-26,"Carolina Panthers","Tampa Bay Buccaneers",5,6,1.14,1.19,6,32,0,-2.48887081677094
+"53",2021-12-26,"Cincinnati Bengals","Baltimore Ravens",1.27,1.71,2.2,3.9,41,21,-0.658318337053061,-1.11191879212856
+"54",2021-12-26,"Houston Texans","Los Angeles Chargers",6,5,1.19,1.14,41,29,0,-0.933537177741528
+"55",2021-12-26,"Minnesota Vikings","Los Angeles Rams",2.55,2.4,1.62,1.57,23,30,-0.787344083189964,1.56148860231042
+"56",2021-12-26,"New England Patriots","Buffalo Bills",1.9,1.8,2.05,1.9,21,33,0,-0.821940273046494
+"57",2021-12-26,"New York Jets","Jacksonville Jaguars",1.74,1.76,2.1,2.15,26,21,-0.987984143954236,-1.75835491623729
+"58",2021-12-26,"Philadelphia Eagles","New York Giants",1.18,1.2,4.75,5.25,34,10,0.651058346033096,-1.97801576717757
+"59",2021-12-25,"Arizona Cardinals","Indianapolis Colts",1.6,1.8,2.05,2.45,16,22,0,0.0210273107513785
+"60",2021-12-25,"Green Bay Packers","Cleveland Browns",1.23,1.29,3.7,4.25,24,22,0.698085851967335,0.848369047045708
+"61",2021-12-23,"Tennessee Titans","San Francisco 49ers",2.5,2.5,1.58,1.58,20,17,0.809427604079247,0
+"62",2021-12-21,"Los Angeles Rams","Seattle Seahawks",1.27,1.3,3.65,3.8,20,10,1.59547683224082,0
+"63",2021-12-21,"Philadelphia Eagles","Washington Football Team",1.2,1.5,2.7,4.75,27,17,0.651058346033096,0
+"64",2021-12-20,"Chicago Bears","Minnesota Vikings",3.5,2.7,1.5,1.32,9,17,0,-0.787344083189964
+"65",2021-12-20,"Cleveland Browns","Las Vegas Raiders",2,1.37,3.2,1.83,14,16,-0.0634005665779114,1.37407611683011
+"66",2021-12-19,"Tampa Bay Buccaneers","New Orleans Saints",1.16,1.19,5,5.5,0,9,0,0.941959756426513
+"67",2021-12-19,"Baltimore Ravens","Green Bay Packers",4.2,3.3,1.35,1.25,30,31,-1.21303991228342,0.698085851967335
+"68",2021-12-19,"Denver Broncos","Cincinnati Bengals",1.64,1.83,2,2.35,10,15,0.660469578579068,-0.611229155212641
+"69",2021-12-19,"San Francisco 49ers","Atlanta Falcons",1.25,1.25,4.1,4.1,31,13,0.916390473023057,0
+"70",2021-12-19,"Buffalo Bills","Carolina Panthers",1.11,1.16,5.5,6.75,31,14,0.996362100384431,0
+"71",2021-12-19,"Detroit Lions","Arizona Cardinals",6,7,1.11,1.14,30,12,-0.854012825293466,0
+"72",2021-12-19,"Jacksonville Jaguars","Houston Texans",1.37,1.62,2.4,3.2,16,30,-2.33221375476569,0
+"73",2021-12-19,"Miami Dolphins","New York Jets",1.22,1.25,4.1,4.5,31,24,0.548314450308681,0
+"74",2021-12-19,"New York Giants","Dallas Cowboys",5.25,5,1.19,1.18,6,21,2.01616612152429,-1.46069845557213
+"75",2021-12-19,"Pittsburgh Steelers","Tennessee Titans",1.8,2.15,1.74,2.05,19,13,0,0.809427604079247
+"76",2021-12-18,"Indianapolis Colts","New England Patriots",1.8,1.83,2,2.05,27,17,0,-0.893459059298038
+"77",2021-12-16,"Los Angeles Chargers","Kansas City Chiefs",2.5,2.5,1.58,1.58,28,34,0.988058220595121,0.843704216182232
+"78",2021-12-13,"Arizona Cardinals","Los Angeles Rams",1.6,1.66,2.3,2.45,23,30,0,0
+"79",2021-12-12,"Green Bay Packers","Chicago Bears",1.14,1.13,6.25,6,45,30,0.687398806214333,0.602651298046112
+"80",2021-12-12,"Cincinnati Bengals","San Francisco 49ers",2.15,1.86,1.95,1.74,23,26,0,0.916390473023057
+"81",2021-12-12,"Tampa Bay Buccaneers","Buffalo Bills",1.57,1.58,2.5,2.55,33,27,0,0.996362100384431
+"82",2021-12-12,"Denver Broncos","Detroit Lions",1.15,1.26,4,5.75,38,10,0,-0.854012825293466
+"83",2021-12-12,"Los Angeles Chargers","New York Giants",1.23,1.18,5.25,4.25,37,21,1.96707158396021,0.848817945283372
+"84",2021-12-12,"Carolina Panthers","Atlanta Falcons",1.68,1.66,2.3,2.25,21,29,0.0224173595197499,0
+"85",2021-12-12,"Cleveland Browns","Baltimore Ravens",1.64,1.83,2,2.35,24,22,0.400667548179626,-0.923881277441978
+"86",2021-12-12,"Houston Texans","Seattle Seahawks",4.5,3.9,1.27,1.22,13,33,-0.903166197240353,0
+"87",2021-12-12,"Kansas City Chiefs","Las Vegas Raiders",1.22,1.22,4.5,4.5,48,9,0,-0.860244423151016
+"88",2021-12-12,"New York Jets","New Orleans Saints",2.75,3.15,1.38,1.47,9,30,0,-0.0732954442501068
+"89",2021-12-12,"Tennessee Titans","Jacksonville Jaguars",1.22,1.18,5.25,4.5,20,0,0.748777396976948,-1.04283417388797
+"90",2021-12-12,"Washington Football Team","Dallas Cowboys",3.3,2.75,1.47,1.35,20,27,-1.74322625249624,0.946740690618753
+"91",2021-12-09,"Minnesota Vikings","Pittsburgh Steelers",1.57,1.55,2.6,2.55,36,28,0.414101555943489,0.593421583995223
+"92",2021-12-06,"Buffalo Bills","New England Patriots",1.66,1.62,2.4,2.3,10,14,0,0
+"93",2021-12-05,"Kansas City Chiefs","Denver Broncos",1.23,1.22,4.5,4.25,22,9,0,0
+"94",2021-12-05,"Los Angeles Rams","Jacksonville Jaguars",1.12,1.14,6,6.5,37,7,-0.922708094818518,0
+"95",2021-12-05,"Pittsburgh Steelers","Baltimore Ravens",2.7,2.4,1.62,1.5,20,19,-0.385992573574185,0
+"96",2021-12-05,"Seattle Seahawks","San Francisco 49ers",2.3,2.25,1.68,1.66,30,23,1.69093785434961,-0.747630566358566
+"97",2021-12-05,"Las Vegas Raiders","Washington Football Team",1.76,1.74,2.15,2.1,15,17,-0.860244423151016,0
+"98",2021-12-05,"Atlanta Falcons","Tampa Bay Buccaneers",4.75,4.75,1.2,1.2,17,30,0,-1.7167351054959
+"99",2021-12-05,"Chicago Bears","Arizona Cardinals",3.8,3.65,1.3,1.27,22,33,-0.142761826515198,-0.271867819130421
+"100",2021-12-05,"Cincinnati Bengals","Los Angeles Chargers",1.71,1.71,2.2,2.2,22,41,0,0
+"101",2021-12-05,"Detroit Lions","Minnesota Vikings",3.6,3.55,1.31,1.31,29,27,0,-0.569458694197237
+"102",2021-12-05,"Houston Texans","Indianapolis Colts",4.5,4,1.26,1.22,0,31,-0.902032453101128,0
+"103",2021-12-05,"Miami Dolphins","New York Giants",1.34,1.68,2.25,3.35,20,9,0.994703084114008,-0.0738971084356308
+"104",2021-12-05,"New York Jets","Philadelphia Eagles",2.8,3.6,1.31,1.45,18,33,0.30911398679018,-0.092430614400655
+"105",2021-12-02,"New Orleans Saints","Dallas Cowboys",3.25,2.95,1.42,1.36,17,27,0.0265360623598099,-0.673332134785596
+"106",2021-11-29,"Washington Football Team","Seattle Seahawks",2.1,2.15,1.74,1.76,17,15,0,-0.992686462064739
+"107",2021-11-28,"Baltimore Ravens","Cleveland Browns",1.64,1.47,2.75,2.35,16,10,2.15625600935891,-0.949354317039251
+"108",2021-11-28,"Green Bay Packers","Los Angeles Rams",2.1,1.8,2.05,1.76,36,28,-0.289398445747793,-0.0540106743574142
+"109",2021-11-28,"San Francisco 49ers","Minnesota Vikings",1.5,1.71,2.2,2.7,34,26,0,-0.975745418807492
+"110",2021-11-28,"Denver Broncos","Los Angeles Chargers",2.3,2.05,1.8,1.66,28,13,0.963085317984223,0
+"111",2021-11-28,"Cincinnati Bengals","Pittsburgh Steelers",1.55,1.47,2.75,2.6,41,10,0,0.921210765838623
+"112",2021-11-28,"Houston Texans","New York Jets",1.66,1.62,2.4,2.3,14,21,0,-0.977935186121613
+"113",2021-11-28,"Indianapolis Colts","Tampa Bay Buccaneers",2.3,2.2,1.71,1.66,31,38,0,-0.741857495158911
+"114",2021-11-28,"Jacksonville Jaguars","Atlanta Falcons",2.05,1.95,1.86,1.8,14,21,0,0
+"115",2021-11-28,"Miami Dolphins","Carolina Panthers",2,1.9,1.9,1.83,33,10,0,0
+"116",2021-11-28,"New England Patriots","Tennessee Titans",1.33,1.4,3.1,3.4,36,13,0,-0.958510424941778
+"117",2021-11-28,"New York Giants","Philadelphia Eagles",2.7,2.55,1.57,1.5,13,7,-1.43644347880036,0.858160063624382
+"118",2021-11-25,"New Orleans Saints","Buffalo Bills",3.4,2.8,1.45,1.33,6,31,-0.937837108620442,-0.980284097837284
+"119",2021-11-25,"Dallas Cowboys","Las Vegas Raiders",1.31,1.31,3.6,3.6,33,36,-0.806805954314768,0
+"120",2021-11-25,"Detroit Lions","Chicago Bears",2.15,2.55,1.57,1.74,14,16,0.576318383216858,-0.937197867780924
+"121",2021-11-22,"Tampa Bay Buccaneers","New York Giants",1.18,1.16,5.5,5.25,30,10,-1.08585211553145,0
+"122",2021-11-21,"Los Angeles Chargers","Pittsburgh Steelers",1.4,1.54,2.65,3.05,41,37,0.595666725188494,2.34437461159541
+"123",2021-11-21,"Kansas City Chiefs","Dallas Cowboys",1.74,1.8,2.05,2.15,19,9,1.44614716991782,0.923594698309898
+"124",2021-11-21,"Seattle Seahawks","Arizona Cardinals",1.43,2.1,1.76,2.9,13,23,-0.982716419966891,-0.0205938862636685
+"125",2021-11-21,"Las Vegas Raiders","Cincinnati Bengals",2.1,1.95,1.86,1.76,13,32,0,0
+"126",2021-11-21,"Buffalo Bills","Indianapolis Colts",1.33,1.34,3.35,3.4,15,41,-0.980284097837284,0
+"127",2021-11-21,"Carolina Panthers","Washington Football Team",1.58,1.66,2.3,2.5,21,27,0.988594226742862,-0.987794158048928
+"128",2021-11-21,"Chicago Bears","Baltimore Ravens",2,3.2,1.37,1.83,13,16,-0.937197867780924,-0.700212370604277
+"129",2021-11-21,"Cleveland Browns","Detroit Lions",1.14,1.2,4.75,6,13,10,-0.982084251358174,0.178915977478027
+"130",2021-11-21,"Jacksonville Jaguars","San Francisco 49ers",3.3,2.95,1.42,1.35,10,30,-0.580791868502274,0.80178739503026
+"131",2021-11-21,"Minnesota Vikings","Green Bay Packers",2,2.25,1.68,1.83,34,31,0,2.04957283847034
+"132",2021-11-21,"New York Jets","Miami Dolphins",2.65,2.3,1.66,1.54,17,24,-2.37444947508629,0
+"133",2021-11-21,"Philadelphia Eagles","New Orleans Saints",1.66,1.8,2.05,2.3,40,29,0,-0.949524912983179
+"134",2021-11-21,"Tennessee Titans","Houston Texans",1.2,1.22,4.5,4.75,13,22,-1.60630054940702,0
+"135",2021-11-18,"Atlanta Falcons","New England Patriots",3.8,3.05,1.4,1.27,0,25,0,0
+"136",2021-11-15,"San Francisco 49ers","Los Angeles Rams",2.6,2.7,1.5,1.55,31,10,-0.96424699947238,-0.985610608942807
+"137",2021-11-14,"Las Vegas Raiders","Kansas City Chiefs",2.3,2.2,1.71,1.66,14,41,-0.443142703268677,0
+"138",2021-11-14,"Denver Broncos","Philadelphia Eagles",1.9,1.74,2.15,1.9,13,30,0,0.944832760840654
+"139",2021-11-14,"Green Bay Packers","Seattle Seahawks",1.55,1.4,3.05,2.6,17,0,-0.252884266432375,0.468784406781197
+"140",2021-11-14,"Arizona Cardinals","Carolina Panthers",1.3,1.2,4.75,3.65,10,34,-1.73570790141821,-1.07832452788716
+"141",2021-11-14,"Los Angeles Chargers","Minnesota Vikings",1.57,1.71,2.2,2.55,20,27,0,0
+"142",2021-11-14,"Dallas Cowboys","Atlanta Falcons",1.26,1.23,4.25,4,43,3,-0.389380061998963,0
+"143",2021-11-14,"Indianapolis Colts","Jacksonville Jaguars",1.2,1.2,4.75,4.75,23,17,0,0.309839186025783
+"144",2021-11-14,"New England Patriots","Cleveland Browns",1.71,1.74,2.15,2.2,45,7,-0.320209681987762,0.624763958156109
+"145",2021-11-14,"New York Jets","Buffalo Bills",6.5,6,1.14,1.12,17,45,0,1.35131193697453
+"146",2021-11-14,"Pittsburgh Steelers","Detroit Lions",1.4,1.22,4.5,3.1,16,16,0,-0.397402405738831
+"147",2021-11-14,"Tennessee Titans","New Orleans Saints",1.64,1.71,2.2,2.35,23,21,-0.641483958810568,-0.858401477336884
+"148",2021-11-14,"Washington Football Team","Tampa Bay Buccaneers",4.75,4.5,1.22,1.2,29,19,0,0.423929989337921
+"149",2021-11-11,"Miami Dolphins","Baltimore Ravens",4.2,3.75,1.28,1.25,22,10,0,0
+"150",2021-11-08,"Pittsburgh Steelers","Chicago Bears",1.32,1.37,3.2,3.5,29,27,0,0
+"151",2021-11-07,"Los Angeles Rams","Tennessee Titans",1.27,1.38,3.15,3.8,16,28,0.208089503023075,0.957441385835409
+"152",2021-11-07,"Kansas City Chiefs","Green Bay Packers",1.3,1.66,2.3,3.65,13,7,-0.988685218850151,1.00548308459111
+"153",2021-11-07,"San Francisco 49ers","Arizona Cardinals",1.41,2.25,1.68,3,17,31,1.90015398338437,0
+"154",2021-11-07,"Philadelphia Eagles","Los Angeles Chargers",1.9,2.3,1.66,1.9,24,27,-0.957321111112833,0
+"155",2021-11-07,"Baltimore Ravens","Minnesota Vikings",1.33,1.38,3.15,3.4,34,31,0,0
+"156",2021-11-07,"Carolina Panthers","New England Patriots",2.6,2.3,1.66,1.55,6,24,-0.831334859132767,-0.993593396851793
+"157",2021-11-07,"Cincinnati Bengals","Cleveland Browns",1.76,1.66,2.3,2.1,16,41,0,-0.0789785385131836
+"158",2021-11-07,"Dallas Cowboys","Denver Broncos",1.2,1.28,3.75,4.75,16,30,0.432619422674179,2.05618617270375
+"159",2021-11-07,"Jacksonville Jaguars","Buffalo Bills",8.5,7.5,1.1,1.08,9,6,0,0.735533684492111
+"160",2021-11-07,"Miami Dolphins","Houston Texans",1.54,1.31,3.55,2.65,17,9,-0.734497249126434,0
+"161",2021-11-07,"New Orleans Saints","Atlanta Falcons",1.33,1.44,2.85,3.4,25,27,-1.00730873644352,0
+"162",2021-11-07,"New York Giants","Las Vegas Raiders",2.35,2.4,1.62,1.64,23,16,0,0
+"163",2021-11-04,"Indianapolis Colts","New York Jets",1.19,1.19,5,5,45,30,0,1.07362405210733
+"164",2021-11-01,"Kansas City Chiefs","New York Giants",1.19,1.23,4.25,5,20,17,-0.988685218850151,0
+"165",2021-10-31,"Minnesota Vikings","Dallas Cowboys",1.47,2.15,1.74,2.75,16,20,0,-0.0427701771259308
+"166",2021-10-31,"Denver Broncos","Washington Football Team",1.47,1.58,2.5,2.75,17,10,1.10323191434145,-1.10854797810316
+"167",2021-10-31,"New Orleans Saints","Tampa Bay Buccaneers",2.7,2.8,1.45,1.5,36,27,0,0
+"168",2021-10-31,"Los Angeles Chargers","New England Patriots",1.52,1.4,3.1,2.67,24,27,-0.139992296695709,-0.668558966368437
+"169",2021-10-31,"Seattle Seahawks","Jacksonville Jaguars",1.5,1.54,2.65,2.7,31,7,1.64012551866472,0
+"170",2021-10-31,"Atlanta Falcons","Carolina Panthers",1.76,1.68,2.25,2.1,13,19,0,-0.697125581093132
+"171",2021-10-31,"Buffalo Bills","Miami Dolphins",1.08,1.12,6.5,8.5,26,11,0,0
+"172",2021-10-31,"Chicago Bears","San Francisco 49ers",2.8,2.7,1.5,1.45,22,33,-1.44672200828791,-0.768595844507217
+"173",2021-10-31,"Cleveland Browns","Pittsburgh Steelers",1.44,1.62,2.4,2.85,10,15,0,0
+"174",2021-10-31,"Detroit Lions","Philadelphia Eagles",2.45,2.55,1.57,1.6,6,44,-0.163967430591583,-0.108252296224236
+"175",2021-10-31,"Houston Texans","Los Angeles Rams",9,7.5,1.1,1.07,22,38,-0.161836234678049,0.900965575128794
+"176",2021-10-31,"Indianapolis Colts","Tennessee Titans",1.64,1.8,2.05,2.35,31,34,-0.797289177775383,0
+"177",2021-10-31,"New York Jets","Cincinnati Bengals",5.25,4.5,1.22,1.18,34,31,-0.859518811106682,0.965072274208069
+"178",2021-10-28,"Arizona Cardinals","Green Bay Packers",1.35,1.54,2.65,3.3,21,24,-2.09052808955312,0.96492151170969
+"179",2021-10-25,"Seattle Seahawks","New Orleans Saints",3.05,2.65,1.54,1.4,10,13,0,0
+"180",2021-10-24,"San Francisco 49ers","Indianapolis Colts",1.57,1.5,2.7,2.55,18,30,0.615831971168518,-0.797289177775383
+"181",2021-10-24,"Arizona Cardinals","Houston Texans",1.05,1.07,9,12.25,31,5,-0.594978496432304,-0.226538345217705
+"182",2021-10-24,"Tampa Bay Buccaneers","Chicago Bears",1.13,1.14,6,6.25,38,3,-1.72044859826565,-0.464042156934738
+"183",2021-10-24,"Los Angeles Rams","Detroit Lions",1.07,1.1,7.5,9.5,28,19,0.235152076929808,-0.988605502527207
+"184",2021-10-24,"Las Vegas Raiders","Philadelphia Eagles",1.86,1.62,2.4,1.95,33,22,0.947079208679497,0.459347859025002
+"185",2021-10-24,"Baltimore Ravens","Cincinnati Bengals",1.35,1.36,3.25,3.3,17,41,0.753656506538391,0
+"186",2021-10-24,"Green Bay Packers","Washington Football Team",1.23,1.22,4.5,4.25,24,10,0,0.0177365690469742
+"187",2021-10-24,"Miami Dolphins","Atlanta Falcons",2.05,1.9,1.9,1.8,28,30,0,-0.852680295705795
+"188",2021-10-24,"New England Patriots","New York Jets",1.3,1.33,3.4,3.65,54,13,0,0.23327362537384
+"189",2021-10-24,"New York Giants","Carolina Panthers",2.35,2.3,1.66,1.64,25,3,-0.866423909144942,-0.726438129204325
+"190",2021-10-24,"Tennessee Titans","Kansas City Chiefs",2.7,2.7,1.5,1.5,27,3,0,0
+"191",2021-10-21,"Cleveland Browns","Denver Broncos",1.76,1.42,2.95,2.1,17,14,-0.937397327274084,0
+"192",2021-10-18,"Tennessee Titans","Buffalo Bills",3.15,2.65,1.54,1.38,34,31,0,0
+"193",2021-10-17,"Pittsburgh Steelers","Seattle Seahawks",1.43,1.5,2.7,2.9,23,20,0,-2.63598117977381
+"194",2021-10-17,"Denver Broncos","Las Vegas Raiders",1.45,1.58,2.5,2.8,24,34,0,-0.502180486917496
+"195",2021-10-17,"New England Patriots","Dallas Cowboys",2.65,2.6,1.55,1.54,29,35,-0.714942187070847,-0.91801468655467
+"196",2021-10-17,"Cleveland Browns","Arizona Cardinals",1.68,1.62,2.4,2.25,14,37,0.0165436863899231,1.00286316600977
+"197",2021-10-17,"Baltimore Ravens","Los Angeles Chargers",1.62,1.57,2.55,2.4,34,6,0,0
+"198",2021-10-17,"Carolina Panthers","Minnesota Vikings",2.15,1.83,2,1.74,28,34,0,0
+"199",2021-10-17,"Chicago Bears","Green Bay Packers",2.9,2.85,1.44,1.43,14,24,-1.1299268763978,-0.996864784741774
+"200",2021-10-17,"Detroit Lions","Cincinnati Bengals",2.7,2.6,1.55,1.5,11,34,0,-0.177026346325874
+"201",2021-10-17,"Indianapolis Colts","Houston Texans",1.19,1.18,5.25,5,31,3,0.668354421854019,0
+"202",2021-10-17,"New York Giants","Los Angeles Rams",3.8,5.25,1.18,1.27,11,38,-0.981830031843856,0
+"203",2021-10-17,"Washington Football Team","Kansas City Chiefs",3.4,3.3,1.35,1.33,13,31,0.97177813120652,-0.0888111591339111
+"204",2021-10-17,"Jacksonville Jaguars","Miami Dolphins",2.1,2.4,1.62,1.76,23,20,-0.47384937107563,0
+"205",2021-10-14,"Philadelphia Eagles","Tampa Bay Buccaneers",3.45,3.45,1.32,1.32,22,28,0,0
+"206",2021-10-11,"Baltimore Ravens","Indianapolis Colts",1.27,1.31,3.55,3.8,31,25,-0.987367992114741,0
+"207",2021-10-10,"Kansas City Chiefs","Buffalo Bills",1.68,1.64,2.35,2.25,20,38,0.755300309509039,0
+"208",2021-10-10,"Arizona Cardinals","San Francisco 49ers",1.35,1.44,2.85,3.3,17,10,0,0.693681589327753
+"209",2021-10-10,"Dallas Cowboys","New York Giants",1.29,1.29,3.7,3.7,44,20,-1.13738122582436,0.997696837643161
+"210",2021-10-10,"Los Angeles Chargers","Cleveland Browns",1.71,1.95,1.86,2.2,47,42,0,0
+"211",2021-10-10,"Las Vegas Raiders","Chicago Bears",1.4,1.45,2.8,3.05,9,20,0,-0.137498214840889
+"212",2021-10-10,"Carolina Panthers","Philadelphia Eagles",1.68,1.52,2.67,2.25,18,21,0.993868885328993,0
+"213",2021-10-10,"Cincinnati Bengals","Green Bay Packers",2.1,2.55,1.57,1.76,22,25,0,-1.11446756543592
+"214",2021-10-10,"Houston Texans","New England Patriots",4,4.75,1.2,1.26,22,25,0,0.10172637924552
+"215",2021-10-10,"Jacksonville Jaguars","Tennessee Titans",2.75,2.67,1.52,1.47,19,37,-1.87345946859568,0
+"216",2021-10-10,"Minnesota Vikings","Detroit Lions",1.22,1.27,3.8,4.5,19,17,0.864356067031622,0
+"217",2021-10-10,"Pittsburgh Steelers","Denver Broncos",2.1,1.95,1.86,1.76,27,19,-1.65351628814824,-0.983745468314737
+"218",2021-10-10,"Tampa Bay Buccaneers","Miami Dolphins",1.16,1.16,5.5,5.5,45,17,0,0.0757565498352051
+"219",2021-10-10,"Washington Football Team","New Orleans Saints",2.2,1.9,1.9,1.71,22,33,-1.34506353596225,0
+"220",2021-10-10,"Atlanta Falcons","New York Jets",1.66,1.55,2.6,2.3,27,20,0,1.03875467053149
+"221",2021-10-07,"Seattle Seahawks","Los Angeles Rams",2.2,1.9,1.9,1.71,17,26,0,0
+"222",2021-10-04,"Los Angeles Chargers","Las Vegas Raiders",1.58,1.55,2.6,2.5,28,14,0,-0.995180121040903
+"223",2021-10-03,"New England Patriots","Tampa Bay Buccaneers",3.3,3.1,1.4,1.35,17,19,-1.92546630464494,0.50470557063818
+"224",2021-10-03,"Denver Broncos","Baltimore Ravens",1.83,1.8,2.05,2,7,23,0,1.29026338178664
+"225",2021-10-03,"Green Bay Packers","Pittsburgh Steelers",1.35,1.31,3.6,3.3,27,17,0,-0.994383630575612
+"226",2021-10-03,"Los Angeles Rams","Arizona Cardinals",1.47,1.37,3.2,2.75,20,37,-0.561722159385681,0
+"227",2021-10-03,"San Francisco 49ers","Seattle Seahawks",1.71,1.62,2.4,2.2,21,28,2.44971181289293,0
+"228",2021-10-03,"Atlanta Falcons","Washington Football Team",2.1,1.86,1.95,1.76,30,34,0,0.82768576592207
+"229",2021-10-03,"Buffalo Bills","Houston Texans",1.05,1.07,9,11,40,0,0,0
+"230",2021-10-03,"Chicago Bears","Detroit Lions",1.66,1.58,2.5,2.3,24,14,0.809501960873604,-1.7039676453569
+"231",2021-10-03,"Dallas Cowboys","Carolina Panthers",1.47,1.47,2.75,2.75,36,28,1.96285708720097,0
+"232",2021-10-03,"Miami Dolphins","Indianapolis Colts",1.68,1.8,2.05,2.25,17,27,-0.961001571267843,0
+"233",2021-10-03,"Minnesota Vikings","Cleveland Browns",1.9,2,1.83,1.9,7,14,1.26956826075912,0.568867526948452
+"234",2021-10-03,"New Orleans Saints","New York Giants",1.29,1.27,3.8,3.7,21,27,-0.0215430557727814,-1.63019326751237
+"235",2021-10-03,"New York Jets","Tennessee Titans",3.15,3.8,1.27,1.38,27,24,0,-1.65714952722192
+"236",2021-10-03,"Philadelphia Eagles","Kansas City Chiefs",3.9,3.15,1.38,1.27,30,42,0.363313835114241,0.5568184889853
+"237",2021-09-30,"Cincinnati Bengals","Jacksonville Jaguars",1.28,1.29,3.7,3.75,24,21,-0.984412810765207,0
+"238",2021-09-27,"Dallas Cowboys","Philadelphia Eagles",1.55,1.5,2.7,2.6,41,21,1.96365076844813,1.2069630138576
+"239",2021-09-26,"San Francisco 49ers","Green Bay Packers",1.57,1.52,2.67,2.55,28,30,-0.1213272230234,0
+"240",2021-09-26,"Los Angeles Rams","Tampa Bay Buccaneers",1.9,1.9,1.9,1.9,34,24,-0.561722159385681,0.774084188044071
+"241",2021-09-26,"Minnesota Vikings","Seattle Seahawks",2.05,2,1.83,1.8,30,17,0,0
+"242",2021-09-26,"Denver Broncos","New York Jets",1.16,1.15,5.75,5.5,26,0,0,-0.484288528561592
+"243",2021-09-26,"Las Vegas Raiders","Miami Dolphins",1.52,1.52,2.67,2.67,31,28,-0.981053435709327,-0.50496257469058
+"244",2021-09-26,"Buffalo Bills","Washington Football Team",1.28,1.25,4.1,3.75,43,21,0,0
+"245",2021-09-26,"Cleveland Browns","Chicago Bears",1.26,1.29,3.7,4,26,6,0,0
+"246",2021-09-26,"Detroit Lions","Baltimore Ravens",4,4.5,1.22,1.26,17,19,0.974932280369103,0.174905315041542
+"247",2021-09-26,"Jacksonville Jaguars","Arizona Cardinals",4.1,3.8,1.27,1.25,19,31,0,0.281979262828827
+"248",2021-09-26,"Kansas City Chiefs","Los Angeles Chargers",1.33,1.33,3.4,3.4,24,30,0.696774452924728,0
+"249",2021-09-26,"New England Patriots","New Orleans Saints",1.66,1.66,2.3,2.3,13,28,0,0
+"250",2021-09-26,"New York Giants","Atlanta Falcons",1.68,1.6,2.45,2.25,14,17,-0.59253569599241,0
+"251",2021-09-26,"Pittsburgh Steelers","Cincinnati Bengals",1.68,1.45,2.8,2.25,10,24,0,0
+"252",2021-09-26,"Tennessee Titans","Indianapolis Colts",1.45,1.4,3.1,2.8,25,16,0,-0.399438314139843
+"253",2021-09-23,"Houston Texans","Carolina Panthers",4.5,4,1.26,1.22,9,24,-0.249072954058647,0
+"254",2021-09-20,"Green Bay Packers","Detroit Lions",1.2,1.2,4.75,4.75,35,17,-0.930573150981218,0
+"255",2021-09-19,"Baltimore Ravens","Kansas City Chiefs",2.7,2.7,1.5,1.5,36,35,-0.440788926789537,-0.454207524657249
+"256",2021-09-19,"Los Angeles Chargers","Dallas Cowboys",1.62,1.62,2.4,2.4,17,20,0,-0.0324709620326757
+"257",2021-09-19,"Seattle Seahawks","Tennessee Titans",1.4,1.4,3.05,3.05,30,33,-0.997590159386164,0
+"258",2021-09-19,"Arizona Cardinals","Minnesota Vikings",1.5,1.5,2.7,2.7,34,33,0,0.289232835173607
+"259",2021-09-19,"Tampa Bay Buccaneers","Atlanta Falcons",1.14,1.15,5.75,6,48,25,0.798648722469807,0
+"260",2021-09-19,"Carolina Panthers","New Orleans Saints",2.67,2.65,1.54,1.52,26,7,0,2.6680292506353
+"261",2021-09-19,"Chicago Bears","Cincinnati Bengals",1.66,1.66,2.3,2.3,20,17,-0.0109556913375854,0.304862931370735
+"262",2021-09-19,"Cleveland Browns","Houston Texans",1.15,1.15,5.75,5.75,31,21,-0.785562202334404,0
+"263",2021-09-19,"Indianapolis Colts","Los Angeles Rams",2.7,2.7,1.5,1.5,24,27,0.553063526749611,0.990724002593197
+"264",2021-09-19,"Jacksonville Jaguars","Denver Broncos",3.2,3.2,1.37,1.37,13,23,0,-0.989322340115905
+"265",2021-09-19,"Miami Dolphins","Buffalo Bills",2.4,2.4,1.62,1.62,0,35,0.808420561254025,-0.0672315955162048
+"266",2021-09-19,"New York Jets","New England Patriots",3.05,3,1.41,1.4,6,25,0,-0.0427774786949158
+"267",2021-09-19,"Philadelphia Eagles","San Francisco 49ers",2.6,2.6,1.55,1.55,11,17,0.909261159598827,-2.5808227180969
+"268",2021-09-19,"Pittsburgh Steelers","Las Vegas Raiders",1.37,1.37,3.2,3.2,17,26,0,-0.22373828291893
+"269",2021-09-16,"Washington Football Team","New York Giants",1.57,1.55,2.6,2.55,30,29,-0.704880639910698,0.971287184394896
+"270",2021-09-13,"Las Vegas Raiders","Baltimore Ravens",2.8,2.95,1.42,1.45,33,27,-0.130998551845551,-0.0422850009053946
+"271",2021-09-12,"Los Angeles Rams","Chicago Bears",1.29,1.28,3.75,3.7,34,14,0,0
+"272",2021-09-12,"Kansas City Chiefs","Cleveland Browns",1.37,1.38,3.15,3.2,33,29,1.84634487552103,0
+"273",2021-09-12,"New England Patriots","Miami Dolphins",1.68,1.74,2.15,2.25,16,17,0,0.808420561254025
+"274",2021-09-12,"New Orleans Saints","Green Bay Packers",2.7,2.7,1.5,1.5,38,3,1.54313406557776,-0.708662318065763
+"275",2021-09-12,"New York Giants","Denver Broncos",2.3,1.95,1.86,1.66,13,27,0.971287184394896,0
+"276",2021-09-12,"Atlanta Falcons","Philadelphia Eagles",1.55,1.5,2.7,2.6,6,32,0,0.909261159598827
+"277",2021-09-12,"Buffalo Bills","Pittsburgh Steelers",1.35,1.36,3.25,3.3,16,23,0.650805435143411,1.16380569338799
+"278",2021-09-12,"Carolina Panthers","New York Jets",1.42,1.47,2.75,2.95,19,14,0,0
+"279",2021-09-12,"Cincinnati Bengals","Minnesota Vikings",2.5,2.35,1.64,1.58,27,24,0,2.02574427425861
+"280",2021-09-12,"Detroit Lions","San Francisco 49ers",3.9,4.25,1.23,1.27,33,41,0.962193889543414,0
+"281",2021-09-12,"Houston Texans","Jacksonville Jaguars",2.25,2.25,1.68,1.68,37,21,0,0.991145636420697
+"282",2021-09-12,"Indianapolis Colts","Seattle Seahawks",2.3,1.68,2.25,1.66,16,28,0.553063526749611,1.25194006413221
+"283",2021-09-12,"Tennessee Titans","Arizona Cardinals",1.64,1.71,2.2,2.35,13,38,0,0
+"284",2021-09-12,"Washington Football Team","Los Angeles Chargers",2,2.05,1.8,1.83,16,20,0,0
+"285",2021-09-09,"Tampa Bay Buccaneers","Dallas Cowboys",1.28,1.37,3.2,3.75,31,29,3.4946615092922,-0.0174993798136711
+"286",2021-02-07,"Tampa Bay Buccaneers","Kansas City Chiefs",2.4,2.55,1.57,1.62,31,9,1.52422734745778,2.06402983271983
+"287",2021-01-24,"Kansas City Chiefs","Buffalo Bills",1.64,1.66,2.3,2.35,38,24,0.612767186015844,0.60593344271183
+"288",2021-01-24,"Green Bay Packers","Tampa Bay Buccaneers",1.57,1.5,2.7,2.55,26,31,0.79983460175572,0.630790199618787
+"289",2021-01-17,"New Orleans Saints","Tampa Bay Buccaneers",1.68,1.52,2.67,2.25,20,30,1.9366192148882,0.398141369223595
+"290",2021-01-17,"Kansas City Chiefs","Cleveland Browns",1.25,1.2,4.75,4.2,22,17,0,2.1884453772218
+"291",2021-01-16,"Buffalo Bills","Baltimore Ravens",1.71,1.66,2.3,2.2,17,3,-0.0786787169054151,0.952074453234673
+"292",2021-01-16,"Green Bay Packers","Los Angeles Rams",1.27,1.29,3.7,3.9,32,18,1.78965315967798,2.39329597415053
+"293",2021-01-10,"Pittsburgh Steelers","Cleveland Browns",1.4,1.5,2.7,3.1,37,48,1.2443653648952,0.213530889421236
+"294",2021-01-10,"New Orleans Saints","Chicago Bears",1.16,1.22,4.5,5.5,21,9,-1.54835130274296,0
+"295",2021-01-10,"Tennessee Titans","Baltimore Ravens",2.6,2.65,1.54,1.55,13,20,0,0
+"296",2021-01-09,"Washington Football Team","Tampa Bay Buccaneers",4.75,3.9,1.27,1.2,23,31,0.376840194570832,1.05582439387217
+"297",2021-01-09,"Seattle Seahawks","Los Angeles Rams",1.57,1.47,2.75,2.55,20,30,0.75680061802268,1.21653195904219
+"298",2021-01-09,"Buffalo Bills","Indianapolis Colts",1.29,1.32,3.45,3.7,27,24,-0.936902672052383,0
+"299",2021-01-03,"Philadelphia Eagles","Washington Football Team",3.3,1.86,1.95,1.35,14,20,0,-1.38118906936143
+"300",2021-01-03,"Chicago Bears","Green Bay Packers",2.8,3.2,1.37,1.45,16,35,0,0.421576380729675
+"301",2021-01-03,"Denver Broncos","Las Vegas Raiders",2.25,1.9,1.9,1.68,31,32,0.284019410610199,0
+"302",2021-01-03,"Kansas City Chiefs","Los Angeles Chargers",3.4,2.65,1.54,1.33,21,38,1.08424209430814,1.92099386523478
+"303",2021-01-03,"Los Angeles Rams","Arizona Cardinals",1.83,1.83,2,2,18,7,-0.767847891664132,1.43356244452298
+"304",2021-01-03,"San Francisco 49ers","Seattle Seahawks",3.8,2.7,1.5,1.27,23,26,0,-0.0584580451250076
+"305",2021-01-03,"Buffalo Bills","Miami Dolphins",2.45,1.57,2.55,1.6,56,26,-1.29622691869736,0.546086966991425
+"306",2021-01-03,"Carolina Panthers","New Orleans Saints",3.15,3.3,1.35,1.38,7,33,0,0.150566680473275
+"307",2021-01-03,"Cincinnati Bengals","Baltimore Ravens",7.5,6,1.14,1.1,3,38,0,-0.926014221855439
+"308",2021-01-03,"Cleveland Browns","Pittsburgh Steelers",1.2,1.33,3.4,4.75,24,22,-1.39540720335208,1.41047785489354
+"309",2021-01-03,"Detroit Lions","Minnesota Vikings",2.55,3.25,1.36,1.57,35,37,-1.19034088775516,0
+"310",2021-01-03,"Houston Texans","Tennessee Titans",3.7,4.1,1.25,1.29,38,41,-1.92047319107223,-0.574043661355972
+"311",2021-01-03,"Indianapolis Colts","Jacksonville Jaguars",1.07,1.09,8,9,28,14,-0.827449465519749,0.906664125621319
+"312",2021-01-03,"New England Patriots","New York Jets",1.6,1.57,2.55,2.45,28,14,0,-0.98575112875551
+"313",2021-01-03,"New York Giants","Dallas Cowboys",2.05,2.25,1.68,1.8,23,19,-0.771561097353697,-0.603149622678757
+"314",2021-01-03,"Tampa Bay Buccaneers","Atlanta Falcons",1.29,1.33,3.4,3.7,44,27,-0.340394467115402,0.65456922352314
+"315",2020-12-28,"New England Patriots","Buffalo Bills",3.9,3.4,1.33,1.27,9,38,-0.414599302923307,0.32603907585144
+"316",2020-12-27,"Green Bay Packers","Tennessee Titans",1.55,1.5,2.7,2.6,40,14,0.929958824068308,0
+"317",2020-12-27,"Dallas Cowboys","Philadelphia Eagles",2.5,2,1.83,1.58,37,17,0,1.88984950445592
+"318",2020-12-27,"Los Angeles Chargers","Denver Broncos",1.8,1.55,2.6,2.05,19,16,0.959285229211673,0
+"319",2020-12-27,"Seattle Seahawks","Los Angeles Rams",1.8,1.74,2.15,2.05,20,9,-0.0167441936209798,-1.81513743929099
+"320",2020-12-27,"Baltimore Ravens","New York Giants",1.22,1.16,5.5,4.5,27,13,-0.116695858538151,0.727561429142952
+"321",2020-12-27,"Houston Texans","Cincinnati Bengals",1.28,1.23,4.25,3.75,31,37,-0.991847108234651,1.54788704682142
+"322",2020-12-27,"Jacksonville Jaguars","Chicago Bears",4.75,3.7,1.29,1.2,17,41,0.111182510852814,0
+"323",2020-12-27,"Kansas City Chiefs","Atlanta Falcons",1.18,1.22,4.5,5.25,17,14,0.751623589545488,-0.888692252337933
+"324",2020-12-27,"New York Jets","Cleveland Browns",3.4,4.75,1.2,1.33,23,16,-0.774594725720817,-0.00107554520945996
+"325",2020-12-27,"Pittsburgh Steelers","Indianapolis Colts",1.95,1.71,2.2,1.86,28,24,-1.04952917981427,1.97794148826506
+"326",2020-12-27,"Washington Football Team","Carolina Panthers",2,1.76,2.1,1.83,13,20,-1.74065155733842,0.36241689324379
+"327",2020-12-26,"Las Vegas Raiders","Miami Dolphins",2.2,2.2,1.71,1.71,25,26,0.956185983493924,-0.507902957499027
+"328",2020-12-26,"Arizona Cardinals","San Francisco 49ers",1.35,1.47,2.75,3.3,12,20,0,0.39674985408783
+"329",2020-12-26,"Detroit Lions","Tampa Bay Buccaneers",5.75,3.8,1.27,1.15,7,47,-3.54295737948269,1.82109947747085
+"330",2020-12-25,"New Orleans Saints","Minnesota Vikings",1.32,1.31,3.6,3.45,52,33,-2.96107135061175,0.158464595675468
+"331",2020-12-21,"Cincinnati Bengals","Pittsburgh Steelers",8,8,1.09,1.09,27,17,0.622809439897537,-0.020786464214325
+"332",2020-12-20,"New York Giants","Cleveland Browns",3.3,2.65,1.54,1.35,6,20,0.646111898124218,-0.109488158021122
+"333",2020-12-20,"New Orleans Saints","Kansas City Chiefs",2.3,2.75,1.47,1.66,29,32,-1.04937538504601,0
+"334",2020-12-20,"Arizona Cardinals","Philadelphia Eagles",1.37,1.4,3.05,3.2,33,26,0,-1.25291678117355
+"335",2020-12-20,"Los Angeles Rams","New York Jets",1.05,1.06,10,12,20,23,0,-0.517772763967514
+"336",2020-12-20,"Atlanta Falcons","Tampa Bay Buccaneers",3.2,2.85,1.44,1.37,27,31,0,-0.875592995434999
+"337",2020-12-20,"Baltimore Ravens","Jacksonville Jaguars",1.11,1.09,8,7,40,14,-1.6927994969883,-1.14103929302655
+"338",2020-12-20,"Dallas Cowboys","San Francisco 49ers",2.7,2.05,1.8,1.5,41,33,1.07717537716962,-0.885414883494377
+"339",2020-12-20,"Indianapolis Colts","Houston Texans",1.26,1.3,3.65,4,27,20,-0.136814152821898,-1.89515395939816
+"340",2020-12-20,"Miami Dolphins","New England Patriots",2.05,1.74,2.15,1.8,22,12,0.0620410516858101,-0.29002171754837
+"341",2020-12-20,"Minnesota Vikings","Chicago Bears",1.66,1.54,2.65,2.3,27,33,-0.99638432363281,0
+"342",2020-12-20,"Tennessee Titans","Detroit Lions",1.25,1.16,5.5,4.2,46,25,0.210883997380733,-2.16257192660123
+"343",2020-12-20,"Washington Football Team","Seattle Seahawks",3.2,3,1.41,1.37,15,20,-0.105553338304162,1.87937403842807
+"344",2020-12-19,"Green Bay Packers","Carolina Panthers",1.22,1.25,4.2,4.5,24,16,1.12199835479259,-0.118927240371704
+"345",2020-12-19,"Denver Broncos","Buffalo Bills",3.2,2.85,1.44,1.37,19,48,0,-0.399259060621262
+"346",2020-12-17,"Las Vegas Raiders","Los Angeles Chargers",1.57,1.6,2.45,2.55,27,30,-0.955085575580597,0
+"347",2020-12-14,"Cleveland Browns","Baltimore Ravens",2.5,1.95,1.86,1.58,42,47,1.99332018737914,-0.967220901162364
+"348",2020-12-13,"Buffalo Bills","Pittsburgh Steelers",1.76,2.05,1.8,2.1,26,15,1.87939889729023,-2.68636292475276
+"349",2020-12-13,"Los Angeles Chargers","Atlanta Falcons",1.86,2.2,1.71,1.95,20,17,0.79267244040966,0
+"350",2020-12-13,"Philadelphia Eagles","New Orleans Saints",3.9,3.6,1.31,1.27,24,21,-1.3259129524231,1.68611687910743
+"351",2020-12-13,"San Francisco 49ers","Washington Football Team",1.66,1.45,2.8,2.3,15,23,-0.222228740341961,1.81308041486773
+"352",2020-12-13,"Las Vegas Raiders","Indianapolis Colts",2.15,2.25,1.68,1.74,27,44,0,0
+"353",2020-12-13,"Seattle Seahawks","New York Jets",1.08,1.15,5.75,8.5,40,3,-0.975511353462934,-4.43247679335764
+"354",2020-12-13,"Carolina Panthers","Denver Broncos",1.47,1.52,2.67,2.75,27,32,-2.70234103756957,-1.81043989775935
+"355",2020-12-13,"Chicago Bears","Houston Texans",1.95,2.1,1.76,1.86,36,7,-0.967335463501513,0.763759091496468
+"356",2020-12-13,"Cincinnati Bengals","Dallas Cowboys",2.45,2.65,1.54,1.6,7,30,-0.917938594822772,-0.335811940720305
+"357",2020-12-13,"Detroit Lions","Green Bay Packers",4.25,4.25,1.23,1.23,24,31,1.60616939002648,0.206960647832602
+"358",2020-12-13,"Jacksonville Jaguars","Tennessee Titans",4,3.75,1.28,1.26,10,31,-0.70984235778451,-2.6100862090243
+"359",2020-12-13,"Miami Dolphins","Kansas City Chiefs",3.8,3.9,1.27,1.27,27,33,0.54888572357595,0
+"360",2020-12-13,"New York Giants","Arizona Cardinals",2.4,2.2,1.71,1.62,7,26,2.34581010788679,0.199271294288337
+"361",2020-12-13,"Tampa Bay Buccaneers","Minnesota Vikings",1.31,1.35,3.3,3.55,26,14,0,0
+"362",2020-12-10,"Los Angeles Rams","New England Patriots",1.42,1.37,3.2,2.95,24,3,0,0
+"363",2020-12-08,"Baltimore Ravens","Dallas Cowboys",1.23,1.27,3.8,4.25,34,17,1.14623334897624,-1.41298731788993
+"364",2020-12-07,"San Francisco 49ers","Buffalo Bills",1.8,2.35,1.64,2.05,24,34,-1.96413533028681,0
+"365",2020-12-07,"Pittsburgh Steelers","Washington Football Team",1.34,1.22,4.5,3.35,17,23,1.26735669001937,0
+"366",2020-12-06,"Kansas City Chiefs","Denver Broncos",1.11,1.12,6.5,7,22,16,0.889798615127802,-3.61501716577914
+"367",2020-12-06,"Green Bay Packers","Philadelphia Eagles",1.25,1.23,4.25,4.2,30,16,0,0.954070432111621
+"368",2020-12-06,"Los Angeles Chargers","New England Patriots",1.74,1.8,2.05,2.15,0,45,0.818347319960594,0
+"369",2020-12-06,"Arizona Cardinals","Los Angeles Rams",2.3,2.1,1.76,1.66,28,38,0,0.203486040234566
+"370",2020-12-06,"Seattle Seahawks","New York Giants",1.16,1.19,5,5.5,12,17,1.01713554188609,-0.978458565892652
+"371",2020-12-06,"Atlanta Falcons","New Orleans Saints",2.3,2.67,1.52,1.66,16,21,-0.686782988719642,0
+"372",2020-12-06,"Chicago Bears","Detroit Lions",1.64,1.58,2.5,2.35,30,34,0.420291751623154,1.83253718330525
+"373",2020-12-06,"Houston Texans","Indianapolis Colts",2.65,2.35,1.64,1.54,20,26,-0.287166401743889,0.989245361182839
+"374",2020-12-06,"Miami Dolphins","Cincinnati Bengals",1.19,1.19,5,5,19,7,0.800213187932968,0
+"375",2020-12-06,"Minnesota Vikings","Jacksonville Jaguars",1.2,1.23,4.25,4.75,27,24,0,-1.87610857561231
+"376",2020-12-06,"New York Jets","Las Vegas Raiders",4,3.9,1.27,1.26,28,31,0.91656544432044,0.572200238704681
+"377",2020-12-06,"Tennessee Titans","Cleveland Browns",1.5,1.45,2.8,2.7,35,41,1.40364662895445,0
+"378",2020-12-02,"Pittsburgh Steelers","Baltimore Ravens",1.41,1.57,2.55,3,19,14,0.959159007295966,4.30073490685027
+"379",2020-11-30,"Philadelphia Eagles","Seattle Seahawks",3.45,3.1,1.4,1.32,17,23,-0.988249461166561,-0.0858722887933254
+"380",2020-11-29,"Green Bay Packers","Chicago Bears",1.23,1.23,4.25,4.25,41,25,0.643914401531219,0.608909823000431
+"381",2020-11-29,"Tampa Bay Buccaneers","Kansas City Chiefs",2.65,2.67,1.52,1.54,24,27,-4.05086607806152,0
+"382",2020-11-29,"Denver Broncos","New Orleans Saints",8.5,3.15,1.38,1.08,3,31,0.186100535094738,0
+"383",2020-11-29,"Los Angeles Rams","San Francisco 49ers",1.34,1.31,3.6,3.35,20,23,-0.376175168872578,-1.10386868205387
+"384",2020-11-29,"Atlanta Falcons","Las Vegas Raiders",2.5,2.4,1.62,1.58,43,6,-1.79191260319203,-1.70691278204322
+"385",2020-11-29,"Buffalo Bills","Los Angeles Chargers",1.45,1.4,3.05,2.8,27,17,-0.974973763572052,1.54002267122269
+"386",2020-11-29,"Cincinnati Bengals","New York Giants",3.25,2.95,1.42,1.36,17,19,-0.0296904519200325,0
+"387",2020-11-29,"Indianapolis Colts","Tennessee Titans",1.62,1.5,2.7,2.4,26,45,0,-0.675851747393608
+"388",2020-11-29,"Jacksonville Jaguars","Cleveland Browns",3.6,3.3,1.35,1.31,25,27,0.0294794738292694,0.99434431863483
+"389",2020-11-29,"Minnesota Vikings","Carolina Panthers",1.62,1.44,2.85,2.4,28,27,0.812457911670208,0
+"390",2020-11-29,"New England Patriots","Arizona Cardinals",2.1,2.2,1.71,1.76,20,17,-0.99243374960497,0.701066601090133
+"391",2020-11-29,"New York Jets","Miami Dolphins",3.55,3.45,1.32,1.31,3,20,0,0
+"392",2020-11-26,"Dallas Cowboys","Washington Football Team",1.66,1.66,2.3,2.3,16,41,1.13248096592724,0
+"393",2020-11-26,"Detroit Lions","Houston Texans",2.5,2.1,1.76,1.58,25,41,-0.204436447878834,0
+"394",2020-11-23,"Tampa Bay Buccaneers","Los Angeles Rams",1.47,1.55,2.6,2.75,24,27,-1.21792526356876,-0.0800201259553432
+"395",2020-11-22,"Las Vegas Raiders","Kansas City Chiefs",3.8,3.65,1.3,1.27,31,35,-0.822943238541484,0.817642793059349
+"396",2020-11-22,"Indianapolis Colts","Green Bay Packers",1.8,1.8,2.05,2.05,34,31,0,1.76233143080026
+"397",2020-11-22,"Minnesota Vikings","Dallas Cowboys",1.3,1.28,3.75,3.65,28,31,-0.605481384322047,0.986387608572841
+"398",2020-11-22,"Denver Broncos","Miami Dolphins",2.6,2.3,1.66,1.55,20,13,-0.403207171708345,0.943174231797457
+"399",2020-11-22,"Los Angeles Chargers","New York Jets",1.22,1.25,4.2,4.5,34,28,0.671326890587807,-0.957808088511229
+"400",2020-11-22,"Baltimore Ravens","Tennessee Titans",1.37,1.34,3.35,3.2,24,30,-0.971583978272974,-0.675851747393608
+"401",2020-11-22,"Carolina Panthers","Detroit Lions",2.05,2.05,1.8,1.8,20,0,0.527002654969692,-1.26094992883736
+"402",2020-11-22,"Cleveland Browns","Philadelphia Eagles",1.71,1.54,2.65,2.2,22,17,-0.996379722142592,0
+"403",2020-11-22,"Houston Texans","New England Patriots",2.15,2.2,1.71,1.74,27,20,-0.892963856458664,-0.916141971945763
+"404",2020-11-22,"Jacksonville Jaguars","Pittsburgh Steelers",5,4.5,1.22,1.19,3,27,-0.960152059793472,0
+"405",2020-11-22,"New Orleans Saints","Atlanta Falcons",1.52,1.43,2.9,2.67,24,9,-0.590143471956253,-0.778593994677067
+"406",2020-11-22,"Washington Football Team","Cincinnati Bengals",1.83,1.83,2,2,20,9,0,-0.847826864570379
+"407",2020-11-19,"Seattle Seahawks","Arizona Cardinals",1.62,1.52,2.67,2.4,28,21,-0.599471862893552,2.96441916568438
+"408",2020-11-16,"Chicago Bears","Minnesota Vikings",2.55,2.25,1.68,1.57,13,19,0.783509761095047,-0.754891738295555
+"409",2020-11-15,"New England Patriots","Baltimore Ravens",3.65,3.55,1.31,1.3,23,17,0.168152980390005,0.182403629092732
+"410",2020-11-15,"Los Angeles Rams","Seattle Seahawks",1.68,1.83,2,2.25,23,16,0,-0.295866250991821
+"411",2020-11-15,"New Orleans Saints","San Francisco 49ers",1.23,1.23,4.25,4.25,27,13,0.834623660892248,-0.893750388175249
+"412",2020-11-15,"Arizona Cardinals","Buffalo Bills",1.71,1.8,2.05,2.2,32,30,0.0718973460607231,1.97781720827334
+"413",2020-11-15,"Las Vegas Raiders","Denver Broncos",1.52,1.45,2.8,2.67,37,12,0.887466359883547,0
+"414",2020-11-15,"Miami Dolphins","Los Angeles Chargers",1.8,1.71,2.2,2.05,29,21,-2.30019757617265,-0.691512852907181
+"415",2020-11-15,"Carolina Panthers","Tampa Bay Buccaneers",3.2,3.15,1.38,1.37,23,46,0,-0.473790232092142
+"416",2020-11-15,"Cleveland Browns","Houston Texans",1.5,1.66,2.3,2.7,10,7,2.72013306245208,-0.892963856458664
+"417",2020-11-15,"Detroit Lions","Washington Football Team",1.57,1.57,2.55,2.55,30,27,0.507809780538082,0
+"418",2020-11-15,"Green Bay Packers","Jacksonville Jaguars",1.1,1.1,7.25,7.5,24,20,0,0
+"419",2020-11-15,"New York Giants","Philadelphia Eagles",2.75,2.4,1.62,1.47,27,17,-2.77401731192367,0
+"420",2020-11-15,"Pittsburgh Steelers","Cincinnati Bengals",1.31,1.25,4.2,3.6,36,10,1.52452564740088,1.99027531221509
+"421",2020-11-12,"Tennessee Titans","Indianapolis Colts",1.9,1.74,2.15,1.9,17,34,0,0.230023831129074
+"422",2020-11-09,"New York Jets","New England Patriots",4.5,3.7,1.29,1.22,27,30,-0.222467944957316,0.00711677968502045
+"423",2020-11-08,"Tampa Bay Buccaneers","New Orleans Saints",1.45,1.41,3,2.8,3,38,2.96209444664419,0.279791109263897
+"424",2020-11-08,"Arizona Cardinals","Miami Dolphins",1.41,1.47,2.75,3,31,34,0,0.836672365665436
+"425",2020-11-08,"Dallas Cowboys","Pittsburgh Steelers",8,6.5,1.12,1.09,19,24,0.464462146162987,0.851815446279943
+"426",2020-11-08,"Los Angeles Chargers","Las Vegas Raiders",1.9,1.83,2,1.9,26,31,0,-2.75301113288151
+"427",2020-11-08,"Atlanta Falcons","Denver Broncos",1.5,1.5,2.7,2.7,34,27,0,0
+"428",2020-11-08,"Buffalo Bills","Seattle Seahawks",2.35,2.3,1.66,1.64,44,34,-0.89629564495408,1.63405871391296
+"429",2020-11-08,"Indianapolis Colts","Baltimore Ravens",2,2.2,1.71,1.83,10,24,0,0.840859476476908
+"430",2020-11-08,"Jacksonville Jaguars","Houston Texans",3.5,3.45,1.32,1.32,25,27,0,0.242354098707438
+"431",2020-11-08,"Kansas City Chiefs","Carolina Panthers",1.2,1.18,5.25,4.75,33,31,0,0
+"432",2020-11-08,"Minnesota Vikings","Detroit Lions",1.5,1.5,2.7,2.7,34,20,0,1.27423931658268
+"433",2020-11-08,"Tennessee Titans","Chicago Bears",1.34,1.4,3.05,3.35,24,17,-0.957535929977894,-0.538937799632549
+"434",2020-11-08,"Washington Football Team","New York Giants",1.66,1.6,2.45,2.3,20,23,0,-0.419664091430604
+"435",2020-11-05,"San Francisco 49ers","Green Bay Packers",3.9,3.05,1.4,1.27,17,34,-2.46679184166715,-0.246402459451929
+"436",2020-11-02,"New York Giants","Tampa Bay Buccaneers",6,4.75,1.2,1.14,23,25,0,2.42843689140864
+"437",2020-11-01,"Philadelphia Eagles","Dallas Cowboys",1.19,1.26,4,5,23,9,0.451853394508362,-2.40608020799118
+"438",2020-11-01,"Chicago Bears","New Orleans Saints",2.8,2.75,1.47,1.45,23,26,-0.918599849566817,0.892490856349468
+"439",2020-11-01,"Seattle Seahawks","San Francisco 49ers",1.64,1.58,2.5,2.35,37,27,0.022618196438998,-1.74344269186258
+"440",2020-11-01,"Denver Broncos","Los Angeles Chargers",2.6,2.05,1.8,1.55,31,30,0.937465850263834,0
+"441",2020-11-01,"Baltimore Ravens","Pittsburgh Steelers",1.5,1.42,2.95,2.7,24,28,0.88700595498085,0
+"442",2020-11-01,"Buffalo Bills","New England Patriots",1.45,1.45,2.8,2.8,24,21,-0.423803738551214,-3.76010586880147
+"443",2020-11-01,"Cincinnati Bengals","Tennessee Titans",3.7,2.9,1.43,1.29,31,20,-0.60779931768775,0
+"444",2020-11-01,"Cleveland Browns","Las Vegas Raiders",1.8,1.58,2.5,2.05,6,16,0,0.288748420774937
+"445",2020-11-01,"Detroit Lions","Indianapolis Colts",2.3,2.3,1.66,1.66,21,41,0,0.156186193227768
+"446",2020-11-01,"Green Bay Packers","Minnesota Vikings",1.35,1.32,3.45,3.3,22,28,0.947953628841788,0
+"447",2020-11-01,"Kansas City Chiefs","New York Jets",1.04,1.04,13,13.5,35,9,0,-0.544524103403091
+"448",2020-11-01,"Miami Dolphins","Los Angeles Rams",2.55,2.75,1.47,1.57,28,17,0,0
+"449",2020-10-29,"Carolina Panthers","Atlanta Falcons",1.74,1.64,2.35,2.15,17,25,-2.53527984768152,-2.31755534466356
+"450",2020-10-26,"Los Angeles Rams","Chicago Bears",1.38,1.38,3.15,3.15,24,10,0,0
+"451",2020-10-25,"Las Vegas Raiders","Tampa Bay Buccaneers",2.65,2.35,1.64,1.54,20,45,1.246532574296,0.772912885062397
+"452",2020-10-25,"Los Angeles Chargers","Jacksonville Jaguars",1.26,1.25,4.1,4,39,29,0,0.45779749751091
+"453",2020-10-25,"Denver Broncos","Kansas City Chiefs",3.7,4.5,1.22,1.29,16,43,0.997384739108384,1.5177344273543
+"454",2020-10-25,"New England Patriots","San Francisco 49ers",1.6,1.71,2.2,2.45,6,33,-1.47795156296343,-2.48214911669493
+"455",2020-10-25,"Arizona Cardinals","Seattle Seahawks",2.55,2.55,1.57,1.57,37,34,2.13317200460006,0.252915121614933
+"456",2020-10-25,"Atlanta Falcons","Detroit Lions",1.8,1.62,2.4,2.05,22,23,1.44976376881823,0
+"457",2020-10-25,"Cincinnati Bengals","Cleveland Browns",2.55,2.6,1.55,1.57,34,37,0,1.6851575858891
+"458",2020-10-25,"Houston Texans","Green Bay Packers",2.55,2.5,1.58,1.57,20,35,0,-0.782651960849762
+"459",2020-10-25,"New Orleans Saints","Carolina Panthers",1.33,1.29,3.7,3.4,27,24,-1.65319932345301,0
+"460",2020-10-25,"Tennessee Titans","Pittsburgh Steelers",1.8,2.1,1.76,2.05,24,27,-0.952094946056604,1.20184040814638
+"461",2020-10-25,"New York Jets","Buffalo Bills",5.25,5.75,1.15,1.18,10,18,-0.956276027485728,1.96406687150011
+"462",2020-10-25,"Washington Football Team","Dallas Cowboys",1.83,1.9,1.9,2,25,3,0,-1.64947684152867
+"463",2020-10-22,"Philadelphia Eagles","New York Giants",1.44,1.4,3.1,2.85,22,21,0.536048382520676,0.240764539688826
+"464",2020-10-19,"Dallas Cowboys","Arizona Cardinals",1.86,2.2,1.71,1.95,10,38,1.66402676235884,0.533332109451294
+"465",2020-10-19,"Buffalo Bills","Kansas City Chiefs",2.95,2.7,1.5,1.42,17,26,-0.825134504586458,-0.469466454000212
+"466",2020-10-18,"San Francisco 49ers","Los Angeles Rams",2.3,2.4,1.62,1.66,24,16,-0.481950104236603,0
+"467",2020-10-18,"Tampa Bay Buccaneers","Green Bay Packers",2,2.05,1.8,1.83,38,10,0,1.17654646933079
+"468",2020-10-18,"Miami Dolphins","New York Jets",1.25,1.27,3.9,4.2,24,0,-0.623781073838472,-0.616120480000973
+"469",2020-10-18,"Carolina Panthers","Chicago Bears",1.83,1.66,2.3,2,16,23,0.990369213744998,0
+"470",2020-10-18,"Indianapolis Colts","Cincinnati Bengals",1.27,1.25,4.1,3.9,31,27,-0.65165650844574,-0.669172272086143
+"471",2020-10-18,"Jacksonville Jaguars","Detroit Lions",2.4,2.55,1.57,1.62,16,34,0.45779749751091,0
+"472",2020-10-18,"Minnesota Vikings","Atlanta Falcons",1.5,1.52,2.67,2.7,23,40,-0.781945888884366,-0.933463036722969
+"473",2020-10-18,"New England Patriots","Denver Broncos",1.25,1.22,4.5,4.1,12,18,4.00802566367202,1.25973691511899
+"474",2020-10-18,"New York Giants","Washington Football Team",1.68,1.52,2.67,2.25,20,19,0,-0.945292003452778
+"475",2020-10-18,"Philadelphia Eagles","Baltimore Ravens",4.5,3.9,1.27,1.22,28,30,1.40791983902454,-1.79351282073185
+"476",2020-10-18,"Pittsburgh Steelers","Cleveland Browns",1.55,1.45,2.8,2.6,38,7,0,-0.0326476562768221
+"477",2020-10-18,"Tennessee Titans","Houston Texans",1.5,1.54,2.65,2.7,42,36,1.34996247384697,0.709393218159676
+"478",2020-10-13,"Tennessee Titans","Buffalo Bills",2.6,2.6,1.55,1.55,42,16,0.458226551709231,1.10127920284867
+"479",2020-10-12,"New Orleans Saints","Los Angeles Chargers",1.3,1.27,3.8,3.65,30,27,-0.776458540000021,0
+"480",2020-10-11,"Seattle Seahawks","Minnesota Vikings",1.31,1.3,3.65,3.6,27,26,-0.971302233170718,0
+"481",2020-10-11,"Cleveland Browns","Indianapolis Colts",1.9,2.2,1.71,1.9,32,23,0.00959313963539898,0
+"482",2020-10-11,"Dallas Cowboys","New York Giants",1.25,1.23,4.25,4.2,37,34,-4.75938694004435,0
+"483",2020-10-11,"San Francisco 49ers","Miami Dolphins",1.26,1.25,4.2,4,17,43,0.977896953001618,0
+"484",2020-10-11,"Atlanta Falcons","Carolina Panthers",1.71,1.74,2.15,2.2,16,23,-0.872663602232933,0
+"485",2020-10-11,"Baltimore Ravens","Cincinnati Bengals",1.13,1.11,7,6.25,27,3,-0.156523630023003,0
+"486",2020-10-11,"Houston Texans","Jacksonville Jaguars",1.4,1.35,3.3,3.05,30,14,-1.06200641160831,0
+"487",2020-10-11,"Kansas City Chiefs","Las Vegas Raiders",1.16,1.14,6,5.5,32,40,-0.73431584239006,-0.893979728221893
+"488",2020-10-11,"New York Jets","Arizona Cardinals",3.7,3.4,1.33,1.29,10,30,0.74762688257033,0
+"489",2020-10-11,"Pittsburgh Steelers","Philadelphia Eagles",1.28,1.29,3.7,3.75,38,29,-0.054950418882072,-1.89876172642107
+"490",2020-10-11,"Washington Football Team","Los Angeles Rams",3.9,4.2,1.25,1.27,10,30,-0.945292003452778,0.18612415343523
+"491",2020-10-08,"Chicago Bears","Tampa Bay Buccaneers",2.65,2.95,1.42,1.54,20,19,0.586851194500923,-0.843409800902009
+"492",2020-10-05,"Green Bay Packers","Atlanta Falcons",1.31,1.29,3.7,3.6,30,16,-0.689855523407459,1.4010997088626
+"493",2020-10-05,"Kansas City Chiefs","New England Patriots",1.32,1.31,3.6,3.5,26,10,-0.0689856857061386,3.93657334550517
+"494",2020-10-04,"San Francisco 49ers","Philadelphia Eagles",1.28,1.37,3.2,3.75,20,25,2.65100138448179,-0.951215118169785
+"495",2020-10-04,"Las Vegas Raiders","Buffalo Bills",2.55,2.25,1.68,1.57,23,30,0.310039940930437,0.766175672411919
+"496",2020-10-04,"Los Angeles Rams","New York Giants",1.11,1.16,5.5,7,17,9,0,0
+"497",2020-10-04,"Carolina Panthers","Arizona Cardinals",2.4,2.7,1.5,1.62,31,21,0,0.0308172702789307
+"498",2020-10-04,"Chicago Bears","Indianapolis Colts",2.3,2.35,1.64,1.66,11,19,-0.898087531328201,-0.832432143390179
+"499",2020-10-04,"Cincinnati Bengals","Jacksonville Jaguars",1.74,1.57,2.55,2.15,33,25,0,0
+"500",2020-10-04,"Dallas Cowboys","Cleveland Browns",1.54,1.42,2.95,2.65,38,49,-1.7714724726975,0
+"501",2020-10-04,"Detroit Lions","New Orleans Saints",2.45,2.8,1.45,1.6,29,35,0.870615866035223,-0.283474493771791
+"502",2020-10-04,"Houston Texans","Minnesota Vikings",1.54,1.5,2.7,2.65,23,31,-0.831472113728523,0
+"503",2020-10-04,"Miami Dolphins","Seattle Seahawks",3,3.55,1.31,1.41,23,31,0,2.23851786926389
+"504",2020-10-04,"Tampa Bay Buccaneers","Los Angeles Chargers",1.29,1.29,3.7,3.7,38,31,0,-1.93632136425003
+"505",2020-10-04,"Washington Football Team","Baltimore Ravens",8,6.75,1.11,1.09,17,31,0,0
+"506",2020-10-01,"New York Jets","Denver Broncos",1.8,2.3,1.66,2.05,28,37,0.227412343025208,-0.381443362450227
+"507",2020-09-28,"Baltimore Ravens","Kansas City Chiefs",1.58,1.54,2.65,2.5,20,34,-0.755211710929871,0
+"508",2020-09-27,"New Orleans Saints","Green Bay Packers",1.6,1.6,2.45,2.45,30,37,0.851145401597023,0.237970158457756
+"509",2020-09-27,"Arizona Cardinals","Detroit Lions",1.4,1.38,3.15,3.1,23,26,0,0
+"510",2020-09-27,"Denver Broncos","Tampa Bay Buccaneers",3.15,3.25,1.36,1.38,10,28,0,0
+"511",2020-09-27,"Seattle Seahawks","Dallas Cowboys",1.44,1.44,2.85,2.85,38,31,0.339785177260637,0
+"512",2020-09-27,"Indianapolis Colts","New York Jets",1.16,1.19,5,5.5,36,7,0,0
+"513",2020-09-27,"Los Angeles Chargers","Carolina Panthers",1.35,1.3,3.65,3.3,16,21,-0.962851226329803,0
+"514",2020-09-27,"Atlanta Falcons","Chicago Bears",1.64,1.52,2.67,2.35,26,30,-0.948938799469033,0.269763186573982
+"515",2020-09-27,"Buffalo Bills","Los Angeles Rams",1.76,1.68,2.25,2.1,35,32,0,0
+"516",2020-09-27,"Cleveland Browns","Washington Football Team",1.31,1.3,3.65,3.6,34,20,0,0
+"517",2020-09-27,"Minnesota Vikings","Tennessee Titans",2.2,2.2,1.71,1.71,30,31,0,0
+"518",2020-09-27,"New England Patriots","Las Vegas Raiders",1.37,1.34,3.35,3.2,36,20,0,0.517106413841248
+"519",2020-09-27,"New York Giants","San Francisco 49ers",2.5,2.8,1.45,1.58,9,36,-0.847499098628759,-0.902043554931879
+"520",2020-09-27,"Philadelphia Eagles","Cincinnati Bengals",1.5,1.34,3.35,2.7,23,23,0,0
+"521",2020-09-27,"Pittsburgh Steelers","Houston Texans",1.47,1.52,2.67,2.75,28,21,0,0
+"522",2020-09-24,"Jacksonville Jaguars","Miami Dolphins",1.64,1.64,2.35,2.35,13,31,0,0
+"523",2020-09-21,"Las Vegas Raiders","New Orleans Saints",2.95,3.05,1.4,1.42,34,24,0,0
+"524",2020-09-20,"Seattle Seahawks","New England Patriots",1.5,1.5,2.7,2.7,35,30,0,0
+"525",2020-09-20,"Houston Texans","Baltimore Ravens",3.7,3.4,1.33,1.29,16,33,0,0
+"526",2020-09-20,"Los Angeles Chargers","Kansas City Chiefs",4.2,3.9,1.27,1.25,20,23,-0.981587802059948,-0.508484287711326
+"527",2020-09-20,"Arizona Cardinals","Washington Football Team",1.32,1.33,3.4,3.5,30,15,0,0.899783067405224
+"528",2020-09-20,"Chicago Bears","New York Giants",1.4,1.4,3.05,3.05,17,13,0.576172232627869,0
+"529",2020-09-20,"Dallas Cowboys","Atlanta Falcons",1.54,1.43,2.9,2.65,40,39,-1.91496737359557,0
+"530",2020-09-20,"Green Bay Packers","Detroit Lions",1.37,1.41,3,3.2,42,21,0.17750458791852,-1.77381275757216
+"531",2020-09-20,"Indianapolis Colts","Minnesota Vikings",1.58,1.64,2.35,2.5,28,11,0,0.800979591906071
+"532",2020-09-20,"Miami Dolphins","Buffalo Bills",3,2.85,1.44,1.41,28,31,0,0
+"533",2020-09-20,"New York Jets","San Francisco 49ers",3.6,3.55,1.31,1.31,13,31,0.13014624803327,-1.6054676505737
+"534",2020-09-20,"Philadelphia Eagles","Los Angeles Rams",1.8,1.9,1.9,2.05,19,37,0,0.898548949509859
+"535",2020-09-20,"Pittsburgh Steelers","Denver Broncos",1.32,1.33,3.4,3.45,26,21,0,0
+"536",2020-09-20,"Tampa Bay Buccaneers","Carolina Panthers",1.27,1.27,3.9,3.9,31,17,0,-0.972680704668164
+"537",2020-09-20,"Tennessee Titans","Jacksonville Jaguars",1.27,1.16,5.5,3.8,33,30,0,0
+"538",2020-09-17,"Cleveland Browns","Cincinnati Bengals",1.38,1.35,3.3,3.15,35,30,0,-1.4360190203879
+"539",2020-09-14,"Denver Broncos","Tennessee Titans",2.4,1.76,2.1,1.62,14,16,-0.958050612360239,0
+"540",2020-09-14,"New York Giants","Pittsburgh Steelers",3.1,2.6,1.55,1.4,16,26,-0.994356172392145,-0.137373548233882
+"541",2020-09-13,"Los Angeles Rams","Dallas Cowboys",2.15,2.15,1.74,1.74,20,17,0,0.301139660179615
+"542",2020-09-13,"New Orleans Saints","Tampa Bay Buccaneers",1.55,1.47,2.75,2.6,34,23,0.788423873484135,1.55820124223828
+"543",2020-09-13,"San Francisco 49ers","Arizona Cardinals",1.33,1.28,3.75,3.4,20,24,0,0.876857850700617
+"544",2020-09-13,"Cincinnati Bengals","Los Angeles Chargers",2.3,2.45,1.6,1.66,13,16,0,0
+"545",2020-09-13,"Atlanta Falcons","Seattle Seahawks",2,2,1.83,1.83,25,38,0,0
+"546",2020-09-13,"Baltimore Ravens","Cleveland Browns",1.29,1.25,4.2,3.7,38,6,0,0.818385511636734
+"547",2020-09-13,"Buffalo Bills","New York Jets",1.33,1.38,3.15,3.4,27,17,0.912634329870343,-0.753419930581003
+"548",2020-09-13,"Carolina Panthers","Las Vegas Raiders",2.3,2,1.83,1.66,30,34,0,-0.911879708990455
+"549",2020-09-13,"Detroit Lions","Chicago Bears",1.71,1.8,2.05,2.2,23,27,-0.512773148715496,0
+"550",2020-09-13,"Jacksonville Jaguars","Indianapolis Colts",4.25,3.6,1.31,1.23,27,20,0,0
+"551",2020-09-13,"Minnesota Vikings","Green Bay Packers",1.71,1.57,2.55,2.2,34,43,0.800979591906071,0
+"552",2020-09-13,"New England Patriots","Miami Dolphins",1.31,1.36,3.25,3.6,21,11,-0.917290706187487,0.168800353538245
+"553",2020-09-13,"Washington Football Team","Philadelphia Eagles",2.95,3.2,1.37,1.42,27,17,-0.857486329972744,0
+"554",2020-09-10,"Kansas City Chiefs","Houston Texans",1.23,1.2,4.75,4.25,34,20,1.31329494249076,0
+"555",2020-02-02,"Kansas City Chiefs","San Francisco 49ers",1.8,1.8,2.05,2.05,31,20,3.29909277366824,3.32572106318548
+"556",2020-01-19,"San Francisco 49ers","Green Bay Packers",1.26,1.31,3.55,4,37,20,2.22102821874432,2.12259957985952
+"557",2020-01-19,"Kansas City Chiefs","Tennessee Titans",1.28,1.29,3.7,3.75,35,24,0.963604200951522,0.180608743336052
+"558",2020-01-12,"Green Bay Packers","Seattle Seahawks",1.45,1.52,2.67,2.8,28,23,0.872592054307461,0.979827526956797
+"559",2020-01-12,"Kansas City Chiefs","Houston Texans",1.22,1.27,3.8,4.5,51,31,0.0778000382706523,0.79344785946887
+"560",2020-01-11,"Baltimore Ravens","Tennessee Titans",1.2,1.22,4.5,4.75,12,28,0.759545337408781,0.95159371662885
+"561",2020-01-11,"San Francisco 49ers","Minnesota Vikings",1.3,1.33,3.4,3.65,27,10,-0.964598199352622,1.33867126889527
+"562",2020-01-05,"Philadelphia Eagles","Seattle Seahawks",1.9,2,1.83,1.9,9,17,1.73149902559817,0
+"563",2020-01-05,"New Orleans Saints","Minnesota Vikings",1.26,1.33,3.4,4,20,26,0,0
+"564",2020-01-04,"New England Patriots","Tennessee Titans",1.44,1.45,2.8,2.85,13,20,-0.647905930876732,0
+"565",2020-01-04,"Houston Texans","Buffalo Bills",1.71,1.5,2.7,2.2,22,19,0.887993320822716,0
+"566",2019-12-29,"Seattle Seahawks","San Francisco 49ers",2.55,2.3,1.66,1.57,21,26,1.31741343496833,-1.29197939392179
+"567",2019-12-29,"Denver Broncos","Oakland Raiders",1.45,1.52,2.67,2.8,16,15,0.982097338419408,0
+"568",2019-12-29,"Los Angeles Rams","Arizona Cardinals",1.34,1.29,3.7,3.35,31,24,-2.68796683498658,0
+"569",2019-12-29,"Baltimore Ravens","Pittsburgh Steelers",2.05,1.83,2,1.8,28,10,2.11019818205386,-2.12126289273147
+"570",2019-12-29,"Buffalo Bills","New York Jets",1.95,1.86,1.95,1.86,6,13,0,0.883289769291878
+"571",2019-12-29,"Carolina Panthers","New Orleans Saints",6.5,5.5,1.16,1.12,10,42,0.353996843099594,1.76341925840825
+"572",2019-12-29,"Cincinnati Bengals","Cleveland Browns",2.15,2.35,1.64,1.74,33,23,0.734590858221054,0
+"573",2019-12-29,"Dallas Cowboys","Washington Redskins",1.15,1.2,4.75,5.75,47,16,-0.920535849872976,0
+"574",2019-12-29,"Detroit Lions","Green Bay Packers",6,4.75,1.2,1.14,20,23,-0.155239921994507,1.5353479757905
+"575",2019-12-29,"Houston Texans","Tennessee Titans",4.5,2.8,1.45,1.22,14,35,2.31701284646988,0
+"576",2019-12-29,"Jacksonville Jaguars","Indianapolis Colts",3.1,1.9,1.9,1.4,38,20,-1.39307194948196,-0.202962934970856
+"577",2019-12-29,"Kansas City Chiefs","Los Angeles Chargers",1.22,1.28,3.75,4.5,31,21,0.145809710025787,0
+"578",2019-12-29,"Minnesota Vikings","Chicago Bears",2.8,1.83,2,1.45,19,21,-0.881354451179504,0
+"579",2019-12-29,"New England Patriots","Miami Dolphins",1.08,1.07,9,8.5,24,27,1.89974837936461,0
+"580",2019-12-29,"New York Giants","Philadelphia Eagles",2.7,2.85,1.44,1.5,17,34,0.983435067173559,-0.624349266290665
+"581",2019-12-29,"Tampa Bay Buccaneers","Atlanta Falcons",1.86,1.9,1.9,1.95,22,28,0.550369441509247,0
+"582",2019-12-23,"Minnesota Vikings","Green Bay Packers",1.47,1.5,2.7,2.75,10,23,-0.881354451179504,0.577598322182894
+"583",2019-12-22,"Chicago Bears","Kansas City Chiefs",3.65,2.85,1.44,1.3,3,26,-0.282196212559939,-0.165927082300186
+"584",2019-12-22,"Philadelphia Eagles","Dallas Cowboys",2.1,2.25,1.68,1.76,17,9,0.886164911091328,0.471466174116358
+"585",2019-12-22,"Seattle Seahawks","Arizona Cardinals",1.23,1.23,4.25,4.25,13,27,-1.8586794398725,0
+"586",2019-12-22,"Denver Broncos","Detroit Lions",1.27,1.34,3.35,3.9,27,17,0,-0.0207900702953339
+"587",2019-12-22,"Los Angeles Chargers","Oakland Raiders",1.27,1.41,3,3.8,17,24,0,0
+"588",2019-12-22,"Atlanta Falcons","Jacksonville Jaguars",1.29,1.3,3.65,3.7,24,12,0,0.925732493400574
+"589",2019-12-22,"Cleveland Browns","Baltimore Ravens",4.5,4.75,1.2,1.22,15,31,0.499106378527358,0.207827240228653
+"590",2019-12-22,"Indianapolis Colts","Carolina Panthers",1.33,1.37,3.2,3.4,38,6,0.926663657650352,0.891851760447025
+"591",2019-12-22,"Miami Dolphins","Cincinnati Bengals",2.05,1.86,1.95,1.8,38,35,0.951992517337203,-0.997433894721326
+"592",2019-12-22,"New York Jets","Pittsburgh Steelers",2.6,2.4,1.62,1.55,16,10,-0.129027000628412,-1.00759101845324
+"593",2019-12-22,"Tennessee Titans","New Orleans Saints",2.65,2.05,1.8,1.54,28,38,0.890243059955537,3.17480769893155
+"594",2019-12-22,"Washington Redskins","New York Giants",2,1.74,2.15,1.83,35,41,0,0.4739840477705
+"595",2019-12-21,"San Francisco 49ers","Los Angeles Rams",1.31,1.37,3.2,3.6,34,31,-1.70162703283131,-0.537361824885011
+"596",2019-12-21,"New England Patriots","Buffalo Bills",1.34,1.36,3.25,3.35,24,17,0.424882605671883,1.30847524385899
+"597",2019-12-21,"Tampa Bay Buccaneers","Houston Texans",2.4,2,1.83,1.62,20,23,-0.86580491065979,1.07795165269636
+"598",2019-12-16,"New Orleans Saints","Indianapolis Colts",1.26,1.27,3.8,4,34,7,-0.968964961823076,0
+"599",2019-12-15,"Pittsburgh Steelers","Buffalo Bills",1.86,1.8,2.05,1.95,10,17,1.86314254254103,-0.0351413134485483
+"600",2019-12-15,"Dallas Cowboys","Los Angeles Rams",1.95,1.71,2.2,1.86,44,21,-0.393014300847426,0.894275017082691
+"601",2019-12-15,"San Francisco 49ers","Atlanta Falcons",1.2,1.2,4.75,4.75,22,29,-0.701954057090916,-0.970310721546412
+"602",2019-12-15,"Arizona Cardinals","Cleveland Browns",2.4,2.15,1.74,1.62,38,24,-0.643138825893402,0.758856630185619
+"603",2019-12-15,"Los Angeles Chargers","Minnesota Vikings",2,2.35,1.64,1.83,10,39,0,0.799624606966972
+"604",2019-12-15,"Oakland Raiders","Jacksonville Jaguars",1.32,1.4,3.1,3.5,16,20,0,0
+"605",2019-12-15,"Carolina Panthers","Seattle Seahawks",3.15,3.05,1.4,1.38,24,30,-0.625997808296233,-2.68137382064015
+"606",2019-12-15,"Cincinnati Bengals","New England Patriots",5.25,4.5,1.22,1.18,13,34,0,0.718550386838615
+"607",2019-12-15,"Detroit Lions","Tampa Bay Buccaneers",3.15,2.7,1.5,1.38,17,38,-1.80783469602466,0
+"608",2019-12-15,"Green Bay Packers","Chicago Bears",1.45,1.45,2.8,2.8,21,13,0.036671506240964,0.690905660390854
+"609",2019-12-15,"Kansas City Chiefs","Denver Broncos",1.2,1.19,5,4.75,23,3,-0.286279393360019,0.946600864641368
+"610",2019-12-15,"New York Giants","Miami Dolphins",1.54,1.54,2.65,2.65,36,20,-1.36449422233272,1.9488112879917
+"611",2019-12-15,"Tennessee Titans","Houston Texans",1.58,1.6,2.45,2.5,21,24,0,0
+"612",2019-12-15,"Washington Redskins","Philadelphia Eagles",3.4,3.3,1.35,1.33,27,37,0,0.372072234749794
+"613",2019-12-12,"Baltimore Ravens","New York Jets",1.08,1.11,6.75,8.5,42,21,0.849229906627443,-1.67942386865616
+"614",2019-12-09,"Philadelphia Eagles","New York Giants",1.23,1.27,3.8,4.25,23,17,-0.396871061180718,1.72879264503717
+"615",2019-12-08,"Los Angeles Rams","Seattle Seahawks",1.83,2.2,1.71,2,28,12,0,0
+"616",2019-12-08,"Arizona Cardinals","Pittsburgh Steelers",2.1,2.1,1.76,1.76,17,23,0.00581547804176819,-2.51254144019913
+"617",2019-12-08,"New England Patriots","Kansas City Chiefs",1.62,1.66,2.3,2.4,16,23,1.97285093739629,1.23728404124267
+"618",2019-12-08,"Oakland Raiders","Tennessee Titans",2.3,2.35,1.64,1.66,21,42,0,0
+"619",2019-12-08,"Jacksonville Jaguars","Los Angeles Chargers",2.55,2.3,1.66,1.57,10,45,0.687565967440605,-1.8469947502017
+"620",2019-12-08,"Atlanta Falcons","Carolina Panthers",1.52,1.76,2.1,2.67,40,20,0,0.902988070622086
+"621",2019-12-08,"Buffalo Bills","Baltimore Ravens",3.25,2.95,1.42,1.36,17,24,0.146414577960968,0.765296773519367
+"622",2019-12-08,"Cleveland Browns","Cincinnati Bengals",1.32,1.26,4,3.5,27,19,-1.41880303621292,0.329134047031403
+"623",2019-12-08,"Green Bay Packers","Washington Redskins",1.11,1.12,6.5,6.75,20,15,0.39495038986206,0
+"624",2019-12-08,"Houston Texans","Denver Broncos",1.25,1.27,3.8,4.2,24,38,-0.669829241349362,-0.979841035790741
+"625",2019-12-08,"Minnesota Vikings","Detroit Lions",1.15,1.1,7.5,5.75,20,7,-0.15634086728096,-1.69176022335887
+"626",2019-12-08,"New Orleans Saints","San Francisco 49ers",1.8,1.58,2.5,2.05,46,48,-0.746400952339172,-1.28518008580431
+"627",2019-12-08,"New York Jets","Miami Dolphins",1.44,1.38,3.15,2.85,22,21,-1.67942386865616,0
+"628",2019-12-08,"Tampa Bay Buccaneers","Indianapolis Colts",1.58,1.6,2.45,2.5,38,35,-1.95441860146821,-0.840736523270607
+"629",2019-12-05,"Chicago Bears","Dallas Cowboys",2.5,2.4,1.62,1.58,31,24,0,0.236903965473175
+"630",2019-12-02,"Seattle Seahawks","Minnesota Vikings",1.66,1.66,2.3,2.3,37,30,0.908112671226263,0.737187586724758
+"631",2019-12-01,"Houston Texans","New England Patriots",2.6,2.45,1.6,1.55,28,22,-1.66768415272236,-2.11737956805155
+"632",2019-12-01,"Denver Broncos","Los Angeles Chargers",2.75,2.05,1.8,1.47,23,20,0,-0.901509776711464
+"633",2019-12-01,"Kansas City Chiefs","Oakland Raiders",1.18,1.22,4.5,5.25,40,9,0,0
+"634",2019-12-01,"Arizona Cardinals","Los Angeles Rams",2.2,2.75,1.47,1.71,7,34,-0.979633255396038,-0.0095026553608476
+"635",2019-12-01,"Baltimore Ravens","San Francisco 49ers",1.4,1.42,2.95,3.1,20,17,2.77158075827174,0.907254894264042
+"636",2019-12-01,"Carolina Panthers","Washington Redskins",1.19,1.22,4.5,5,21,29,0.891339601948857,0
+"637",2019-12-01,"Cincinnati Bengals","New York Jets",2.25,2.6,1.55,1.68,22,6,-0.104696609079838,0.862193942070007
+"638",2019-12-01,"Indianapolis Colts","Tennessee Titans",1.95,1.64,2.35,1.86,17,31,-0.367152541875839,0
+"639",2019-12-01,"Jacksonville Jaguars","Tampa Bay Buccaneers",2.35,1.86,1.95,1.64,11,28,0,0
+"640",2019-12-01,"Miami Dolphins","Philadelphia Eagles",4.75,3.9,1.27,1.2,37,31,0,-0.0580287427874282
+"641",2019-12-01,"New York Giants","Green Bay Packers",3.6,3.45,1.32,1.31,13,31,0.0908739864826202,-0.730491617927328
+"642",2019-12-01,"Pittsburgh Steelers","Cleveland Browns",2,1.95,1.86,1.83,20,13,0.805800944566727,0.124857558985241
+"643",2019-11-28,"Atlanta Falcons","New Orleans Saints",3.7,3.45,1.32,1.29,18,26,0,0
+"644",2019-11-28,"Dallas Cowboys","Buffalo Bills",1.32,1.32,3.5,3.45,15,26,-2.34062680695206,0
+"645",2019-11-28,"Detroit Lions","Chicago Bears",3.1,1.9,1.9,1.4,20,24,0,-0.29074290394783
+"646",2019-11-25,"Los Angeles Rams","Baltimore Ravens",2.5,2.3,1.66,1.58,6,45,1.86160450335592,1.39116988360183
+"647",2019-11-24,"San Francisco 49ers","Green Bay Packers",1.57,1.6,2.45,2.55,37,8,2.87190220225602,-0.0289856698364019
+"648",2019-11-24,"New England Patriots","Dallas Cowboys",1.4,1.36,3.25,3.1,13,9,-4.51810855430085,-1.57125619007275
+"649",2019-11-24,"Tennessee Titans","Jacksonville Jaguars",1.47,1.58,2.5,2.75,42,20,0,0
+"650",2019-11-24,"Atlanta Falcons","Tampa Bay Buccaneers",1.54,1.45,2.8,2.65,22,35,1.99724870081991,0
+"651",2019-11-24,"Buffalo Bills","Denver Broncos",1.47,1.41,3,2.75,20,3,0,0
+"652",2019-11-24,"Chicago Bears","New York Giants",1.36,1.36,3.25,3.25,19,14,-0.29074290394783,0
+"653",2019-11-24,"Cincinnati Bengals","Pittsburgh Steelers",3.3,3.45,1.32,1.35,10,16,-1.38718782702927,0.102408028673381
+"654",2019-11-24,"Cleveland Browns","Miami Dolphins",1.18,1.19,5,5.25,41,24,-2.09664479905041,0.752106428146362
+"655",2019-11-24,"New Orleans Saints","Carolina Panthers",1.19,1.23,4.25,5,34,31,0,-0.907837092876434
+"656",2019-11-24,"New York Jets","Oakland Raiders",2.6,2.6,1.55,1.55,34,3,-0.7868382781744,0
+"657",2019-11-24,"Philadelphia Eagles","Seattle Seahawks",2.1,1.68,2.25,1.76,9,17,0.546834262553603,-0.799173871055245
+"658",2019-11-24,"Washington Redskins","Detroit Lions",2.7,2.3,1.66,1.5,19,16,0,0
+"659",2019-11-21,"Houston Texans","Indianapolis Colts",1.5,1.52,2.67,2.7,20,17,0.857452327385545,-0.887061413377523
+"660",2019-11-18,"Los Angeles Chargers","Kansas City Chiefs",3.1,2.75,1.47,1.4,17,24,0,-0.926215514540672
+"661",2019-11-17,"Los Angeles Rams","Chicago Bears",1.4,1.34,3.35,3.05,17,7,-1.22707930587057,1.10686611197889
+"662",2019-11-17,"Oakland Raiders","Cincinnati Bengals",1.14,1.22,4.5,6,17,10,0,0
+"663",2019-11-17,"Philadelphia Eagles","New England Patriots",2.8,2.6,1.55,1.45,10,17,0.895578300580382,0.471026704646647
+"664",2019-11-17,"San Francisco 49ers","Arizona Cardinals",1.22,1.09,8,4.5,36,26,-1.11173340678215,0.547726690769196
+"665",2019-11-17,"Baltimore Ravens","Houston Texans",1.42,1.5,2.7,2.95,41,7,1.93135858635651,0.857452327385545
+"666",2019-11-17,"Carolina Panthers","Atlanta Falcons",1.47,1.38,3.15,2.75,3,29,0,1.87527543096803
+"667",2019-11-17,"Detroit Lions","Dallas Cowboys",3.8,3.45,1.32,1.27,27,35,-0.907286155968904,-0.630371034145355
+"668",2019-11-17,"Indianapolis Colts","Jacksonville Jaguars",1.71,1.62,2.4,2.2,33,13,0,1.13908303668723
+"669",2019-11-17,"Miami Dolphins","Buffalo Bills",3.65,3.25,1.36,1.3,20,37,0.82179129938595,0
+"670",2019-11-17,"Minnesota Vikings","Denver Broncos",1.2,1.18,5.25,4.75,27,23,0.998541500273859,0
+"671",2019-11-17,"Tampa Bay Buccaneers","New Orleans Saints",2.9,2.9,1.43,1.43,17,34,-0.988171251956374,-0.993826080113649
+"672",2019-11-17,"Washington Redskins","New York Jets",1.76,1.86,1.95,2.1,17,34,0,-2.6732395645231
+"673",2019-11-14,"Cleveland Browns","Pittsburgh Steelers",1.62,1.64,2.35,2.4,21,7,1.7402474170085,1.0862734131515
+"674",2019-11-11,"San Francisco 49ers","Seattle Seahawks",1.37,1.38,3.15,3.2,24,27,0,1.92648921092041
+"675",2019-11-10,"Dallas Cowboys","Minnesota Vikings",1.55,1.66,2.3,2.6,24,28,0.0859747976064682,-0.826628968119621
+"676",2019-11-10,"Green Bay Packers","Carolina Panthers",1.45,1.42,2.95,2.8,24,16,-0.994996929774061,-0.956019120290875
+"677",2019-11-10,"Pittsburgh Steelers","Los Angeles Rams",2.9,2.8,1.45,1.43,17,12,0.19621204584837,0.015518382191658
+"678",2019-11-10,"Indianapolis Colts","Miami Dolphins",1.18,1.19,5,5.25,12,16,-0.0268879383802413,0.904403977096081
+"679",2019-11-10,"Chicago Bears","Detroit Lions",1.35,1.58,2.5,3.3,20,13,-0.992082575568929,0
+"680",2019-11-10,"Cincinnati Bengals","Baltimore Ravens",5.25,4.5,1.22,1.18,13,49,0,0.993719458871055
+"681",2019-11-10,"Cleveland Browns","Buffalo Bills",1.64,1.74,2.15,2.35,19,16,2.69792817090638,0.504474066197872
+"682",2019-11-10,"New Orleans Saints","Atlanta Falcons",1.11,1.18,5.25,6.75,9,26,0.997738865669817,1.28225807845592
+"683",2019-11-10,"New York Jets","New York Giants",2.35,2.15,1.74,1.64,34,27,1.58405344700441,0
+"684",2019-11-10,"Tampa Bay Buccaneers","Arizona Cardinals",1.41,1.44,2.85,3,30,27,0,0
+"685",2019-11-10,"Tennessee Titans","Kansas City Chiefs",3.2,3.15,1.38,1.37,35,32,-1.91310487955343,0.25243055075407
+"686",2019-11-07,"Oakland Raiders","Los Angeles Chargers",2,1.83,2,1.83,26,24,0,-0.93672819249332
+"687",2019-11-04,"New York Giants","Dallas Cowboys",3.5,3.8,1.27,1.32,18,37,1.45384951680899,0
+"688",2019-11-03,"Baltimore Ravens","New England Patriots",2.45,2.7,1.5,1.6,37,20,0.16249392030295,2.1279071085155
+"689",2019-11-03,"Denver Broncos","Cleveland Browns",2.7,1.76,2.1,1.5,24,19,0,-1.97667399630882
+"690",2019-11-03,"Los Angeles Chargers","Green Bay Packers",2.75,2.4,1.62,1.47,26,11,0,-1.88446300290525
+"691",2019-11-03,"Oakland Raiders","Detroit Lions",1.68,1.74,2.15,2.25,31,24,0,0
+"692",2019-11-03,"Seattle Seahawks","Tampa Bay Buccaneers",1.45,1.35,3.3,2.8,40,34,0.989267571596429,-0.977006817702204
+"693",2019-11-03,"Buffalo Bills","Washington Redskins",1.18,1.22,4.5,5.25,24,9,0.839411264285445,0
+"694",2019-11-03,"Carolina Panthers","Tennessee Titans",1.55,1.54,2.65,2.6,30,20,0.125331208109856,0
+"695",2019-11-03,"Kansas City Chiefs","Minnesota Vikings",3,2.7,1.5,1.41,26,23,0.730462294071913,-1.43369764462113
+"696",2019-11-03,"Miami Dolphins","New York Jets",2.55,2.8,1.45,1.57,26,18,0,-2.9161813124083
+"697",2019-11-03,"Philadelphia Eagles","Chicago Bears",1.41,1.43,2.9,3,22,14,0.227653197944164,0.834580165334046
+"698",2019-11-03,"Pittsburgh Steelers","Indianapolis Colts",1.8,1.95,1.86,2.05,26,24,-2.76184547133744,0
+"699",2019-11-03,"Jacksonville Jaguars","Houston Texans",1.86,2.2,1.71,1.95,3,26,0.984339953865856,-0.952999644912779
+"700",2019-10-31,"Arizona Cardinals","San Francisco 49ers",4.75,3.9,1.27,1.2,25,28,1.46977533400059,2.34587229054887
+"701",2019-10-28,"Pittsburgh Steelers","Miami Dolphins",1.12,1.12,6.5,6.5,27,14,-1.89228489203379,-1.95449924096465
+"702",2019-10-27,"Kansas City Chiefs","Green Bay Packers",3.05,2.5,1.58,1.4,24,31,-0.0702979750931263,-0.717621323186904
+"703",2019-10-27,"Indianapolis Colts","Denver Broncos",1.38,1.35,3.3,3.15,15,13,0,0
+"704",2019-10-27,"New England Patriots","Cleveland Browns",1.22,1.22,4.5,4.5,27,13,-1.69822963327169,0
+"705",2019-10-27,"San Francisco 49ers","Carolina Panthers",1.44,1.41,3,2.85,51,13,0.767852328717709,0.977255940437317
+"706",2019-10-27,"Atlanta Falcons","Seattle Seahawks",3.8,3.5,1.32,1.27,20,27,-2.25828753761016,-0.924695601686835
+"707",2019-10-27,"Buffalo Bills","Philadelphia Eagles",1.86,1.8,2.05,1.95,13,31,0,-0.993855080800131
+"708",2019-10-27,"Chicago Bears","Los Angeles Chargers",1.52,1.41,3,2.67,16,17,-1.11209368571872,-1.09761733468622
+"709",2019-10-27,"Detroit Lions","New York Giants",1.36,1.32,3.45,3.25,31,26,-1.86641376838088,0
+"710",2019-10-27,"Houston Texans","Oakland Raiders",1.37,1.34,3.35,3.2,27,24,0,0
+"711",2019-10-27,"Jacksonville Jaguars","New York Jets",1.31,1.45,2.8,3.6,29,15,0,-0.399355532776099
+"712",2019-10-27,"Los Angeles Rams","Cincinnati Bengals",1.14,1.16,5.5,6,24,10,2.87859186995775,-0.0012257695198059
+"713",2019-10-27,"New Orleans Saints","Arizona Cardinals",1.15,1.22,4.5,5.75,31,9,1.01437605638057,1.62995251640677
+"714",2019-10-27,"Tennessee Titans","Tampa Bay Buccaneers",1.8,1.74,2.15,2.05,27,23,0.48869951441884,0
+"715",2019-10-24,"Minnesota Vikings","Washington Redskins",1.08,1.11,7,8.5,19,9,-0.698612190783024,0
+"716",2019-10-21,"New York Jets","New England Patriots",4.25,4.5,1.22,1.23,0,33,-0.974814310669899,0.951326468959451
+"717",2019-10-20,"Dallas Cowboys","Philadelphia Eagles",1.62,1.66,2.3,2.4,37,10,0.401507284026593,0.457890599966049
+"718",2019-10-20,"Chicago Bears","New Orleans Saints",1.45,1.52,2.67,2.8,25,36,-0.998173842846882,-0.926970556378365
+"719",2019-10-20,"Seattle Seahawks","Baltimore Ravens",1.64,1.5,2.7,2.35,16,30,1.58094487618655,0.739446975290775
+"720",2019-10-20,"Tennessee Titans","Los Angeles Chargers",1.66,1.76,2.1,2.3,23,20,-0.878840465098619,0
+"721",2019-10-20,"Atlanta Falcons","Los Angeles Rams",2.55,2.35,1.64,1.57,10,37,-1.05636214278638,-2.31247354700463
+"722",2019-10-20,"Buffalo Bills","Miami Dolphins",1.07,1.1,7.25,9,31,21,0,-1.27951708436012
+"723",2019-10-20,"Cincinnati Bengals","Jacksonville Jaguars",2.7,2.4,1.62,1.5,17,27,-0.81280942261219,0.0055506229400634
+"724",2019-10-20,"Detroit Lions","Minnesota Vikings",2.2,1.83,2,1.71,30,42,-0.989442002493888,0.297571842093021
+"725",2019-10-20,"Green Bay Packers","Oakland Raiders",1.4,1.32,3.45,3.1,42,24,1.02177341748029,0
+"726",2019-10-20,"Indianapolis Colts","Houston Texans",1.83,1.76,2.1,2,30,23,0,0.789985090494156
+"727",2019-10-20,"New York Giants","Arizona Cardinals",1.52,1.66,2.3,2.67,21,27,0.953665787354112,0.994037132710218
+"728",2019-10-20,"Washington Redskins","San Francisco 49ers",4.75,4.25,1.23,1.2,0,9,0,0.753683235961944
+"729",2019-10-17,"Denver Broncos","Kansas City Chiefs",2.35,2.55,1.57,1.64,6,30,-0.993791575077921,0.455392450094223
+"730",2019-10-14,"Green Bay Packers","Detroit Lions",1.54,1.38,3.15,2.65,23,22,0.766009499318898,0.314528724877164
+"731",2019-10-13,"Los Angeles Chargers","Pittsburgh Steelers",1.36,1.37,3.2,3.25,17,24,0,-1.18462690711021
+"732",2019-10-13,"Denver Broncos","Tennessee Titans",1.83,1.74,2.15,2,16,0,-0.993791575077921,-0.969790000468492
+"733",2019-10-13,"New York Jets","Dallas Cowboys",3.75,4.2,1.25,1.28,24,22,1.01197183993645,0.748265728354454
+"734",2019-10-13,"Arizona Cardinals","Atlanta Falcons",2.35,2.1,1.76,1.64,34,33,0,0.293083071708679
+"735",2019-10-13,"Los Angeles Rams","San Francisco 49ers",1.58,1.44,2.85,2.5,7,20,-1.14690646529198,1.26724890014157
+"736",2019-10-13,"Baltimore Ravens","Cincinnati Bengals",1.18,1.18,5.25,5.25,23,17,0,-0.707120433449745
+"737",2019-10-13,"Cleveland Browns","Seattle Seahawks",1.83,1.76,2.1,2,28,32,-0.667183528188616,0
+"738",2019-10-13,"Jacksonville Jaguars","New Orleans Saints",1.66,1.9,1.9,2.3,6,13,0.656399941071868,0
+"739",2019-10-13,"Kansas City Chiefs","Houston Texans",1.5,1.37,3.2,2.7,24,31,0.455392450094223,0
+"740",2019-10-13,"Miami Dolphins","Washington Redskins",3.05,2.67,1.52,1.4,16,17,0,0
+"741",2019-10-13,"Minnesota Vikings","Philadelphia Eagles",1.54,1.6,2.45,2.65,38,20,0.989528770092875,0
+"742",2019-10-13,"Tampa Bay Buccaneers","Carolina Panthers",2.05,1.86,1.95,1.8,26,37,0,0.467334428802132
+"743",2019-10-10,"New England Patriots","New York Giants",1.08,1.1,7.25,8.5,35,14,-0.994734381121816,0.962383641162887
+"744",2019-10-07,"San Francisco 49ers","Cleveland Browns",1.45,1.54,2.65,2.8,31,3,-0.259833574295044,0.148274241946638
+"745",2019-10-06,"Kansas City Chiefs","Indianapolis Colts",1.16,1.22,4.5,5.5,13,19,0.657031953334808,0
+"746",2019-10-06,"Dallas Cowboys","Green Bay Packers",1.54,1.5,2.7,2.65,24,34,-0.89632772654295,-0.327511295676231
+"747",2019-10-06,"Los Angeles Chargers","Denver Broncos",1.43,1.38,3.15,2.9,13,20,1.30042430013418,-0.997101288812701
+"748",2019-10-06,"Carolina Panthers","Jacksonville Jaguars",1.58,1.54,2.65,2.5,34,27,0,0.989227969956119
+"749",2019-10-06,"Cincinnati Bengals","Arizona Cardinals",1.6,1.5,2.7,2.45,23,26,-0.998203083872795,0.132436648011207
+"750",2019-10-06,"Houston Texans","Atlanta Falcons",1.47,1.44,2.85,2.75,53,32,0,0.750174947082996
+"751",2019-10-06,"New Orleans Saints","Tampa Bay Buccaneers",1.62,1.38,3.15,2.4,31,24,2.35970302694477,-0.872580520808697
+"752",2019-10-06,"New York Giants","Minnesota Vikings",3,2.9,1.43,1.41,10,28,0.962383641162887,0
+"753",2019-10-06,"Oakland Raiders","Chicago Bears",3.3,2.8,1.45,1.35,24,21,0,-0.0312001276761293
+"754",2019-10-06,"Philadelphia Eagles","New York Jets",1.11,1.1,7.25,7,31,6,0,0
+"755",2019-10-06,"Pittsburgh Steelers","Baltimore Ravens",2.5,2.75,1.47,1.58,23,26,0,0.0221914046560412
+"756",2019-10-06,"Tennessee Titans","Buffalo Bills",1.57,1.76,2.1,2.55,7,14,0,-0.905707912752405
+"757",2019-10-06,"Washington Redskins","New England Patriots",8,6.75,1.11,1.09,7,33,0,0
+"758",2019-10-03,"Seattle Seahawks","Los Angeles Rams",1.8,1.9,1.9,2.05,30,29,0,-0.980023039039224
+"759",2019-09-30,"Pittsburgh Steelers","Cincinnati Bengals",1.54,1.47,2.75,2.65,27,3,0,0
+"760",2019-09-29,"New Orleans Saints","Dallas Cowboys",2.25,2.45,1.6,1.68,12,10,1.55070560006425,0.362104564905167
+"761",2019-09-29,"Chicago Bears","Minnesota Vikings",1.86,1.66,2.3,1.95,16,6,0,0
+"762",2019-09-29,"Denver Broncos","Jacksonville Jaguars",1.68,1.6,2.45,2.25,24,26,0,-2.42838242527796
+"763",2019-09-29,"Arizona Cardinals","Seattle Seahawks",3,2.8,1.45,1.41,10,27,0,0.6794373691082
+"764",2019-09-29,"Los Angeles Rams","Tampa Bay Buccaneers",1.22,1.2,4.75,4.5,40,55,0,0
+"765",2019-09-29,"Atlanta Falcons","Tennessee Titans",1.57,1.43,2.9,2.55,10,24,-0.960645228624344,0
+"766",2019-09-29,"Baltimore Ravens","Cleveland Browns",1.28,1.38,3.15,3.75,25,40,0.926956662908196,-0.290032126009464
+"767",2019-09-29,"Buffalo Bills","New England Patriots",3.65,3.7,1.29,1.3,10,16,0.975459857669193,-0.996602182742208
+"768",2019-09-29,"Detroit Lions","Kansas City Chiefs",4,3.45,1.32,1.26,30,34,0,0
+"769",2019-09-29,"Houston Texans","Carolina Panthers",1.4,1.47,2.75,3.05,10,16,0,-0.269230669364333
+"770",2019-09-29,"Indianapolis Colts","Oakland Raiders",1.38,1.33,3.4,3.15,24,31,-0.834212929010391,0
+"771",2019-09-29,"Miami Dolphins","Los Angeles Chargers",7.25,8,1.09,1.1,10,30,0,1.15090996026993
+"772",2019-09-29,"New York Giants","Washington Redskins",1.58,1.68,2.25,2.5,24,3,0.126752726733685,0
+"773",2019-09-26,"Green Bay Packers","Philadelphia Eagles",1.5,1.45,2.8,2.7,27,34,0,-1.0145454579033
+"774",2019-09-23,"Washington Redskins","Chicago Bears",3,2.67,1.52,1.41,15,31,0,0
+"775",2019-09-22,"Cleveland Browns","Los Angeles Rams",2.8,2.1,1.76,1.45,13,20,-2.31742348754779,0
+"776",2019-09-22,"Los Angeles Chargers","Houston Texans",1.62,1.54,2.65,2.4,20,27,0.739254228770733,0
+"777",2019-09-22,"Seattle Seahawks","New Orleans Saints",1.4,1.43,2.9,3.05,27,33,0,-2.10004886984825
+"778",2019-09-22,"San Francisco 49ers","Pittsburgh Steelers",1.33,1.31,3.55,3.4,24,20,0,-0.0471225082874298
+"779",2019-09-22,"Tampa Bay Buccaneers","New York Giants",1.4,1.33,3.4,3.05,31,32,0,0.980766614899039
+"780",2019-09-22,"Arizona Cardinals","Carolina Panthers",1.68,2.2,1.71,2.25,20,38,0,0
+"781",2019-09-22,"Buffalo Bills","Cincinnati Bengals",1.35,1.4,3.1,3.3,21,17,0,0
+"782",2019-09-22,"Dallas Cowboys","Miami Dolphins",1.02,1.05,12.25,16,31,6,-0.169790368527174,-0.0665490627288818
+"783",2019-09-22,"Green Bay Packers","Denver Broncos",1.27,1.3,3.65,3.9,27,16,0,0.167515679611824
+"784",2019-09-22,"Indianapolis Colts","Atlanta Falcons",1.8,1.76,2.1,2.05,27,24,-0.826283093541861,0
+"785",2019-09-22,"Kansas City Chiefs","Baltimore Ravens",1.42,1.34,3.35,2.95,33,28,0.752918293699622,0.997800238546915
+"786",2019-09-22,"Minnesota Vikings","Oakland Raiders",1.22,1.29,3.7,4.5,34,14,0.848307240754366,0
+"787",2019-09-22,"New England Patriots","New York Jets",1.03,1.05,12,15.5,30,14,-2.63857883083983,-2.20370862819254
+"788",2019-09-22,"Philadelphia Eagles","Detroit Lions",1.45,1.29,3.7,2.8,24,27,-0.828515096567571,-0.392616331577301
+"789",2019-09-19,"Jacksonville Jaguars","Tennessee Titans",2.1,2.1,1.76,1.76,20,7,-0.207614123355597,0.757826581597328
+"790",2019-09-16,"New York Jets","Cleveland Browns",3.55,2.1,1.76,1.31,3,23,-4.91716209455626,-1.35975517006591
+"791",2019-09-15,"Atlanta Falcons","Philadelphia Eagles",1.95,1.9,1.9,1.86,24,20,0,-0.930828649550676
+"792",2019-09-15,"Denver Broncos","Chicago Bears",2.3,1.9,1.9,1.66,14,16,0.937624789192341,0
+"793",2019-09-15,"Los Angeles Rams","New Orleans Saints",1.74,1.58,2.5,2.15,27,9,0,0
+"794",2019-09-15,"Oakland Raiders","Kansas City Chiefs",3.65,4.1,1.25,1.3,10,28,0,-0.920369375497103
+"795",2019-09-15,"Baltimore Ravens","Arizona Cardinals",1.13,1.12,6.5,6.25,23,17,0,1.13476876588538
+"796",2019-09-15,"Cincinnati Bengals","San Francisco 49ers",1.86,2.05,1.8,1.95,17,41,0,-0.859288759529591
+"797",2019-09-15,"Detroit Lions","Los Angeles Chargers",2,2.35,1.64,1.83,13,10,0,0.407750070095062
+"798",2019-09-15,"Green Bay Packers","Minnesota Vikings",1.6,1.62,2.4,2.45,21,16,-0.997269145271275,0
+"799",2019-09-15,"Houston Texans","Jacksonville Jaguars",1.27,1.23,4.25,3.8,13,12,-0.6274553835392,-1.02492197556421
+"800",2019-09-15,"Miami Dolphins","New England Patriots",11,10,1.06,1.05,0,43,0.507569089531898,2.01114495890215
+"801",2019-09-15,"New York Giants","Buffalo Bills",2,2.1,1.76,1.83,14,28,-0.92123194783926,0
+"802",2019-09-15,"Pittsburgh Steelers","Seattle Seahawks",1.5,1.52,2.67,2.7,26,28,0.67251542955637,0
+"803",2019-09-15,"Tennessee Titans","Indianapolis Colts",1.54,1.62,2.4,2.65,17,19,0,-0.9987315464532
+"804",2019-09-15,"Washington Redskins","Dallas Cowboys",3.25,2.9,1.43,1.36,21,31,0,0
+"805",2019-09-12,"Carolina Panthers","Tampa Bay Buccaneers",1.35,1.33,3.4,3.3,14,20,0,0.895731545984745
+"806",2019-09-09,"Oakland Raiders","Denver Broncos",2.35,1.9,1.9,1.64,24,16,0,0.966078856959939
+"807",2019-09-09,"New Orleans Saints","Houston Texans",1.32,1.32,3.5,3.5,30,28,-0.67404368519783,0.000500072375871241
+"808",2019-09-08,"New England Patriots","Pittsburgh Steelers",1.4,1.38,3.15,3.05,33,3,0.854300773702562,0.911924377083778
+"809",2019-09-08,"Arizona Cardinals","Detroit Lions",2.3,2.15,1.74,1.66,27,27,0.903660152107477,0
+"810",2019-09-08,"Dallas Cowboys","New York Giants",1.29,1.32,3.5,3.7,35,17,1.53852355852723,0
+"811",2019-09-08,"Tampa Bay Buccaneers","San Francisco 49ers",1.86,1.86,1.95,1.95,17,31,-0.525219576433301,-0.719216208904982
+"812",2019-09-08,"Los Angeles Chargers","Indianapolis Colts",1.34,1.3,3.65,3.35,30,24,-0.457599550485611,0.30950203537941
+"813",2019-09-08,"Seattle Seahawks","Cincinnati Bengals",1.22,1.23,4.25,4.5,21,20,0,0.93232848495245
+"814",2019-09-08,"Carolina Panthers","Los Angeles Rams",2.1,2.3,1.66,1.76,27,30,-0.91586884483695,1.93727898097131
+"815",2019-09-08,"Cleveland Browns","Tennessee Titans",1.4,1.4,3.05,3.1,13,43,0.76679202914238,0
+"816",2019-09-08,"Jacksonville Jaguars","Kansas City Chiefs",2.65,2.75,1.47,1.54,26,40,-0.213908185251057,-0.0763924247585236
+"817",2019-09-08,"Miami Dolphins","Baltimore Ravens",3.6,3,1.41,1.31,10,59,0.851025938987732,0
+"818",2019-09-08,"Minnesota Vikings","Atlanta Falcons",1.52,1.5,2.7,2.67,28,12,-0.868483737111092,0.248078927397728
+"819",2019-09-08,"New York Jets","Buffalo Bills",1.68,1.6,2.45,2.25,16,17,0.83496431261301,0
+"820",2019-09-08,"Philadelphia Eagles","Washington Redskins",1.2,1.25,4.2,4.75,32,27,0,0
+"821",2019-09-05,"Chicago Bears","Green Bay Packers",1.58,1.58,2.5,2.5,3,10,0.657220346853137,1.54618342220783
+"822",2019-02-03,"Los Angeles Rams","New England Patriots",2.1,1.95,1.86,1.76,3,13,3.65040223312098,3.14766387687996
+"823",2019-01-20,"Kansas City Chiefs","New England Patriots",1.58,1.68,2.25,2.5,31,37,1.69425635039806,-0.415003156813327
+"824",2019-01-20,"New Orleans Saints","Los Angeles Rams",1.6,1.57,2.55,2.45,23,26,0.764334872364998,1.94191497226711
+"825",2019-01-13,"New Orleans Saints","Philadelphia Eagles",1.25,1.26,4,4.1,20,14,1.81819386442658,0.735397389158607
+"826",2019-01-13,"New England Patriots","Los Angeles Chargers",1.5,1.45,2.8,2.7,41,28,0.307854391634464,0.856473416090012
+"827",2019-01-12,"Los Angeles Rams","Dallas Cowboys",1.29,1.31,3.6,3.7,30,22,-0.995728128240444,0.991798373928759
+"828",2019-01-12,"Kansas City Chiefs","Indianapolis Colts",1.5,1.43,2.9,2.7,31,13,0,2.9345736282412
+"829",2019-01-06,"Chicago Bears","Philadelphia Eagles",1.33,1.41,3,3.4,15,16,0.871396383852698,0.585055578965694
+"830",2019-01-06,"Baltimore Ravens","Los Angeles Chargers",1.66,1.66,2.3,2.3,17,23,0.944147668778896,0
+"831",2019-01-05,"Dallas Cowboys","Seattle Seahawks",1.66,1.68,2.25,2.3,24,22,0.945126920938492,0.734885168145411
+"832",2019-01-05,"Houston Texans","Indianapolis Colts",1.8,1.74,2.15,2.05,7,21,0.707158908247948,2.76840718695894
+"833",2018-12-30,"Tennessee Titans","Indianapolis Colts",2.9,2.35,1.64,1.43,17,33,-0.840953287668526,0.939031985588372
+"834",2018-12-30,"Baltimore Ravens","Cleveland Browns",1.3,1.41,3,3.65,26,24,1.97788472849061,-0.0289495252072811
+"835",2018-12-30,"Denver Broncos","Los Angeles Chargers",3.4,3.45,1.32,1.33,9,23,-0.88335975073278,0
+"836",2018-12-30,"Los Angeles Rams","San Francisco 49ers",1.2,1.22,4.5,4.75,48,32,-0.762278407812119,0
+"837",2018-12-30,"Minnesota Vikings","Chicago Bears",1.4,1.43,2.9,3.1,10,24,0.06498754164204,0.123724330216646
+"838",2018-12-30,"Pittsburgh Steelers","Cincinnati Bengals",1.12,1.1,7.25,6.5,16,13,-1.0166052763816,-0.178543113404885
+"839",2018-12-30,"Seattle Seahawks","Arizona Cardinals",1.1,1.13,6.25,7.25,27,24,1.4432991379872,1.00301276519895
+"840",2018-12-30,"Washington Redskins","Philadelphia Eagles",3.15,3.45,1.32,1.38,0,24,0,0.96747590880841
+"841",2018-12-30,"Buffalo Bills","Miami Dolphins",1.4,1.58,2.5,3.05,42,17,0,-0.684297259896994
+"842",2018-12-30,"Green Bay Packers","Detroit Lions",1.29,1.31,3.6,3.7,0,31,0,0.0613425970077514
+"843",2018-12-30,"Houston Texans","Jacksonville Jaguars",1.31,1.28,3.75,3.6,20,3,0,0.327958434820175
+"844",2018-12-30,"Kansas City Chiefs","Oakland Raiders",1.1,1.12,6.5,7.5,35,3,0.643549412488937,0
+"845",2018-12-30,"New England Patriots","New York Jets",1.12,1.13,6.25,6.5,38,3,0,-0.241639755666256
+"846",2018-12-30,"New Orleans Saints","Carolina Panthers",1.27,1.28,3.75,3.8,14,33,0.985724217258394,1.85627169092186
+"847",2018-12-30,"New York Giants","Dallas Cowboys",1.31,1.3,3.65,3.6,35,36,-0.991505027050152,0
+"848",2018-12-30,"Tampa Bay Buccaneers","Atlanta Falcons",2.3,1.8,2.05,1.66,32,34,-0.789317429065704,0
+"849",2018-12-24,"Oakland Raiders","Denver Broncos",2.2,2.2,1.71,1.71,27,14,0,-0.985390193440253
+"850",2018-12-23,"Seattle Seahawks","Kansas City Chiefs",2.05,2.15,1.74,1.8,38,31,0,0
+"851",2018-12-23,"New Orleans Saints","Pittsburgh Steelers",1.35,1.38,3.15,3.3,31,28,0.0771012445911765,-1.31066121254116
+"852",2018-12-23,"Arizona Cardinals","Los Angeles Rams",6.5,9,1.07,1.12,9,31,1.36085837334394,0.544329844880849
+"853",2018-12-23,"San Francisco 49ers","Chicago Bears",2.75,2.65,1.54,1.47,9,14,-0.673927571624517,0
+"854",2018-12-23,"Carolina Panthers","Atlanta Falcons",2.4,1.68,2.25,1.62,10,24,-1.64814513875172,0
+"855",2018-12-23,"Cleveland Browns","Cincinnati Bengals",1.22,1.36,3.25,4.5,26,18,1.63892084942199,0
+"856",2018-12-23,"Dallas Cowboys","Tampa Bay Buccaneers",1.29,1.32,3.5,3.7,27,20,0,0
+"857",2018-12-23,"Detroit Lions","Minnesota Vikings",3.4,3.05,1.4,1.33,9,27,0.495763868093491,0
+"858",2018-12-23,"Indianapolis Colts","New York Giants",1.2,1.2,4.75,4.75,28,27,1.98605892178603,-0.980604605050758
+"859",2018-12-23,"Miami Dolphins","Jacksonville Jaguars",1.6,1.42,2.95,2.45,7,17,0,0.327958434820175
+"860",2018-12-23,"New England Patriots","Buffalo Bills",1.11,1.12,6.5,7,24,12,-1.56833479437046,0
+"861",2018-12-23,"New York Jets","Green Bay Packers",2.4,1.8,2.05,1.62,38,44,0.967122574336827,-0.968645055778325
+"862",2018-12-23,"Philadelphia Eagles","Houston Texans",1.8,1.9,1.9,2.05,32,30,2.18281435780227,0
+"863",2018-12-22,"Los Angeles Chargers","Baltimore Ravens",1.45,1.44,2.85,2.8,10,22,-0.0085228942334651,-0.198813050985336
+"864",2018-12-22,"Tennessee Titans","Washington Redskins",1.15,1.19,5,5.75,25,16,1.46030409925152,0
+"865",2018-12-17,"Carolina Panthers","New Orleans Saints",3.15,3.1,1.4,1.38,9,12,0,1.48007837682962
+"866",2018-12-16,"Los Angeles Rams","Philadelphia Eagles",1.11,1.23,4.25,7,23,30,0.717162020446267,-2.53839315427467
+"867",2018-12-16,"Pittsburgh Steelers","New England Patriots",2.25,2,1.83,1.68,17,10,-1.98250601883046,0.0692563652992248
+"868",2018-12-16,"San Francisco 49ers","Seattle Seahawks",2.85,3.3,1.35,1.44,26,23,-1.53203989006579,0
+"869",2018-12-16,"Atlanta Falcons","Arizona Cardinals",1.22,1.23,4.25,4.5,40,14,0.0697683990001678,0.963771685725078
+"870",2018-12-16,"Baltimore Ravens","Tampa Bay Buccaneers",1.25,1.27,3.8,4.2,20,12,0,0
+"871",2018-12-16,"Buffalo Bills","Detroit Lions",1.66,1.66,2.3,2.3,14,13,-1.65391133446246,0
+"872",2018-12-16,"Chicago Bears","Green Bay Packers",1.42,1.37,3.2,2.95,24,17,0.94630553200841,0
+"873",2018-12-16,"Cincinnati Bengals","Oakland Raiders",1.58,1.58,2.5,2.5,30,16,0,0
+"874",2018-12-16,"Indianapolis Colts","Dallas Cowboys",1.62,1.66,2.3,2.4,23,0,0,-0.557134569564369
+"875",2018-12-16,"Jacksonville Jaguars","Washington Redskins",1.27,1.32,3.45,3.8,13,16,0,0
+"876",2018-12-16,"Minnesota Vikings","Miami Dolphins",1.26,1.3,3.65,4,41,17,-0.743450209498405,1.2795553158503
+"877",2018-12-16,"New York Giants","Tennessee Titans",2.1,1.66,2.3,1.76,0,17,0.00877361558377732,1.87284146493766
+"878",2018-12-15,"Denver Broncos","Cleveland Browns",1.74,1.58,2.5,2.15,16,17,0,0.949465740472078
+"879",2018-12-15,"New York Jets","Houston Texans",3.5,3.3,1.35,1.32,22,29,0,0.84607594832778
+"880",2018-12-13,"Kansas City Chiefs","Los Angeles Chargers",1.5,1.58,2.5,2.7,28,29,1.97105919424212,0
+"881",2018-12-10,"Seattle Seahawks","Minnesota Vikings",1.6,1.58,2.5,2.45,21,7,0.580738343298435,0.266854085028171
+"882",2018-12-09,"Chicago Bears","Los Angeles Rams",2.3,2.55,1.57,1.66,15,6,0.716995820403099,0
+"883",2018-12-09,"Arizona Cardinals","Detroit Lions",2.2,2.1,1.76,1.71,3,17,-0.459464473649859,0
+"884",2018-12-09,"Dallas Cowboys","Philadelphia Eagles",1.54,1.5,2.7,2.65,29,23,0.214125484228134,-0.989934577140957
+"885",2018-12-09,"Oakland Raiders","Pittsburgh Steelers",5.25,6.25,1.13,1.18,24,21,0,0
+"886",2018-12-09,"Los Angeles Chargers","Cincinnati Bengals",1.06,1.09,8,10,26,21,0.21645200252533,-0.996818194660591
+"887",2018-12-09,"San Francisco 49ers","Denver Broncos",2.4,2.9,1.43,1.62,20,14,-0.0870398879051208,-0.976255413377658
+"888",2018-12-09,"Buffalo Bills","New York Jets",1.45,1.55,2.6,2.8,23,27,-1.87861243914813,-0.95820682408521
+"889",2018-12-09,"Cleveland Browns","Carolina Panthers",1.95,2.05,1.8,1.86,26,20,-1.5422779796645,0
+"890",2018-12-09,"Green Bay Packers","Atlanta Falcons",1.52,1.4,3.1,2.67,34,20,-2.72515553049743,0
+"891",2018-12-09,"Houston Texans","Indianapolis Colts",1.47,1.44,2.85,2.75,21,24,1.83965907047968,0
+"892",2018-12-09,"Kansas City Chiefs","Baltimore Ravens",1.35,1.31,3.55,3.3,27,24,0,-0.482777846977115
+"893",2018-12-09,"Miami Dolphins","New England Patriots",4.5,4.1,1.25,1.22,34,33,0,0.396310447191354
+"894",2018-12-09,"Tampa Bay Buccaneers","New Orleans Saints",4.75,4.1,1.25,1.2,14,28,0,-0.183132138103247
+"895",2018-12-09,"Washington Redskins","New York Giants",2.45,2.6,1.55,1.6,16,40,0,-0.987009049393237
+"896",2018-12-06,"Tennessee Titans","Jacksonville Jaguars",1.4,1.44,2.85,3.05,30,9,0,0.113115966320038
+"897",2018-12-03,"Philadelphia Eagles","Washington Redskins",1.38,1.37,3.2,3.15,28,13,-0.0952273514121772,0
+"898",2018-12-02,"Pittsburgh Steelers","Los Angeles Chargers",1.57,1.57,2.55,2.55,30,33,0.837431170046329,0
+"899",2018-12-02,"New England Patriots","Minnesota Vikings",1.4,1.41,3,3.1,24,10,0.146674793213606,0.195926772430539
+"900",2018-12-02,"Seattle Seahawks","San Francisco 49ers",1.2,1.22,4.5,4.75,43,16,0.51254566386342,-1.57492405921221
+"901",2018-12-02,"Oakland Raiders","Kansas City Chiefs",7.5,8,1.09,1.1,33,40,0,-0.770647510886192
+"902",2018-12-02,"Tennessee Titans","New York Jets",1.2,1.22,4.5,4.75,26,22,0,0
+"903",2018-12-02,"Atlanta Falcons","Baltimore Ravens",1.68,2,1.83,2.25,16,26,0,0.947253882884979
+"904",2018-12-02,"Cincinnati Bengals","Denver Broncos",2.8,2.7,1.5,1.45,10,24,-0.910126004368067,0
+"905",2018-12-02,"Detroit Lions","Los Angeles Rams",5,4.75,1.2,1.19,16,30,-0.990258953359444,0
+"906",2018-12-02,"Green Bay Packers","Arizona Cardinals",1.11,1.11,7,6.75,17,20,0.85259111225605,0
+"907",2018-12-02,"Houston Texans","Cleveland Browns",1.38,1.38,3.15,3.15,29,13,0.780384849756956,0.772489897761261
+"908",2018-12-02,"Jacksonville Jaguars","Indianapolis Colts",2.8,2.6,1.55,1.45,6,0,-1.24661231786013,-0.976984686683863
+"909",2018-12-02,"Miami Dolphins","Buffalo Bills",1.5,1.42,2.95,2.7,21,17,0,-0.908422393724322
+"910",2018-12-02,"New York Giants","Chicago Bears",2.65,2.67,1.52,1.54,30,27,0,-0.889677739702165
+"911",2018-12-02,"Tampa Bay Buccaneers","Carolina Panthers",2.67,2.67,1.52,1.52,24,17,-0.188665121793747,0
+"912",2018-11-29,"Dallas Cowboys","New Orleans Saints",3.75,3.7,1.29,1.28,13,10,0.763713546097279,0.697498513385653
+"913",2018-11-26,"Houston Texans","Tennessee Titans",1.5,1.37,3.2,2.7,34,17,0.288361638784408,-0.910902045667172
+"914",2018-11-25,"Minnesota Vikings","Green Bay Packers",1.5,1.5,2.7,2.7,24,17,-0.981101249810308,-0.611990623176098
+"915",2018-11-25,"Denver Broncos","Pittsburgh Steelers",2.5,2.5,1.58,1.58,24,17,0,0.837431170046329
+"916",2018-11-25,"Indianapolis Colts","Miami Dolphins",1.23,1.22,4.5,4.25,27,24,1.98514122131746,0
+"917",2018-11-25,"Los Angeles Chargers","Arizona Cardinals",1.1,1.16,5.5,7.5,45,10,0.783707313239574,0
+"918",2018-11-25,"Baltimore Ravens","Oakland Raiders",1.13,1.15,5.75,6.25,34,17,1.67601136211306,0
+"919",2018-11-25,"Buffalo Bills","Jacksonville Jaguars",2.45,2.5,1.58,1.6,24,21,-0.987923090811819,0
+"920",2018-11-25,"Carolina Panthers","Seattle Seahawks",1.62,1.57,2.55,2.4,27,30,0,0
+"921",2018-11-25,"Cincinnati Bengals","Cleveland Browns",1.86,1.58,2.5,1.95,20,35,0,0
+"922",2018-11-25,"New York Jets","New England Patriots",5.75,4.5,1.22,1.15,13,27,-0.993291843682528,0.767990440130234
+"923",2018-11-25,"Philadelphia Eagles","New York Giants",1.47,1.4,3.05,2.75,25,22,-0.9973268333124,0
+"924",2018-11-25,"Tampa Bay Buccaneers","San Francisco 49ers",1.76,1.52,2.67,2.1,27,9,0.574047520756721,0
+"925",2018-11-22,"New Orleans Saints","Atlanta Falcons",1.13,1.14,6,6.25,31,17,1.65674927737564,0
+"926",2018-11-22,"Dallas Cowboys","Washington Redskins",1.27,1.27,3.8,3.8,31,23,-0.647924342658371,0
+"927",2018-11-22,"Detroit Lions","Chicago Bears",2.5,2.7,1.5,1.58,16,23,-0.709970563650131,2.61969069839688
+"928",2018-11-19,"Los Angeles Rams","Kansas City Chiefs",1.74,1.74,2.15,2.15,54,51,1.52927646739408,0.737653411924839
+"929",2018-11-18,"Chicago Bears","Minnesota Vikings",1.71,1.74,2.15,2.2,25,20,1.62373208766803,0
+"930",2018-11-18,"New Orleans Saints","Philadelphia Eagles",1.27,1.27,3.8,3.8,48,7,1.89518665941432,-0.137460753554478
+"931",2018-11-18,"Arizona Cardinals","Oakland Raiders",1.45,1.52,2.67,2.8,21,23,0,0
+"932",2018-11-18,"Los Angeles Chargers","Denver Broncos",1.27,1.31,3.6,3.8,22,23,2.57054477743804,0
+"933",2018-11-18,"Atlanta Falcons","Dallas Cowboys",1.54,1.57,2.55,2.65,19,22,0.949364427942783,2.22472113789991
+"934",2018-11-18,"Baltimore Ravens","Cincinnati Bengals",1.37,1.5,2.7,3.2,24,21,0.070641172118485,0
+"935",2018-11-18,"Detroit Lions","Carolina Panthers",2.75,2.7,1.5,1.47,20,19,0,-0.533900782465935
+"936",2018-11-18,"Indianapolis Colts","Tennessee Titans",1.83,1.74,2.15,2,38,10,-0.861070858314633,-0.9184425547719
+"937",2018-11-18,"Jacksonville Jaguars","Pittsburgh Steelers",2.75,3.15,1.38,1.47,16,20,0.837838768959045,-1.20971295190975
+"938",2018-11-18,"New York Giants","Tampa Bay Buccaneers",1.6,1.86,1.95,2.45,38,35,-0.85999009013176,0.574047520756721
+"939",2018-11-18,"Washington Redskins","Houston Texans",2.4,2.35,1.64,1.62,21,23,0,0
+"940",2018-11-15,"Seattle Seahawks","Green Bay Packers",1.64,1.74,2.15,2.35,27,24,1.75588546507061,0.985001206630841
+"941",2018-11-12,"San Francisco 49ers","New York Giants",1.6,1.62,2.4,2.45,23,27,0.792551517486572,-0.85999009013176
+"942",2018-11-11,"Philadelphia Eagles","Dallas Cowboys",1.27,1.37,3.2,3.9,20,27,0,-0.960206703515723
+"943",2018-11-11,"Green Bay Packers","Miami Dolphins",1.13,1.22,4.5,6.25,31,12,-2.78894826154283,0.304451145231724
+"944",2018-11-11,"Los Angeles Rams","Seattle Seahawks",1.2,1.2,4.75,4.75,36,31,-0.960055932635442,-0.983388177817687
+"945",2018-11-11,"Oakland Raiders","Los Angeles Chargers",5,4.5,1.22,1.19,6,20,0,0
+"946",2018-11-11,"Chicago Bears","Detroit Lions",1.27,1.37,3.2,3.8,34,22,-0.778587520122528,0.0482789874076843
+"947",2018-11-11,"Cincinnati Bengals","New Orleans Saints",3.25,2.95,1.42,1.36,14,51,0,0.622538237366825
+"948",2018-11-11,"Cleveland Browns","Atlanta Falcons",3.15,2.8,1.45,1.38,28,16,0.484892919659615,0.883021259214729
+"949",2018-11-11,"Indianapolis Colts","Jacksonville Jaguars",1.6,1.62,2.4,2.45,29,26,0,-0.36862501502037
+"950",2018-11-11,"Kansas City Chiefs","Arizona Cardinals",1.06,1.06,10,10.5,26,14,0,0.88315764372237
+"951",2018-11-11,"New York Jets","Buffalo Bills",1.32,1.26,4,3.5,10,41,-1.28602983802557,0.612348109483719
+"952",2018-11-11,"Tampa Bay Buccaneers","Washington Redskins",1.55,1.74,2.15,2.6,3,16,0,0
+"953",2018-11-11,"Tennessee Titans","New England Patriots",3.6,3.4,1.33,1.31,34,10,-0.9184425547719,-1.05114922649227
+"954",2018-11-08,"Pittsburgh Steelers","Carolina Panthers",1.5,1.47,2.75,2.7,52,21,0.33459385484457,0
+"955",2018-11-05,"Dallas Cowboys","Tennessee Titans",1.45,1.37,3.2,2.8,14,28,0.192869694903493,0
+"956",2018-11-04,"New England Patriots","Green Bay Packers",1.44,1.41,3,2.85,31,17,0.616647824645042,-2.10908444505185
+"957",2018-11-04,"New Orleans Saints","Los Angeles Rams",2.1,1.8,2.05,1.76,45,35,1.89641323685646,1.95350610790774
+"958",2018-11-04,"Denver Broncos","Houston Texans",1.86,1.71,2.2,1.95,17,19,-0.945673695765436,0.967757610604167
+"959",2018-11-04,"Seattle Seahawks","Los Angeles Chargers",1.8,1.83,2,2.05,17,25,-0.206999026006088,0
+"960",2018-11-04,"Baltimore Ravens","Pittsburgh Steelers",1.8,1.66,2.3,2.05,16,23,0,0.435028173029423
+"961",2018-11-04,"Buffalo Bills","Chicago Bears",4.75,4.5,1.22,1.2,9,41,-0.923918781802058,-2.37213114090264
+"962",2018-11-04,"Carolina Panthers","Tampa Bay Buccaneers",1.34,1.33,3.4,3.35,42,28,0,-1.66310173086822
+"963",2018-11-04,"Cleveland Browns","Kansas City Chiefs",4.25,4.2,1.25,1.23,21,37,-0.983127660030732,0
+"964",2018-11-04,"Miami Dolphins","New York Jets",1.62,1.62,2.4,2.4,13,6,0.361639656126499,0
+"965",2018-11-04,"Minnesota Vikings","Detroit Lions",1.45,1.43,2.9,2.8,24,9,0.568920612335205,0
+"966",2018-11-04,"Washington Redskins","Atlanta Falcons",1.76,1.8,2.05,2.1,14,38,0,0
+"967",2018-11-01,"San Francisco 49ers","Oakland Raiders",2.1,1.6,2.45,1.76,34,3,0,0
+"968",2018-10-29,"Buffalo Bills","New England Patriots",8.5,8,1.09,1.08,6,25,0,0.630858860909939
+"969",2018-10-28,"Minnesota Vikings","New Orleans Saints",2.25,1.83,2,1.68,20,30,0.448553405702114,0
+"970",2018-10-28,"Arizona Cardinals","San Francisco 49ers",2.3,1.83,2,1.66,18,15,-0.423359990119934,0
+"971",2018-10-28,"Los Angeles Rams","Green Bay Packers",1.28,1.25,4.2,3.75,29,27,0.268102459609509,-0.945337834767997
+"972",2018-10-28,"Oakland Raiders","Indianapolis Colts",2.67,2.05,1.8,1.52,28,42,0,-0.0870264184777626
+"973",2018-10-28,"Carolina Panthers","Baltimore Ravens",2.2,2.05,1.8,1.71,36,21,0,-0.0625399635173381
+"974",2018-10-28,"Chicago Bears","New York Jets",1.23,1.36,3.25,4.25,24,10,-0.619451224803925,-0.646006146445871
+"975",2018-10-28,"Cincinnati Bengals","Tampa Bay Buccaneers",1.5,1.4,3.05,2.7,37,34,-1.60223758965731,-0.739961058367044
+"976",2018-10-28,"Detroit Lions","Seattle Seahawks",1.6,1.68,2.25,2.45,14,28,0,0
+"977",2018-10-28,"Kansas City Chiefs","Denver Broncos",1.22,1.16,5.5,4.5,30,23,0,-0.946931310463697
+"978",2018-10-28,"New York Giants","Washington Redskins",2.05,2,1.83,1.8,13,20,-1.33362302475143,0
+"979",2018-10-28,"Pittsburgh Steelers","Cleveland Browns",1.22,1.27,3.8,4.5,33,18,-0.716460838913918,0.902551935985684
+"980",2018-10-28,"Jacksonville Jaguars","Philadelphia Eagles",2.75,2.55,1.57,1.47,18,24,-3.92750596068799,-0.28366732946597
+"981",2018-10-25,"Houston Texans","Miami Dolphins",1.26,1.32,3.5,4,42,23,0.986142246052623,-0.960446459241211
+"982",2018-10-22,"Atlanta Falcons","New York Giants",1.45,1.4,3.1,2.8,23,20,-0.0201616957783699,-1.13394412398338
+"983",2018-10-21,"San Francisco 49ers","Los Angeles Rams",4.25,5.25,1.18,1.23,10,39,0,0.956756898434833
+"984",2018-10-21,"Washington Redskins","Dallas Cowboys",2.05,1.8,2.05,1.8,20,17,0,0.824368692468852
+"985",2018-10-21,"Baltimore Ravens","New Orleans Saints",1.68,1.76,2.1,2.25,23,24,1.83366191375535,0
+"986",2018-10-21,"Chicago Bears","New England Patriots",2.05,2.45,1.6,1.8,31,38,0,-0.477893599658273
+"987",2018-10-21,"Indianapolis Colts","Buffalo Bills",1.33,1.26,4,3.4,37,5,0.196535170078278,-0.90637821611017
+"988",2018-10-21,"Jacksonville Jaguars","Houston Texans",1.54,1.47,2.75,2.65,7,20,-0.55290175974369,0.986142246052623
+"989",2018-10-21,"Kansas City Chiefs","Cincinnati Bengals",1.4,1.38,3.15,3.05,45,10,0.332424819469452,0
+"990",2018-10-21,"Miami Dolphins","Detroit Lions",2.4,2.3,1.66,1.62,21,32,-0.960446459241211,0
+"991",2018-10-21,"New York Jets","Minnesota Vikings",2.6,2.5,1.58,1.55,17,37,0.0780084898578934,0.689433813095093
+"992",2018-10-21,"Philadelphia Eagles","Carolina Panthers",1.43,1.5,2.7,2.9,17,21,0,0
+"993",2018-10-21,"Tampa Bay Buccaneers","Cleveland Browns",1.55,1.62,2.4,2.6,26,23,0,-1.05556031188462
+"994",2018-10-21,"Los Angeles Chargers","Tennessee Titans",1.33,1.37,3.2,3.4,20,19,0.704773256089538,-0.482359524816275
+"995",2018-10-18,"Arizona Cardinals","Denver Broncos",1.95,2.1,1.76,1.86,10,45,0,-0.748155079782009
+"996",2018-10-15,"Green Bay Packers","San Francisco 49ers",1.23,1.23,4.25,4.25,33,30,1.33151808939874,-0.874013470485806
+"997",2018-10-14,"New England Patriots","Kansas City Chiefs",1.47,1.57,2.55,2.75,43,40,0,0.966467145830393
+"998",2018-10-14,"Dallas Cowboys","Jacksonville Jaguars",2.55,2.3,1.66,1.57,40,7,-0.952035799622536,0
+"999",2018-10-14,"Tennessee Titans","Baltimore Ravens",2.15,2.2,1.71,1.74,0,21,0,0.995251876767725
+"1000",2018-10-14,"Denver Broncos","Los Angeles Rams",3.7,3.6,1.31,1.29,20,23,-0.748155079782009,1.45172209409066
+"1001",2018-10-14,"Oakland Raiders","Seattle Seahawks",2.4,2.3,1.66,1.62,3,27,0,0
+"1002",2018-10-14,"Atlanta Falcons","Tampa Bay Buccaneers",1.58,1.6,2.45,2.5,34,29,-0.0373664200305938,0
+"1003",2018-10-14,"Cincinnati Bengals","Pittsburgh Steelers",1.8,1.74,2.15,2.05,21,28,0,-0.968481367453933
+"1004",2018-10-14,"Cleveland Browns","Los Angeles Chargers",1.9,2.05,1.8,1.9,14,38,1.691893896088,0
+"1005",2018-10-14,"Houston Texans","Buffalo Bills",1.2,1.22,4.5,4.75,20,13,0,-0.625033646821976
+"1006",2018-10-14,"Miami Dolphins","Chicago Bears",3.75,2.35,1.64,1.28,31,28,0,0
+"1007",2018-10-14,"Minnesota Vikings","Arizona Cardinals",1.18,1.19,5,5.25,27,17,0.723338589072227,0.978953613899648
+"1008",2018-10-14,"New York Jets","Indianapolis Colts",1.71,1.74,2.15,2.2,42,34,3.18718387559056,0
+"1009",2018-10-14,"Washington Redskins","Carolina Panthers",2,1.83,2,1.83,23,17,0,0.743170537054539
+"1010",2018-10-11,"New York Giants","Philadelphia Eagles",2.1,2.35,1.64,1.76,13,34,0.990267349639908,-1.97775075712707
+"1011",2018-10-08,"New Orleans Saints","Washington Redskins",1.37,1.36,3.25,3.2,43,19,0.903743117582053,0
+"1012",2018-10-07,"Houston Texans","Dallas Cowboys",1.55,1.57,2.55,2.6,19,16,0,-0.952035799622536
+"1013",2018-10-07,"Philadelphia Eagles","Minnesota Vikings",1.54,1.62,2.4,2.65,21,23,-0.0064480751752853,0
+"1014",2018-10-07,"Seattle Seahawks","Los Angeles Rams",3.8,3.7,1.29,1.27,31,33,-1.88698482012842,0
+"1015",2018-10-07,"San Francisco 49ers","Arizona Cardinals",1.6,1.47,2.75,2.45,18,28,0,0
+"1016",2018-10-07,"Los Angeles Chargers","Oakland Raiders",1.43,1.41,3,2.9,26,10,-0.808947280864231,0
+"1017",2018-10-07,"Buffalo Bills","Tennessee Titans",3.15,2.55,1.57,1.38,13,12,0,0
+"1018",2018-10-07,"Carolina Panthers","New York Giants",1.34,1.35,3.3,3.35,33,31,0,-0.991339673986658
+"1019",2018-10-07,"Cincinnati Bengals","Miami Dolphins",1.37,1.41,3,3.2,27,17,-0.770383032504469,0.947341226041317
+"1020",2018-10-07,"Cleveland Browns","Baltimore Ravens",2.6,2.25,1.68,1.55,12,9,-1.79148768819869,0.164615571498871
+"1021",2018-10-07,"Detroit Lions","Green Bay Packers",1.83,2.05,1.8,2,31,23,-0.924282477004454,0.886870780959725
+"1022",2018-10-07,"Kansas City Chiefs","Jacksonville Jaguars",1.64,1.57,2.55,2.35,30,14,0,-0.454311815090477
+"1023",2018-10-07,"New York Jets","Denver Broncos",2,1.74,2.15,1.83,34,16,0.289000440388918,0.612248569726944
+"1024",2018-10-07,"Pittsburgh Steelers","Atlanta Falcons",1.55,1.54,2.65,2.6,41,17,0.584983289241791,0
+"1025",2018-10-04,"New England Patriots","Indianapolis Colts",1.14,1.2,4.75,6,38,24,2.3568211782258,0.946600160095841
+"1026",2018-10-01,"Denver Broncos","Kansas City Chiefs",2.85,2.6,1.55,1.44,23,27,-0.960173876024783,0
+"1027",2018-09-30,"Pittsburgh Steelers","Baltimore Ravens",1.62,1.6,2.45,2.4,14,26,0.193900018930435,0
+"1028",2018-09-30,"Los Angeles Chargers","San Francisco 49ers",1.18,1.22,4.5,5.25,29,27,0.731318840757012,-1.89262962900102
+"1029",2018-09-30,"New York Giants","New Orleans Saints",2.55,2.55,1.57,1.57,18,33,-0.912036277353764,-0.986329925246537
+"1030",2018-09-30,"Arizona Cardinals","Seattle Seahawks",2.7,2.4,1.62,1.5,17,20,0,-1.87438705842942
+"1031",2018-09-30,"Oakland Raiders","Cleveland Browns",1.71,1.66,2.3,2.2,45,42,0,1.32676753681153
+"1032",2018-09-30,"Atlanta Falcons","Cincinnati Bengals",1.54,1.41,3,2.65,36,37,0,0
+"1033",2018-09-30,"Chicago Bears","Tampa Bay Buccaneers",1.64,1.62,2.4,2.35,48,10,0,-0.0573775740340354
+"1034",2018-09-30,"Dallas Cowboys","Detroit Lions",1.74,1.6,2.45,2.15,26,24,0.321225720981602,0
+"1035",2018-09-30,"Green Bay Packers","Buffalo Bills",1.25,1.25,4.2,4.2,22,0,0,-0.663679227232933
+"1036",2018-09-30,"Indianapolis Colts","Houston Texans",1.9,1.74,2.15,1.9,34,37,0,0
+"1037",2018-09-30,"Jacksonville Jaguars","New York Jets",1.27,1.25,4.1,3.8,31,12,0,0.564585391432047
+"1038",2018-09-30,"New England Patriots","Miami Dolphins",1.31,1.31,3.6,3.6,38,7,-1.31764884665608,0.852205898612738
+"1039",2018-09-30,"Tennessee Titans","Philadelphia Eagles",2.35,2.5,1.58,1.64,26,23,-0.769514203071594,0.14060166478157
+"1040",2018-09-27,"Los Angeles Rams","Minnesota Vikings",1.3,1.37,3.2,3.65,38,31,1.874787906243,-2.37228279793635
+"1041",2018-09-24,"Tampa Bay Buccaneers","Pittsburgh Steelers",1.8,2.15,1.74,2.05,27,30,-0.0836439095437527,-2.42801372980466
+"1042",2018-09-23,"Detroit Lions","New England Patriots",3.4,3.2,1.37,1.33,26,10,-0.880497664213181,0.237729522865266
+"1043",2018-09-23,"Arizona Cardinals","Chicago Bears",3.15,3.2,1.37,1.38,14,16,-0.926647372543812,1.8221354149282
+"1044",2018-09-23,"Seattle Seahawks","Dallas Cowboys",1.83,1.83,2,2,24,13,-0.802382506430149,1.76030070672277
+"1045",2018-09-23,"Los Angeles Rams","Los Angeles Chargers",1.29,1.36,3.25,3.7,35,23,1.52969644218683,0.974757528863847
+"1046",2018-09-23,"Atlanta Falcons","New Orleans Saints",1.76,1.62,2.4,2.1,37,43,-0.677221559453756,0
+"1047",2018-09-23,"Baltimore Ravens","Denver Broncos",1.43,1.43,2.9,2.9,27,14,-0.949630578164943,0.0764358714222908
+"1048",2018-09-23,"Carolina Panthers","Cincinnati Bengals",1.68,1.58,2.5,2.25,31,21,0,-0.675561916083097
+"1049",2018-09-23,"Houston Texans","New York Giants",1.4,1.37,3.2,3.1,22,27,0,0
+"1050",2018-09-23,"Jacksonville Jaguars","Tennessee Titans",1.2,1.2,4.75,4.75,6,9,-0.396787507459521,0
+"1051",2018-09-23,"Kansas City Chiefs","San Francisco 49ers",1.38,1.4,3.1,3.15,38,27,0.58941064029932,0
+"1052",2018-09-23,"Miami Dolphins","Oakland Raiders",1.66,1.62,2.4,2.3,28,20,0.597465975210071,0
+"1053",2018-09-23,"Minnesota Vikings","Buffalo Bills",1.05,1.07,9.5,11,6,27,-1.12111319461837,-1.46284817904234
+"1054",2018-09-23,"Philadelphia Eagles","Indianapolis Colts",1.33,1.34,3.35,3.4,20,16,-0.787022176140454,0.975831384770572
+"1055",2018-09-23,"Washington Redskins","Green Bay Packers",2.2,2.3,1.66,1.71,31,17,0,0.354889050126076
+"1056",2018-09-20,"Cleveland Browns","New York Jets",1.57,1.62,2.4,2.55,21,17,-2.7672227662988,0
+"1057",2018-09-17,"Chicago Bears","Seattle Seahawks",1.47,1.57,2.55,2.75,24,17,0,-0.802382506430149
+"1058",2018-09-16,"Dallas Cowboys","New York Giants",1.66,1.58,2.5,2.3,20,13,0.517903581261635,-0.981418839772232
+"1059",2018-09-16,"Denver Broncos","Oakland Raiders",1.4,1.4,3.05,3.1,20,19,0.875384835992008,0
+"1060",2018-09-16,"Jacksonville Jaguars","New England Patriots",2.1,2.15,1.74,1.76,31,20,0,0.440272927284241
+"1061",2018-09-16,"Los Angeles Rams","Arizona Cardinals",1.12,1.18,5.25,6.5,34,0,1.78341125231236,0.833835005760193
+"1062",2018-09-16,"San Francisco 49ers","Detroit Lions",1.4,1.42,2.95,3.1,30,27,0,0.989118040539324
+"1063",2018-09-16,"Atlanta Falcons","Carolina Panthers",1.41,1.43,2.9,3,31,24,-1.74309715628624,0
+"1064",2018-09-16,"Buffalo Bills","Los Angeles Chargers",3.8,3.75,1.28,1.27,20,31,-0.886754833161831,-0.736494123935699
+"1065",2018-09-16,"Green Bay Packers","Minnesota Vikings",2.1,1.8,2.05,1.76,29,29,-0.559423854574561,-0.147014495916665
+"1066",2018-09-16,"New Orleans Saints","Cleveland Browns",1.2,1.25,4.1,4.75,21,18,-1.64225033670664,-0.972049305681139
+"1067",2018-09-16,"New York Jets","Miami Dolphins",1.58,1.66,2.3,2.5,12,20,-0.388766867108643,-0.976129421964288
+"1068",2018-09-16,"Pittsburgh Steelers","Kansas City Chiefs",1.5,1.42,2.95,2.7,37,42,-2.64139353553765,2.29960985312937
+"1069",2018-09-16,"Tampa Bay Buccaneers","Philadelphia Eagles",2.25,2.5,1.58,1.68,27,21,-0.986565021565184,0
+"1070",2018-09-16,"Tennessee Titans","Houston Texans",2.65,2.1,1.76,1.54,20,17,-0.320418048650026,-0.995035303989425
+"1071",2018-09-16,"Washington Redskins","Indianapolis Colts",1.4,1.41,3,3.1,9,21,0,0
+"1072",2018-09-13,"Cincinnati Bengals","Baltimore Ravens",1.9,1.95,1.86,1.9,34,23,0,0
+"1073",2018-09-10,"Oakland Raiders","Los Angeles Rams",3.2,2.4,1.62,1.37,13,33,0,0
+"1074",2018-09-10,"Detroit Lions","New York Jets",1.31,1.35,3.3,3.55,17,48,0,0.033517223317176
+"1075",2018-09-09,"Green Bay Packers","Chicago Bears",1.33,1.27,3.9,3.4,24,23,-1.1629463925492,2.27718235366046
+"1076",2018-09-09,"Arizona Cardinals","Washington Redskins",1.71,1.9,1.9,2.2,6,24,2.56360987914377,0
+"1077",2018-09-09,"Carolina Panthers","Dallas Cowboys",1.64,1.71,2.2,2.35,16,8,-0.923522140830755,0.388968972489238
+"1078",2018-09-09,"Denver Broncos","Seattle Seahawks",1.57,1.68,2.25,2.55,27,24,-0.708819895982742,0.419024310889654
+"1079",2018-09-09,"Los Angeles Chargers","Kansas City Chiefs",1.55,1.55,2.6,2.6,28,38,0.839179210364819,0.97194803878665
+"1080",2018-09-09,"Baltimore Ravens","Buffalo Bills",1.26,1.36,3.25,4,47,3,-0.950140990316868,0
+"1081",2018-09-09,"Cleveland Browns","Pittsburgh Steelers",2.55,3.05,1.4,1.57,21,21,1.65054572559893,-1.20065123436507
+"1082",2018-09-09,"Indianapolis Colts","Cincinnati Bengals",1.95,1.55,2.6,1.86,23,34,0,0.977116705849767
+"1083",2018-09-09,"Miami Dolphins","Tennessee Titans",1.9,2.05,1.8,1.9,27,20,0,0
+"1084",2018-09-09,"Minnesota Vikings","San Francisco 49ers",1.36,1.4,3.05,3.25,24,16,0,-1.77350244461559
+"1085",2018-09-09,"New England Patriots","Houston Texans",1.4,1.35,3.3,3.1,27,20,0.988058745861053,0
+"1086",2018-09-09,"New Orleans Saints","Tampa Bay Buccaneers",1.19,1.23,4.25,5,40,48,-1.76811931468546,0.961648156866431
+"1087",2018-09-09,"New York Giants","Jacksonville Jaguars",2.25,2.45,1.6,1.68,15,20,-0.770325303077698,0.619463999988511
+"1088",2018-09-06,"Philadelphia Eagles","Atlanta Falcons",1.9,1.54,2.65,1.9,18,12,-0.846594525501132,0
+"1089",2018-02-04,"New England Patriots","Philadelphia Eagles",1.495,1.425,3.1,2.81,33,41,1.38299809838645,4.84011578792706
+"1090",2018-01-21,"Philadelphia Eagles","Minnesota Vikings",2.31,2.53,1.588,1.689,38,7,1.97200197796337,-0.0545382506679743
+"1091",2018-01-21,"New England Patriots","Jacksonville Jaguars",1.307,1.25,4.46,3.85,24,20,1.21546581969596,4.612540604081
+"1092",2018-01-14,"Minnesota Vikings","New Orleans Saints",1.432,1.529,2.7,3.06,29,24,0,0.975066608050838
+"1093",2018-01-14,"Pittsburgh Steelers","Jacksonville Jaguars",1.357,1.317,3.77,3.48,42,45,0,1.84291632383247
+"1094",2018-01-13,"New England Patriots","Tennessee Titans",1.117,1.117,7.44,7.44,35,14,0,0.648190774954855
+"1095",2018-01-13,"Philadelphia Eagles","Atlanta Falcons",2.21,2.29,1.699,1.746,15,10,0.967024175450206,0.96462491271086
+"1096",2018-01-07,"New Orleans Saints","Carolina Panthers",1.377,1.413,3.16,3.35,31,26,0,0.840238714590669
+"1097",2018-01-07,"Jacksonville Jaguars","Buffalo Bills",1.25,1.289,4.01,4.46,10,3,0.825973238795996,-0.850436184555292
+"1098",2018-01-06,"Los Angeles Rams","Atlanta Falcons",1.384,1.434,3.05,3.31,13,26,0,0.967062758281827
+"1099",2018-01-06,"Kansas City Chiefs","Tennessee Titans",1.235,1.312,3.81,4.65,21,22,0,0.236748151481151
+"1100",2017-12-31,"Denver Broncos","Kansas City Chiefs",1.588,1.558,2.61,2.5,24,27,0,0.273516476154327
+"1101",2017-12-31,"Los Angeles Chargers","Oakland Raiders",1.312,1.263,4.3,3.81,30,10,0,0
+"1102",2017-12-31,"Los Angeles Rams","San Francisco 49ers",3.3,1.526,2.71,1.377,13,34,1.91500278608873,1.11801584181376
+"1103",2017-12-31,"Seattle Seahawks","Arizona Cardinals",1.27,1.298,3.93,4.22,24,26,0.985590880736709,0.139953091740608
+"1104",2017-12-31,"Atlanta Falcons","Carolina Panthers",1.444,1.505,2.78,3.01,22,10,0.263968601822853,1.35795802995563
+"1105",2017-12-31,"Baltimore Ravens","Cincinnati Bengals",1.273,1.227,4.77,4.18,27,31,0,0.320433467626572
+"1106",2017-12-31,"Detroit Lions","Green Bay Packers",1.317,1.307,3.85,3.77,35,11,0,0
+"1107",2017-12-31,"Indianapolis Colts","Houston Texans",1.434,1.495,2.81,3.01,22,13,0,-0.802904302254319
+"1108",2017-12-31,"Miami Dolphins","Buffalo Bills",2.2,2.34,1.675,1.751,16,22,0,0
+"1109",2017-12-31,"Minnesota Vikings","Chicago Bears",1.125,1.148,6.52,7.13,23,10,0,0.829572984483093
+"1110",2017-12-31,"New England Patriots","New York Jets",1.071,1.076,9.5,9.51,26,6,1.59987646760419,0.926455233246088
+"1111",2017-12-31,"New York Giants","Washington Redskins",2.91,2.58,1.571,1.458,18,10,0,0
+"1112",2017-12-31,"Philadelphia Eagles","Dallas Cowboys",2.71,2.4,1.645,1.515,0,6,0,0
+"1113",2017-12-31,"Pittsburgh Steelers","Cleveland Browns",1.471,1.111,7.47,2.86,28,24,-1.64396637299797,0.0425917303655297
+"1114",2017-12-31,"Tampa Bay Buccaneers","New Orleans Saints",3.31,3.73,1.322,1.384,31,24,0,0.830277055501938
+"1115",2017-12-31,"Tennessee Titans","Jacksonville Jaguars",1.719,1.526,2.71,2.26,15,10,0,0
+"1116",2017-12-25,"Philadelphia Eagles","Oakland Raiders",1.222,1.263,4.3,4.85,19,10,0,0
+"1117",2017-12-25,"Houston Texans","Pittsburgh Steelers",4.46,4.46,1.25,1.25,6,34,0,-1.65405350184301
+"1118",2017-12-24,"Arizona Cardinals","New York Giants",1.578,1.512,2.75,2.56,23,0,0,0
+"1119",2017-12-24,"Dallas Cowboys","Seattle Seahawks",1.495,1.495,2.81,2.81,12,21,0.982785626198165,-0.447412282926962
+"1120",2017-12-24,"San Francisco 49ers","Jacksonville Jaguars",2.86,2.75,1.512,1.48,44,33,0,0.918157274834812
+"1121",2017-12-24,"Carolina Panthers","Tampa Bay Buccaneers",1.222,1.25,4.46,4.85,22,19,-2.69243433047086,0
+"1122",2017-12-24,"Chicago Bears","Cleveland Browns",1.434,1.384,3.31,3.05,20,3,0,-0.849703263491392
+"1123",2017-12-24,"Cincinnati Bengals","Detroit Lions",2.53,2.86,1.48,1.588,26,17,0.623265699483454,0
+"1124",2017-12-24,"Kansas City Chiefs","Miami Dolphins",1.2,1.25,4.46,5.23,29,13,1.812358979485,0
+"1125",2017-12-24,"New England Patriots","Buffalo Bills",1.196,1.181,5.61,5.31,37,16,0.933869620785117,0
+"1126",2017-12-24,"New Orleans Saints","Atlanta Falcons",1.434,1.423,3.11,3.05,23,13,0,0.965683894930407
+"1127",2017-12-24,"New York Jets","Los Angeles Chargers",3.64,3.48,1.357,1.333,7,14,0,0
+"1128",2017-12-24,"Tennessee Titans","Los Angeles Rams",3.05,3.39,1.37,1.434,23,27,0,1.97025300277164
+"1129",2017-12-24,"Washington Redskins","Denver Broncos",1.609,1.564,2.59,2.48,27,11,0,0
+"1130",2017-12-23,"Green Bay Packers","Minnesota Vikings",4.38,4.3,1.263,1.256,0,16,2.65405572764575,0
+"1131",2017-12-23,"Baltimore Ravens","Indianapolis Colts",1.125,1.125,7.38,7.38,23,16,0,0
+"1132",2017-12-18,"Tampa Bay Buccaneers","Atlanta Falcons",3.81,3.22,1.4,1.312,21,24,-0.879983926191926,0
+"1133",2017-12-17,"Oakland Raiders","Dallas Cowboys",2.34,2.27,1.714,1.675,17,20,0,-0.753490000963211
+"1134",2017-12-17,"Pittsburgh Steelers","New England Patriots",2.18,2.11,1.813,1.769,24,27,0,2.12058631097898
+"1135",2017-12-17,"San Francisco 49ers","Tennessee Titans",1.746,1.8,2.13,2.21,25,23,1.96601336484309,0
+"1136",2017-12-17,"Seattle Seahawks","Los Angeles Rams",1.952,1.826,2.1,1.952,7,42,0.416976064443588,0
+"1137",2017-12-17,"Buffalo Bills","Miami Dolphins",1.555,1.588,2.53,2.62,24,16,0,0
+"1138",2017-12-17,"Carolina Panthers","Green Bay Packers",1.689,1.735,2.23,2.31,31,24,-0.983953067217953,0.832612726371736
+"1139",2017-12-17,"Cleveland Browns","Baltimore Ravens",3.35,3.64,1.333,1.377,10,27,0.323734234087169,0
+"1140",2017-12-17,"Jacksonville Jaguars","Houston Texans",1.2,1.166,5.98,5.23,45,7,1.16014858568087,0.906338537111878
+"1141",2017-12-17,"Minnesota Vikings","Cincinnati Bengals",1.153,1.181,5.61,6.34,34,7,0,0
+"1142",2017-12-17,"New Orleans Saints","New York Jets",1.09,1.08,10.16,8.89,31,19,0,0
+"1143",2017-12-17,"New York Giants","Philadelphia Eagles",3.73,3.89,1.303,1.322,29,34,-0.0333192171528934,1.59268394880928
+"1144",2017-12-17,"Washington Redskins","Arizona Cardinals",1.502,1.48,2.86,2.79,20,15,0,0
+"1145",2017-12-16,"Kansas City Chiefs","Los Angeles Chargers",1.943,2.02,1.884,1.961,30,13,0.981481450609863,0
+"1146",2017-12-16,"Detroit Lions","Chicago Bears",1.434,1.37,3.39,3.05,20,10,0,0.983553324826062
+"1147",2017-12-14,"Indianapolis Colts","Denver Broncos",2.35,2.12,1.806,1.671,13,25,0,0
+"1148",2017-12-11,"Miami Dolphins","New England Patriots",5.16,5.31,1.196,1.204,27,20,0,0.940375847741962
+"1149",2017-12-10,"Pittsburgh Steelers","Baltimore Ravens",1.409,1.444,3.01,3.17,39,38,-0.657253769226372,0
+"1150",2017-12-10,"Los Angeles Rams","Philadelphia Eagles",1.952,1.793,2.14,1.952,35,43,-0.0390710830688476,0.518373604863882
+"1151",2017-12-10,"New York Giants","Dallas Cowboys",2.81,2.75,1.512,1.495,10,30,0.589200731250458,0
+"1152",2017-12-10,"Arizona Cardinals","Tennessee Titans",2.29,2.36,1.666,1.699,12,7,0,0
+"1153",2017-12-10,"Denver Broncos","New York Jets",1.943,1.97,1.934,1.961,23,0,0,0
+"1154",2017-12-10,"Los Angeles Chargers","Washington Redskins",1.377,1.392,3.27,3.35,30,13,0.993516069487669,0
+"1155",2017-12-10,"Buffalo Bills","Indianapolis Colts",1.555,1.68,2.33,2.62,13,7,0,0
+"1156",2017-12-10,"Carolina Panthers","Minnesota Vikings",2.18,2.26,1.719,1.769,31,24,0,0.95695510879159
+"1157",2017-12-10,"Cincinnati Bengals","Chicago Bears",1.384,1.384,3.31,3.31,7,33,0,0.428574804216623
+"1158",2017-12-10,"Cleveland Browns","Green Bay Packers",2.18,2.49,1.606,1.769,21,27,0,-0.548044759780169
+"1159",2017-12-10,"Houston Texans","San Francisco 49ers",1.813,1.671,2.35,2.11,16,26,0,0.996738091169391
+"1160",2017-12-10,"Jacksonville Jaguars","Seattle Seahawks",1.689,1.675,2.34,2.31,30,24,0.835799489170313,0
+"1161",2017-12-10,"Kansas City Chiefs","Oakland Raiders",1.478,1.51,2.76,2.87,26,15,0,0
+"1162",2017-12-10,"Tampa Bay Buccaneers","Detroit Lions",2.11,2.37,1.657,1.813,21,24,0,0
+"1163",2017-12-07,"Atlanta Falcons","New Orleans Saints",1.769,2.04,1.869,2.18,20,17,1.37947059591534,0.653435779735446
+"1164",2017-12-04,"Cincinnati Bengals","Pittsburgh Steelers",2.9,3.1,1.425,1.471,20,23,0,0
+"1165",2017-12-03,"Seattle Seahawks","Philadelphia Eagles",2.71,3.01,1.444,1.526,24,10,0,0.962183913390618
+"1166",2017-12-03,"Arizona Cardinals","Los Angeles Rams",3.8,3.52,1.35,1.313,16,32,0,-0.0813104696571827
+"1167",2017-12-03,"Oakland Raiders","New York Giants",1.25,1.317,3.77,4.46,24,17,0,0
+"1168",2017-12-03,"Los Angeles Chargers","Cleveland Browns",1.132,1.117,7.71,7.07,19,10,0.993516069487669,2.34816982946359
+"1169",2017-12-03,"Atlanta Falcons","Minnesota Vikings",1.813,1.645,2.4,2.11,9,14,0,0.997990422067232
+"1170",2017-12-03,"Baltimore Ravens","Detroit Lions",1.775,1.699,2.29,2.17,44,20,0,0
+"1171",2017-12-03,"Buffalo Bills","New England Patriots",3.85,4.38,1.256,1.307,3,23,0.997749598347582,0
+"1172",2017-12-03,"Chicago Bears","San Francisco 49ers",1.714,1.546,2.65,2.27,14,15,0.985281227505766,0
+"1173",2017-12-03,"Green Bay Packers","Tampa Bay Buccaneers",1.625,1.74,2.22,2.44,26,20,0.457757558207959,0
+"1174",2017-12-03,"Jacksonville Jaguars","Indianapolis Colts",1.227,1.243,4.54,4.77,30,10,0.719825124368072,0.0615103524178266
+"1175",2017-12-03,"Miami Dolphins","Denver Broncos",2.06,1.99,1.917,1.854,35,9,0,0
+"1176",2017-12-03,"New Orleans Saints","Carolina Panthers",1.403,1.487,2.84,3.21,31,21,0,-0.690342850983143
+"1177",2017-12-03,"New York Jets","Kansas City Chiefs",2.7,2.46,1.617,1.529,38,31,-0.694763839244843,-0.996790752396919
+"1178",2017-12-03,"Tennessee Titans","Houston Texans",1.35,1.357,3.48,3.52,24,13,0,0
+"1179",2017-11-30,"Dallas Cowboys","Washington Redskins",2.1,1.833,2.09,1.826,38,14,-0.762556985020638,0
+"1180",2017-11-27,"Baltimore Ravens","Houston Texans",1.277,1.333,3.64,4.14,23,16,0,0
+"1181",2017-11-26,"Pittsburgh Steelers","Green Bay Packers",1.113,1.117,7.71,7.91,31,28,0,-0.844370902050287
+"1182",2017-11-26,"Arizona Cardinals","Jacksonville Jaguars",3.2,2.94,1.46,1.404,27,24,0,0
+"1183",2017-11-26,"Oakland Raiders","Denver Broncos",1.495,1.444,3.01,2.81,21,14,0,-0.996329239103943
+"1184",2017-11-26,"Los Angeles Rams","New Orleans Saints",1.699,1.709,2.28,2.29,26,20,0,0.155790686607361
+"1185",2017-11-26,"San Francisco 49ers","Seattle Seahawks",3.52,3.48,1.357,1.35,13,24,0,0.991123038576916
+"1186",2017-11-26,"Atlanta Falcons","Tampa Bay Buccaneers",1.212,1.25,4.46,5,34,20,0,0
+"1187",2017-11-26,"Cincinnati Bengals","Cleveland Browns",1.307,1.27,4.22,3.85,30,16,0,-0.0144296288490295
+"1188",2017-11-26,"Indianapolis Colts","Tennessee Titans",2.55,2.59,1.564,1.581,16,20,0,0
+"1189",2017-11-26,"Kansas City Chiefs","Buffalo Bills",1.277,1.222,4.85,4.14,10,16,1.51207850442734,0
+"1190",2017-11-26,"New England Patriots","Miami Dolphins",1.076,1.071,10.44,9.94,35,17,0.909616630524397,-0.970192352309823
+"1191",2017-11-26,"New York Jets","Carolina Panthers",3.11,2.75,1.512,1.421,27,35,-0.694763839244843,-0.488689571619034
+"1192",2017-11-26,"Philadelphia Eagles","Chicago Bears",1.129,1.117,7.71,7.18,31,3,0.946986109483987,0
+"1193",2017-11-23,"Washington Redskins","New York Giants",1.322,1.327,3.69,3.73,20,10,0,-0.554243650054559
+"1194",2017-11-23,"Dallas Cowboys","Los Angeles Chargers",2.02,2.21,1.746,1.884,6,28,-0.61073218495585,0.984109682729468
+"1195",2017-11-23,"Detroit Lions","Minnesota Vikings",2.22,2.16,1.781,1.74,23,30,0.96577185485512,1.38732430804521
+"1196",2017-11-20,"Seattle Seahawks","Atlanta Falcons",1.943,1.645,2.4,1.961,31,34,0,0
+"1197",2017-11-19,"Dallas Cowboys","Philadelphia Eagles",3.13,2.49,1.606,1.418,9,37,0,1.83911399752833
+"1198",2017-11-19,"Denver Broncos","Cincinnati Bengals",1.699,1.714,2.27,2.29,17,20,0,0
+"1199",2017-11-19,"Oakland Raiders","New England Patriots",3.6,3.52,1.35,1.338,8,33,0,0
+"1200",2017-11-19,"Los Angeles Chargers","Buffalo Bills",1.333,1.416,3.14,3.64,54,24,0,0
+"1201",2017-11-19,"Chicago Bears","Detroit Lions",2.44,2.36,1.666,1.625,24,27,0,0.96577185485512
+"1202",2017-11-19,"Cleveland Browns","Jacksonville Jaguars",3.64,4.1,1.281,1.333,7,19,0,0.893344984157011
+"1203",2017-11-19,"Green Bay Packers","Baltimore Ravens",2.2,2.06,1.854,1.751,0,23,-0.418227791786194,0
+"1204",2017-11-19,"Houston Texans","Arizona Cardinals",1.751,1.854,2.06,2.2,31,21,0,0
+"1205",2017-11-19,"Miami Dolphins","Tampa Bay Buccaneers",2.03,2.03,1.877,1.877,20,30,-0.970192352309823,0
+"1206",2017-11-19,"Minnesota Vikings","Los Angeles Rams",1.84,1.74,2.22,2.08,24,7,0.364806205034256,0.987031366094016
+"1207",2017-11-19,"New Orleans Saints","Washington Redskins",1.263,1.277,4.14,4.3,34,31,2.96545798404259,0
+"1208",2017-11-19,"New York Giants","Kansas City Chiefs",4.54,4.54,1.243,1.243,12,9,-1.50639601447619,-1.60645445715636
+"1209",2017-11-16,"Pittsburgh Steelers","Tennessee Titans",1.322,1.344,3.56,3.73,40,17,0.859025493264198,-0.863582968711853
+"1210",2017-11-13,"Carolina Panthers","Miami Dolphins",1.266,1.25,4.46,4.26,45,21,0,0
+"1211",2017-11-12,"Denver Broncos","New England Patriots",3.48,3.73,1.322,1.357,16,41,0,0
+"1212",2017-11-12,"Atlanta Falcons","Dallas Cowboys",1.54,1.641,2.41,2.66,27,7,0,0
+"1213",2017-11-12,"San Francisco 49ers","New York Giants",2.44,1.854,2.06,1.625,31,21,1.65632222639397,-1.75726495456183
+"1214",2017-11-12,"Los Angeles Rams","Houston Texans",1.153,1.176,5.72,6.34,33,7,0.988840995822102,0
+"1215",2017-11-12,"Buffalo Bills","New Orleans Saints",2.15,2.15,1.787,1.787,10,47,0,0
+"1216",2017-11-12,"Chicago Bears","Green Bay Packers",1.469,1.467,2.92,2.91,16,23,-0.689632304012775,0
+"1217",2017-11-12,"Detroit Lions","Cleveland Browns",1.222,1.148,6.52,4.85,38,24,0,0.998334150644951
+"1218",2017-11-12,"Indianapolis Colts","Pittsburgh Steelers",5.16,4.85,1.222,1.204,17,20,0,0.859025493264198
+"1219",2017-11-12,"Jacksonville Jaguars","Los Angeles Chargers",1.465,1.495,2.81,2.93,20,17,0.0039329174906015,0
+"1220",2017-11-12,"Tampa Bay Buccaneers","New York Jets",1.847,2.21,1.746,2.07,15,10,0,0
+"1221",2017-11-12,"Tennessee Titans","Cincinnati Bengals",1.467,1.425,3.1,2.92,24,20,0,0
+"1222",2017-11-12,"Washington Redskins","Minnesota Vikings",1.952,2.02,1.884,1.952,30,38,0,0
+"1223",2017-11-09,"Arizona Cardinals","Seattle Seahawks",3.22,3.1,1.425,1.4,16,22,0,0
+"1224",2017-11-06,"Green Bay Packers","Detroit Lions",2.18,2.29,1.699,1.769,17,30,0,0
+"1225",2017-11-05,"Miami Dolphins","Oakland Raiders",2.44,2.22,1.74,1.625,24,27,0.887527473270893,0
+"1226",2017-11-05,"Dallas Cowboys","Kansas City Chiefs",1.746,2.02,1.884,2.21,28,17,0,0
+"1227",2017-11-05,"San Francisco 49ers","Arizona Cardinals",2.18,2.21,1.746,1.769,10,20,0.504235118627548,0
+"1228",2017-11-05,"Seattle Seahawks","Washington Redskins",1.256,1.317,3.77,4.38,14,17,0.920586569263833,0
+"1229",2017-11-05,"Carolina Panthers","Atlanta Falcons",2.36,1.793,2.14,1.666,20,17,0,0
+"1230",2017-11-05,"Houston Texans","Indianapolis Colts",1.395,1.149,6.48,3.25,14,20,-0.455162096535787,0
+"1231",2017-11-05,"Jacksonville Jaguars","Cincinnati Bengals",1.423,1.487,2.84,3.11,23,7,0,0
+"1232",2017-11-05,"New Orleans Saints","Tampa Bay Buccaneers",1.333,1.333,3.64,3.64,30,10,1.82266351161525,0
+"1233",2017-11-05,"New York Giants","Los Angeles Rams",3.16,2.62,1.555,1.413,17,51,0,-0.0094901844859123
+"1234",2017-11-05,"Philadelphia Eagles","Denver Broncos",1.344,1.273,4.18,3.56,51,23,1.59772060997784,0
+"1235",2017-11-05,"Tennessee Titans","Baltimore Ravens",1.598,1.588,2.53,2.51,23,20,0,0
+"1236",2017-11-02,"New York Jets","Buffalo Bills",2.58,2.44,1.625,1.571,34,21,0,1.27740711113438
+"1237",2017-10-30,"Kansas City Chiefs","Denver Broncos",1.334,1.34,3.59,3.64,29,19,0,0
+"1238",2017-10-29,"Detroit Lions","Pittsburgh Steelers",2.53,2.38,1.653,1.588,15,20,0,-0.960041222162545
+"1239",2017-10-29,"Washington Redskins","Dallas Cowboys",2.44,2.21,1.746,1.625,19,33,0,1.15509365801699
+"1240",2017-10-29,"Seattle Seahawks","Houston Texans",1.4,1.4,3.22,3.22,41,38,0.276352882385254,-2.38651769724675
+"1241",2017-10-29,"Buffalo Bills","Oakland Raiders",1.787,1.735,2.23,2.15,34,14,0,0
+"1242",2017-10-29,"Cincinnati Bengals","Indianapolis Colts",1.21,1.2,5.23,5.04,24,23,0,-0.629565602168441
+"1243",2017-10-29,"New England Patriots","Los Angeles Chargers",1.37,1.307,3.85,3.39,21,13,0,0
+"1244",2017-10-29,"New Orleans Saints","Chicago Bears",1.285,1.281,4.1,4.05,20,12,0.979698003502563,0
+"1245",2017-10-29,"New York Jets","Atlanta Falcons",3.5,2.75,1.512,1.353,20,25,0,-0.997699527244549
+"1246",2017-10-29,"Philadelphia Eagles","San Francisco 49ers",1.136,1.142,6.69,6.9,33,10,-0.994640899589285,0
+"1247",2017-10-29,"Tampa Bay Buccaneers","Carolina Panthers",1.806,1.751,2.2,2.12,3,17,0,-0.99881128926063
+"1248",2017-10-29,"Cleveland Browns","Minnesota Vikings",5.39,4.18,1.273,1.192,16,33,0,-0.701324033550918
+"1249",2017-10-26,"Baltimore Ravens","Miami Dolphins",1.653,1.598,2.51,2.38,40,0,0,0
+"1250",2017-10-23,"Philadelphia Eagles","Washington Redskins",1.434,1.458,2.95,3.05,34,24,0,0
+"1251",2017-10-22,"New England Patriots","Atlanta Falcons",1.694,1.526,2.71,2.3,23,7,0.3442643097369,0
+"1252",2017-10-22,"Los Angeles Chargers","Denver Broncos",1.99,2.02,1.884,1.917,21,0,0,-1.53973449105979
+"1253",2017-10-22,"New York Giants","Seattle Seahawks",2.75,3.22,1.4,1.512,7,24,1.79400879342575,0
+"1254",2017-10-22,"San Francisco 49ers","Dallas Cowboys",3.39,3.14,1.416,1.37,10,40,0.781192123889923,0
+"1255",2017-10-22,"Buffalo Bills","Tampa Bay Buccaneers",1.602,1.666,2.36,2.5,30,27,0,0
+"1256",2017-10-22,"Chicago Bears","Carolina Panthers",2.36,2.48,1.609,1.666,17,3,0.99537580832839,0
+"1257",2017-10-22,"Cleveland Browns","Tennessee Titans",3.05,3.05,1.434,1.434,9,12,0.970729633874726,0
+"1258",2017-10-22,"Green Bay Packers","New Orleans Saints",2.66,2.82,1.492,1.54,17,26,0.0946935731917619,0
+"1259",2017-10-22,"Indianapolis Colts","Jacksonville Jaguars",2.41,2.44,1.625,1.641,0,27,-0.029340386390686,0
+"1260",2017-10-22,"Los Angeles Rams","Arizona Cardinals",1.609,1.546,2.65,2.48,33,0,0.948937390232459,0
+"1261",2017-10-22,"Miami Dolphins","New York Jets",1.641,1.621,2.45,2.41,31,28,0,0
+"1262",2017-10-22,"Minnesota Vikings","Baltimore Ravens",1.434,1.425,3.1,3.05,24,16,0,0
+"1263",2017-10-22,"Pittsburgh Steelers","Cincinnati Bengals",1.48,1.427,3.09,2.86,29,14,0.107985407114029,0
+"1264",2017-10-19,"Oakland Raiders","Kansas City Chiefs",2.38,2.29,1.704,1.653,31,30,0,0
+"1265",2017-10-16,"Tennessee Titans","Indianapolis Colts",1.361,1.263,4.3,3.45,36,22,0,0
+"1266",2017-10-15,"Denver Broncos","New York Giants",1.139,1.166,5.98,6.81,10,23,0,-0.985077885910869
+"1267",2017-10-15,"Kansas City Chiefs","Pittsburgh Steelers",1.54,1.526,2.71,2.66,13,19,0.489964721724391,0
+"1268",2017-10-15,"Oakland Raiders","Los Angeles Chargers",1.649,1.54,2.66,2.39,16,17,0,0
+"1269",2017-10-15,"Arizona Cardinals","Tampa Bay Buccaneers",2.21,2.14,1.793,1.746,38,33,0,0.913091700989753
+"1270",2017-10-15,"Jacksonville Jaguars","Los Angeles Rams",1.869,1.699,2.29,2.04,17,27,0,0
+"1271",2017-10-15,"Atlanta Falcons","Miami Dolphins",1.125,1.181,5.61,7.38,17,20,0,0.805699937045574
+"1272",2017-10-15,"Baltimore Ravens","Chicago Bears",1.454,1.37,3.39,2.97,24,27,0,0
+"1273",2017-10-15,"Houston Texans","Cleveland Browns",1.303,1.222,4.85,3.89,33,17,0,0
+"1274",2017-10-15,"Minnesota Vikings","Green Bay Packers",2.36,2.51,1.598,1.666,23,10,0,0.994757340668002
+"1275",2017-10-15,"New Orleans Saints","Detroit Lions",1.434,1.5,2.8,3.05,52,38,0,0
+"1276",2017-10-15,"New York Jets","New England Patriots",4.61,4.85,1.222,1.238,17,24,0,0.086459431797266
+"1277",2017-10-15,"Washington Redskins","San Francisco 49ers",1.181,1.227,4.77,5.61,26,24,0,-0.896691204980016
+"1278",2017-10-12,"Carolina Panthers","Philadelphia Eagles",1.699,1.584,2.54,2.29,23,28,0,0.871452164370567
+"1279",2017-10-09,"Chicago Bears","Minnesota Vikings",2.59,2.25,1.724,1.564,17,20,0.523070188239217,0
+"1280",2017-10-08,"Houston Texans","Kansas City Chiefs",2.16,2.02,1.884,1.781,34,42,0,1.43664787523448
+"1281",2017-10-08,"Dallas Cowboys","Green Bay Packers",1.769,1.769,2.18,2.18,31,35,-1.93824979802594,0
+"1282",2017-10-08,"Los Angeles Rams","Seattle Seahawks",1.751,1.813,2.11,2.2,10,16,0.989815458655357,-0.926756199449301
+"1283",2017-10-08,"Oakland Raiders","Baltimore Ravens",1.645,1.719,2.26,2.4,17,30,0,0
+"1284",2017-10-08,"Cincinnati Bengals","Buffalo Bills",1.645,1.671,2.35,2.4,20,16,-0.538818184286356,0.762665309011936
+"1285",2017-10-08,"Cleveland Browns","New York Jets",2.07,1.806,2.12,1.847,14,17,0.262338496744633,0
+"1286",2017-10-08,"Detroit Lions","Carolina Panthers",1.769,1.649,2.39,2.18,24,27,0.695263909874484,0
+"1287",2017-10-08,"Indianapolis Colts","San Francisco 49ers",1.943,1.854,2.06,1.961,26,23,0.845190037041903,0
+"1288",2017-10-08,"Miami Dolphins","Tennessee Titans",1.869,2.26,1.719,2.04,16,10,0,0
+"1289",2017-10-08,"New York Giants","Los Angeles Chargers",1.625,1.512,2.75,2.44,22,27,0,0
+"1290",2017-10-08,"Philadelphia Eagles","Arizona Cardinals",1.393,1.37,3.39,3.26,34,7,0.968410023138858,0
+"1291",2017-10-08,"Pittsburgh Steelers","Jacksonville Jaguars",1.303,1.256,4.38,3.89,9,30,-0.781140487175435,0
+"1292",2017-10-05,"Tampa Bay Buccaneers","New England Patriots",2.66,3.11,1.421,1.54,14,19,0,0.149174861609936
+"1293",2017-10-02,"Kansas City Chiefs","Washington Redskins",1.371,1.37,3.39,3.39,29,20,0,0
+"1294",2017-10-01,"Seattle Seahawks","Indianapolis Colts",1.125,1.111,8.04,7.38,46,18,0.911521222442388,0
+"1295",2017-10-01,"Denver Broncos","Oakland Raiders",1.54,1.675,2.34,2.66,16,10,0,0
+"1296",2017-10-01,"Arizona Cardinals","San Francisco 49ers",1.393,1.333,3.64,3.26,18,15,0,0
+"1297",2017-10-01,"Los Angeles Chargers","Philadelphia Eagles",1.833,1.9,2.01,2.09,24,26,0,0
+"1298",2017-10-01,"Tampa Bay Buccaneers","New York Giants",1.719,1.598,2.51,2.26,25,23,-0.82965475320816,-0.646621897933074
+"1299",2017-10-01,"Atlanta Falcons","Buffalo Bills",1.27,1.263,4.3,4.22,17,23,0,-0.681649222970009
+"1300",2017-10-01,"Baltimore Ravens","Pittsburgh Steelers",2.66,2.37,1.657,1.54,9,26,0,-0.645951375132427
+"1301",2017-10-01,"Cleveland Browns","Cincinnati Bengals",2.5,2.62,1.555,1.602,7,31,0,0.968635296449065
+"1302",2017-10-01,"Dallas Cowboys","Los Angeles Rams",1.421,1.35,3.52,3.11,30,35,0.938150046393275,0.941907707601786
+"1303",2017-10-01,"Houston Texans","Tennessee Titans",2.27,2.02,1.884,1.714,57,14,0,0.998430406762054
+"1304",2017-10-01,"Minnesota Vikings","Detroit Lions",1.689,1.833,2.09,2.31,7,14,-0.0974387042224407,-0.980617136345245
+"1305",2017-10-01,"New England Patriots","Carolina Panthers",1.222,1.24,4.58,4.85,30,33,0,0
+"1306",2017-10-01,"New York Jets","Jacksonville Jaguars",2.76,2.62,1.555,1.51,23,20,0,0
+"1307",2017-10-01,"Miami Dolphins","New Orleans Saints",2.71,2.25,1.724,1.526,0,20,0,0
+"1308",2017-09-28,"Green Bay Packers","Chicago Bears",1.277,1.317,3.77,4.14,35,14,0,0.0491304695606231
+"1309",2017-09-25,"Arizona Cardinals","Dallas Cowboys",2.35,2.69,1.531,1.671,17,28,0,-0.998528880707454
+"1310",2017-09-24,"Washington Redskins","Oakland Raiders",2.66,2.38,1.653,1.54,27,10,0,0
+"1311",2017-09-24,"Green Bay Packers","Cincinnati Bengals",1.312,1.263,4.3,3.81,27,24,0,0.929628230631352
+"1312",2017-09-24,"Los Angeles Chargers","Kansas City Chiefs",2.31,2.22,1.74,1.689,10,24,-0.982144003268331,1.48112922348082
+"1313",2017-09-24,"Tennessee Titans","Seattle Seahawks",1.787,1.757,2.2,2.15,33,27,0,0
+"1314",2017-09-24,"Buffalo Bills","Denver Broncos",2.59,2.31,1.689,1.564,26,16,0,0.987766711623408
+"1315",2017-09-24,"Carolina Panthers","New Orleans Saints",1.432,1.404,3.2,3.06,13,34,0,-0.958504781126976
+"1316",2017-09-24,"Chicago Bears","Pittsburgh Steelers",3.56,3.85,1.307,1.344,23,17,0,0
+"1317",2017-09-24,"Detroit Lions","Atlanta Falcons",2.46,2.34,1.675,1.617,26,30,0,-0.947307649068534
+"1318",2017-09-24,"Indianapolis Colts","Cleveland Browns",1.925,2.01,1.9,1.98,31,28,0,0.400060579180717
+"1319",2017-09-24,"Minnesota Vikings","Tampa Bay Buccaneers",1.961,2.31,1.689,1.943,34,17,0,0
+"1320",2017-09-24,"New England Patriots","Houston Texans",1.1,1.133,7.04,8.67,36,33,0.964543274603784,0
+"1321",2017-09-24,"New York Jets","Miami Dolphins",3,3.18,1.408,1.446,20,6,0,0
+"1322",2017-09-24,"Philadelphia Eagles","New York Giants",1.434,1.384,3.31,3.05,27,24,0.984361234121025,0.203073227778077
+"1323",2017-09-24,"Jacksonville Jaguars","Baltimore Ravens",2.39,2.71,1.526,1.649,44,7,0,0
+"1324",2017-09-21,"San Francisco 49ers","Los Angeles Rams",2.31,2.15,1.787,1.689,39,41,0,0
+"1325",2017-09-18,"New York Giants","Detroit Lions",1.598,1.495,2.81,2.51,10,24,0,0.998363614256959
+"1326",2017-09-17,"Atlanta Falcons","Green Bay Packers",1.558,1.699,2.29,2.61,34,23,0,1.1901992559433
+"1327",2017-09-17,"Denver Broncos","Dallas Cowboys",2.18,2.11,1.813,1.769,42,17,0,1.67225076118484
+"1328",2017-09-17,"Los Angeles Rams","Washington Redskins",1.617,1.751,2.2,2.46,20,27,0,0
+"1329",2017-09-17,"Seattle Seahawks","San Francisco 49ers",1.125,1.158,6.2,7.38,12,9,0,0.512484163045883
+"1330",2017-09-17,"Los Angeles Chargers","Miami Dolphins",1.54,1.444,3.01,2.66,17,19,0,0
+"1331",2017-09-17,"Oakland Raiders","New York Jets",1.125,1.125,7.38,7.38,45,20,0,0
+"1332",2017-09-17,"Baltimore Ravens","Cleveland Browns",1.312,1.307,3.85,3.81,24,10,0,0
+"1333",2017-09-17,"Carolina Panthers","Buffalo Bills",1.377,1.333,3.64,3.35,9,3,0,0
+"1334",2017-09-17,"Indianapolis Colts","Arizona Cardinals",3.56,3.85,1.307,1.344,13,16,0,0.90319737046957
+"1335",2017-09-17,"Jacksonville Jaguars","Tennessee Titans",2.05,2.06,1.854,1.862,16,37,0.929430067539215,0
+"1336",2017-09-17,"Kansas City Chiefs","Philadelphia Eagles",1.51,1.48,2.86,2.76,27,20,0,0
+"1337",2017-09-17,"New Orleans Saints","New England Patriots",3.11,2.81,1.495,1.423,20,36,0,-0.779486209154129
+"1338",2017-09-17,"Pittsburgh Steelers","Minnesota Vikings",1.277,1.327,3.69,4.14,26,9,0,0.97681095986627
+"1339",2017-09-17,"Tampa Bay Buccaneers","Chicago Bears",1.35,1.35,3.52,3.52,29,7,0,0
+"1340",2017-09-14,"Cincinnati Bengals","Houston Texans",1.454,1.558,2.61,2.97,9,13,0,-0.931046255398542
+"1341",2017-09-11,"Denver Broncos","Los Angeles Chargers",1.689,1.561,2.6,2.31,24,21,0,0
+"1342",2017-09-11,"Minnesota Vikings","New Orleans Saints",1.581,1.531,2.69,2.55,29,19,0,0
+"1343",2017-09-10,"Dallas Cowboys","New York Giants",1.403,1.609,2.48,3.21,19,3,0,0
+"1344",2017-09-10,"Green Bay Packers","Seattle Seahawks",1.724,1.606,2.49,2.25,17,9,0,0.160956459585577
+"1345",2017-09-10,"San Francisco 49ers","Carolina Panthers",2.75,3.31,1.384,1.512,3,23,0,0
+"1346",2017-09-10,"Los Angeles Rams","Indianapolis Colts",1.555,1.54,2.66,2.62,46,9,0.790334984660149,0
+"1347",2017-09-10,"Buffalo Bills","New York Jets",1.303,1.259,4.34,3.89,21,12,0,0
+"1348",2017-09-10,"Chicago Bears","Atlanta Falcons",3.41,3.52,1.35,1.367,17,23,0.95500721083954,0
+"1349",2017-09-10,"Cincinnati Bengals","Baltimore Ravens",1.699,1.699,2.29,2.29,0,20,0,0
+"1350",2017-09-10,"Cleveland Browns","Pittsburgh Steelers",4.73,4.69,1.232,1.229,18,21,0,0
+"1351",2017-09-10,"Detroit Lions","Arizona Cardinals",2.08,2.02,1.884,1.84,35,23,0,0
+"1352",2017-09-10,"Houston Texans","Jacksonville Jaguars",1.48,1.462,2.93,2.86,7,29,0,0
+"1353",2017-09-10,"Tennessee Titans","Oakland Raiders",1.729,1.813,2.11,2.24,16,26,1.63070882577449,0
+"1354",2017-09-10,"Washington Redskins","Philadelphia Eagles",1.98,2.04,1.869,1.925,17,30,0,0
+"1355",2017-09-07,"New England Patriots","Kansas City Chiefs",1.226,1.27,4.22,4.78,27,42,1.51660725846887,0
+"1356",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1357",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1358",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1359",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1360",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1361",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1362",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1363",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1364",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1365",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1366",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1367",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1368",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1369",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1370",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1371",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1372",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1373",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1374",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1375",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1376",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1377",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1378",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1379",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1380",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1381",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1382",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1383",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1384",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1385",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1386",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1387",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1388",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1389",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1390",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1391",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1392",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1393",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1394",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1395",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1396",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1397",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1398",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1399",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1400",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1401",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1402",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1403",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1404",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1405",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1406",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1407",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1408",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1409",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1410",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1411",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1412",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1413",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1414",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1415",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1416",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1417",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1418",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1419",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1420",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1421",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1422",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1423",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1424",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1425",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1426",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"1427",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
